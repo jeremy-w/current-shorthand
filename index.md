@@ -6,4 +6,7 @@ It is truly and entirely lineal, and it looks really darn fancy written with a b
 
 ### The Manual
 - [**The Preface**]({{ "/manual/preface" | relative_url }}) positions Current against Pitman and Gabelsberger/Stolze, enumerates the advantages of Current, and recaps the development of the system. It ends with a downer: everyone Sweet was excited to show the finished, printed version of the shorthand he'd been working on for a decade had died before he got to that point. E-hugs from the future, Señor Sweet. Publishing paid off!
-- (There's more, but it's not typed up yet.)
+- [**Orthographic Current**]({{ "/manual/orthographic" | relative_url }}) describes the orthographic system. The original text is about 25 handwritten pages describing the system followed by 15 pages of example passages demonstrating it at work. It's a simpler system than Phonetic Current (so many fewer vowels!), so it's a good place to start.
+  - The Web version of this is a work in progress.
+- **Phonetic Current** describes the phonetic system. The system is described in around 80 handwritten pages. These are followed by about 13 pages of example texts.
+  - There's no link because I haven't begun typing it up yet.
