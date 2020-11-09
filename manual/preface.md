@@ -11,7 +11,7 @@ to have it read 'common sand was gone,'
 he hesitates to use his hard-won accomplishment except for rough notes which he can transcribe while still fresh in his memory.
 The German systems are better,
 but even they are not perfect:
-many a German student who proudly exhibits his beautifully queen shorthand notes of Professor A.'s lectures
+many a German student who proudly exhibits his beautifully written shorthand notes of Professor A.'s lectures
 has to confess he can no longer read them!
 
 The reason is simple enough:
@@ -21,7 +21,7 @@ the brevity being often only apparent.
 <!-- BEGIN p vi -->
 This is especially the case with the geometric systems,
 of which Pitman's Phonography is a familiar example.
-These systems are made up of straight lines and curves sloping in for different directions,
+These systems are made up of straight lines and curves sloping in four different directions,
 and joined together directly without any connecting stroke,
 which naturally results in angularity, jerkiness, sprawliness, and hand-cramping movements generally.
 Another defect of the geometric basis is that it does not provide enough distinct letters,
@@ -97,7 +97,7 @@ and it is often desirable to transcribe spelling rather than pronunciation,
 as in writing proper names and quotations from foreign languages.
 I have therefore worked out two 'styles' of Current,
 one **orthographic,** simply constructed and of moderate speed,
-the other **phonetic,** in with brevity may be carried to its utmost legitimate limits.
+the other **phonetic,** in which brevity may be carried to its utmost legitimate limits.
 These two styles can be used concurrently,
 so that orthographically written words can be inserted in a phonetically written passage without confusion.
 Those who are deterred by phonetic spelling and do not aim at the greatest brevity may confine themselves to the Orthographic system.
@@ -106,8 +106,12 @@ These will find a preliminary study
 <!-- BEGIN p x -->
 of my _Primer of Spoken English_ (Clarendon Press) a great help.
 
+
+
+
+
 No shorthand, however brief its basis, can dispense with **contraction.**
-Current afford an excellent basis for contraction,
+Current affords an excellent basis for contraction,
 because of the accuracy of its spelling and distinctness of is elementary symbols,
 especially the vowels.
 In this way a system which is comparatively lengthy when written in full
@@ -140,6 +144,10 @@ But I see no reason why it should not do as well as the older systems.
 One thing I know is,
 that of those who learn enough of any system to write and decipher it with tolerable ease — and how many fail even in this! — not five per cent. ever do or can acquire the power of using it for reporting purposes.
 
+
+
+
+
 The characteristic features and merits of Current may be summed up as follows:—
 
 <!-- BEGIN p xii -->
@@ -152,6 +160,9 @@ The characteristic features and merits of Current may be summed up as follows:�
 7. It could be printed from movable types with comparative ease.
 
 It may also be observed that Current is on a strictly alphabetic and syllabic basis.
+
+
+
 
 It may now be worth while to give a brief sketch of the development of my system.
 
