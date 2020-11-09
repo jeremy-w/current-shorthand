@@ -136,7 +136,7 @@ It is of course possible that on meeting such a word as _ingenious_ he may be on
 and may hit on a contraction which will prevent then from clashing.
 But in most cases he will fail to hit on the best contraction.
 It is therefore desirable that all such difficulties should be dealt with deliberately and systematically,
-and the best way of writing each Weird determined.
+and the best way of writing each word determined.
 In working out Phonetic Current
 <!-- BEGIN p xi -->
 I have not shrunk from this,
