@@ -19,6 +19,7 @@ all these systems sacrifice efficiency to brevity,
 the brevity being often only apparent.
 
 <!-- BEGIN p vi -->
+### Geometric Systems
 This is especially the case with the geometric systems,
 of which Pitman's Phonography is a familiar example.
 These systems are made up of straight lines and curves sloping in four different directions,
@@ -27,6 +28,7 @@ which naturally results in angularity, jerkiness, sprawliness, and hand-cramping
 Another defect of the geometric basis is that it does not provide enough distinct letters,
 so that the vowels generally have to be omitted altogether.
 
+### Script Systems
 Current shorthand and the German shorthands are on a **script** basis,
 that is,
 they are fired on the model of ordinary longhand,
@@ -47,8 +49,9 @@ easily-joining elementary characters,
 which is especially important as regards writing the vowels.
 
 <!-- BEGIN p vii -->
+### Semi-Script Systems
 That the script basis is the only sound one is a conviction that is steadily gaining ground in this country.
-But most of out so-called script systems are really only **half-script.**
+But most of our so-called script systems are really only **half-script.**
 [Callendar's Cursive](//orthic.shorthand.fun)
 is the best type of these systems.
 They may be described as imperfect attempts to imitate the lineality of the script systems on a mainly geometrical basis.
@@ -63,6 +66,7 @@ But, nevertheless, it must be admitted that Callendar's Orthographic Cursive[^1]
 
 [^1]: 'A Manual of Orthographic Cursive Shorthand': London, C.J. Clay & Sons, 1891.
 
+### Vowel Representation
 The weak point of the German systems is that they sacrifice efficiency to brevity by attempting to do away with the necessity of writing the vowels in full.
 Vowel-representation has, indeed, always been the great problem of shorthand.
 I am now convinced that all attempts to express vowels by modification of the shape, size, and position of the adjoining consonants must be failures as long as
@@ -70,6 +74,7 @@ I am now convinced that all attempts to express vowels by modification of the sh
 we have to content ourselves with our present imperfect writing-implements,
 and that the only solution of the problem is to express the vowels by joined characters, as is done in Current.
 
+### Sham Distinctions and Sham Brevity
 Experience has shown that not only the vowel-indicating devices of the older systems,
 but also many other distinctions made by them are liable to break down in practice.
 Such a distinction is that of thick and thin strokes,
@@ -91,6 +96,8 @@ The inevitable result of this is that Current when written in full is considerab
 Nothing has been more prejudicial to shorthand than this reckless competition for sham, inefficient brevity at the expense of that legitimate brevity which appeals to the hand of the writer,
 and is not attained at the expense of ease of writing and legibility.
 
+
+### Phonetic and Orthographic
 It is now generally acknowledged that the most efficient shorthands are those on a phonetic basis.
 But, on the other hand, having to master phonetic spelling is a serious hindrance;
 and it is often desirable to transcribe spelling rather than pronunciation,
@@ -108,7 +115,7 @@ of my _Primer of Spoken English_ (Clarendon Press) a great help.
 
 
 
-
+## Contraction
 
 No shorthand, however brief its basis, can dispense with **contraction.**
 Current affords an excellent basis for contraction,
@@ -122,9 +129,9 @@ but actually shorter than one whose basis is briefer.
 The usual method of shorthand contraction is to provide a limited number of fixed contractions ('logograms' or 'signs') for the commonest words,
 and to let each writer frame his own contractions for the other words.
 The objection to this is that the writer cannot generally tell beforehand whether his extempore contraction may not cause confusion by being mistaken for some other word of similar sound.
-It is of choose possible that on meeting such a word as _ingenious_ he may be on his guard against its being confused with _ingenuous,_
+It is of course possible that on meeting such a word as _ingenious_ he may be on his guard against its being confused with _ingenuous,_
 and may hit on a contraction which will prevent then from clashing.
-But in most bases he will fail to hit on the best contraction.
+But in most cases he will fail to hit on the best contraction.
 It is therefore desirable that all such difficulties should be dealt with deliberately and systematically,
 and the best way of writing each Weird determined.
 In working out Phonetic Current
@@ -146,7 +153,7 @@ that of those who learn enough of any system to write and decipher it with toler
 
 
 
-
+## Characteristic Features
 
 The characteristic features and merits of Current may be summed up as follows:â€”
 
@@ -162,14 +169,16 @@ The characteristic features and merits of Current may be summed up as follows:â€
 It may also be observed that Current is on a strictly alphabetic and syllabic basis.
 
 
-
+## Development
 
 It may now be worth while to give a brief sketch of the development of my system.
 
-
+### 1869: Bell's
 When Bell's _Universal Steno-phonography_ came out in 1869,
 I learnt it,
 and wrote it for many years.
+
+### 1883: Modified Bell's
 In 1883 I devised a modification of it which partially solved the problem of joined vowels,
 and in
 <!-- BEGIN p xiii -->
@@ -188,6 +197,8 @@ and suggested the distinction of two vowel levels,
 and made many other suggestions both then and afterwards,
 some of which are still part of the system,
 such as the use of the low stroke for _h._
+
+### 1884: Version 1
 By the beginning of 1884
 I had fully elaborated the first stage of Current,
 which, for brevity, I call {% assign C1 = "C<sup>1</sup>" %}{{ C1 }}.
@@ -204,6 +215,7 @@ However, one day early in 1885 I tried by way of curiosity whether I could not c
 The result was so much better than I expected that I at once discarded {{ C1 }} 
 and set to work to elaborate {% assign C2 = "C<sup>2</sup>" %}{{ C2 }}.
 
+### 1885: Versions 2 and 3
 {{ C2 }} proved much more flowing and easy than {{ C1 }}, but there was in it an awkward predominance of 'down-curves,'
 which made me try a re-arrangement on purely practical and statistical grounds.
 I thus in April, 1885, evolved the final stage {% assign C3 = "C<sup>3</sup>" %}{{ C3 }},
@@ -226,8 +238,12 @@ Indeed most of the innovations that have suggested themselves in the last three 
 and I think the system has now reached its highest point of development,
 although I feel that many of the details of contraction are still unsettled.
 
+### 1888: Orthographic Current
 The orthographic system was devised towards the end of 1888,
 and has been modified but slightly since then.
+
+
+## Conclusion
 
 In criticizing such a system as Current,
 it must be borne in mind that the same basis may be worked out in various ways;
@@ -263,9 +279,11 @@ and the result was as legible as ordinary print, so that I was
 <!-- BEGIN p xvii -->
 able to copy it out in longhand with perfect ease and accuracy.
 
-I therefore make my system picnic in the hope that it may be of the same use to others;
+I therefore make my system public in the hope that it may be of the same use to others;
 also that I may perhaps benefit by their criticisms.
 
+
+### In Memoriam
 But the satisfaction I feel in having at last accomplished what has often seemed a hopeless task is marred by the loss of my fellow-worker,
 James Lecky,
 whose untimely death in March, 1890,
