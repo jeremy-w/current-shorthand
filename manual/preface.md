@@ -1,6 +1,9 @@
 # Preface
 <!-- BEGIN page v -->
 'Current Shorthand' is intended to supply the want of a system of writing shorter and more compact than ordinary longhand, and at the same time not less distinct and legible.
+
+## Compared
+### Brevity vs. Efficiency
 None of the three systems most in use at the present time —
 Pitman's in England and America,
 and the German systems of Gabelsberger and Stolze on the Continent —
