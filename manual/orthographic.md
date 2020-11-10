@@ -54,7 +54,7 @@ or tall, such as
 Examples:
 ![]({{ S }}/bin.jpg)&nbsp;**bin,**
 {% assign words = 'cat cab bitten' | split: ' ' %}{% for word in words -%}
-    <img src="{{ S }}/{{ word }}.t.jpg" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ S }}/{{ word }}.t.jpg" />{: .tall }&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 If the vowel before or after a consonant is not
