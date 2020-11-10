@@ -40,9 +40,9 @@ as in
 
 The other consonants are distinguished by their 'projection'.
 'Short' consonants, such as
-![]({{ S }}/t.jpg),
-![]({{ S }}/s.jpg),
-![]({{ S }}/n.jpg),
+![t]({{ S }}/t.jpg),
+![s]({{ S }}/s.jpg),
+![n]({{ S }}/n.jpg),
 do not project at all.
 The 'long' consonants are either
 'high,' such as
@@ -61,6 +61,48 @@ If the vowel before or after a consonant is not
 <!-- BEGIN p 3 -->
 written, the stroke is used to show the presence of a vowel — generally **e** — as in
 ![]({{ S }}/else.jpg)&nbsp;**else.**
+
+When two consonants come together without any vowel between,
+forming a 'consonant-group,'
+they are, if possible, joined together without any stroke, as in
+!["else"]({{ S }}/else.jpg),
+where **ls** forms a 'ligature.'
+
+If this cannot be done,
+they are crowded together,
+or written detached and close together,
+as in
+![crowded tn]({{ S }}/Etna_crowded.jpg),
+![detached tn]({{ S }}/Etna_detached.jpg)
+**Etna,**
+or else 'grafted' together,
+as in
+![grafted md]({{ S }}/Camden.jpg)**Camden.**
+
+But many consonant-groups are expressed by simple characters,
+such as
+![]({{ S }}/th.jpg)&nbsp;**th**
+in
+![]({{ S }}/thin.jpg)&nbsp;**thin.**
+Such groups as **st, ts,** are expressed by joining the loop of the **s** directly on to the **t**, as in
+![]({{ S }}/state.jpg)&nbsp;**state**
+![]({{ S }}/lets.jpg)&nbsp;**lets.**
+
+A consonant-character standing alone is used as a 'sign,'
+that is, a contraction of some special word,
+or of several words pronounced alike.
+Thus
+![t]({{ S }}/t.jpg) = **to, too, two,**
+![th]({{ S }}/th.jpg) = **the,**
+which is however generally joined on to the following word, as in
+![]({{ S }}/the-cat.jpg) **the&nbsp;cat.**
+
+Some signs are made by writing 'in position',
+that is, raised or lowered above or below the line of writing.
+Thus raised
+![t]({{ S }}/t_hi.jpg) = **it,**
+lowered
+![n]({{ S }}/n_lo.t.jpg){: .tall } = **than.**
 
 ### Vowels
 <!-- BEGIN p 4 -->
