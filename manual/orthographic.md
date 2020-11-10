@@ -3,6 +3,10 @@
 p img, li img, td img {
   max-height: 3ex
 }
+img.tall {
+  max-height: 5ex;
+  vertical-align: middle;
+}
 </style>
 {%- assign S = "/assets/o" | relative_url %}
 
@@ -11,51 +15,52 @@ p img, li img, td img {
 The following is the elementary alphabet of Orthographic Current Shorthand:
 
 <figure>
- <img src="{{ S }}/alphabet.png" />
+ <img src="{{ S }}/alphabet.jpg" />
  <figcaption>The elementary alphabet of Orthographic Current Shorthand</figcaption>
 </figure>
 
 
 ### General Principles
 Consonants are expressed by full-sized characters, such as
-![]({{ S }}/s.png)&nbsp;**s,**
-![]({{ S }}/t.png)&nbsp;**t,**
+![]({{ S }}/s.jpg)&nbsp;**s,**
+![]({{ S }}/t.jpg)&nbsp;**t,**
 vowels by small characters, as in
-![]({{ S }}/sit.png)&nbsp;**sit.**
-![]({{ S }}/i.png)&nbsp;**i** is a 'high-mid' vowel.
+![]({{ S }}/sit.jpg)&nbsp;**sit.**
+**i** is a 'high-mid' vowel.
 Some vowels are written at the 'low-mid' level, such as **o**,
 as in
-![]({{ S }}/not.png)&nbsp;**not.**
+![]({{ S }}/not.jpg)&nbsp;**not.**
 
 The only consonant that is written small is **L,**
-expressed by low-mid ![]({{ S }}/L_lo.png) before vowels,
-by high-mid ![]({{ S }}/L_hi.png) after vowels,
+expressed by low-mid ![]({{ S }}/L_lo.jpg) before vowels,
+by high-mid ![]({{ S }}/L_hi.jpg) after vowels,
 as in
-![]({{ S }}/lot.png)&nbsp;**lot,**
-![]({{ S }}/salt.png)&nbsp;**salt.**
+![]({{ S }}/lot.jpg)&nbsp;**lot,**
+![]({{ S }}/salt.jpg)&nbsp;**salt.**
 
 The other consonants are distinguished by their 'projection'.
 'Short' consonants, such as
-?,
-?,
-?,
+![]({{ S }}/t.jpg),
+![]({{ S }}/s.jpg),
+![]({{ S }}/n.jpg),
 do not project at all.
 The 'long' consonants are either
 'high,' such as
-![]({{ S }}/b.png)&nbsp;**b,**
+![]({{ S }}/b.jpg)&nbsp;**b,**
 'low,' such as
-![]({{ S }}/c.png)&nbsp;**c,**
+![]({{ S }}/c.t.jpg){: .tall }&nbsp;**c,**
 or tall, such as
-![]({{ S }}/tt.png)&nbsp;**tt.**
+![]({{ S }}/tt.t.jpg){: .tall }&nbsp;**tt.**
 Examples:
-{% assign words = 'bin cat cab bitten' | split: ' ' %}{% for word in words -%}
-    <img src="{{ S }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+![]({{ S }}/bin.jpg)&nbsp;**bin,**
+{% assign words = 'cat cab bitten' | split: ' ' %}{% for word in words -%}
+    <img src="{{ S }}/{{ word }}.t.jpg" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 If the vowel before or after a consonant is not
 <!-- BEGIN p 3 -->
 written, the stroke is used to show the presence of a vowel — generally **e** — as in
-![]({{ S }}/else.png)&nbsp;**else.**
+![]({{ S }}/else.jpg)&nbsp;**else.**
 
 ### Vowels
 <!-- BEGIN p 4 -->
