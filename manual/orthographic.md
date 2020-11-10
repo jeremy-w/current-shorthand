@@ -77,7 +77,7 @@ as in
 **Etna,**
 or else 'grafted' together,
 as in
-![grafted md]({{ S }}/Camden.jpg)**Camden.**
+![grafted md]({{ S }}/Camden.t.jpg){: .tall } **Camden.**
 
 But many consonant-groups are expressed by simple characters,
 such as
@@ -95,7 +95,7 @@ Thus
 ![t]({{ S }}/t.jpg) = **to, too, two,**
 ![th]({{ S }}/th.jpg) = **the,**
 which is however generally joined on to the following word, as in
-![]({{ S }}/the-cat.jpg) **the&nbsp;cat.**
+![]({{ S }}/the-cat.t.jpg){: .tall } **the&nbsp;cat.**
 
 Some signs are made by writing 'in position',
 that is, raised or lowered above or below the line of writing.
