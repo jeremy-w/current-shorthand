@@ -40,9 +40,9 @@ as in
 
 The other consonants are distinguished by their 'projection'.
 'Short' consonants, such as
-![t]({{ S }}/t.jpg),
-![s]({{ S }}/s.jpg),
-![n]({{ S }}/n.jpg),
+![t]({{ S }}/t.jpg "t"),
+![s]({{ S }}/s.jpg "s"),
+![n]({{ S }}/n.jpg "n"),
 do not project at all.
 The 'long' consonants are either
 'high,' such as
@@ -65,19 +65,19 @@ written, the stroke is used to show the presence of a vowel — generally **e** 
 When two consonants come together without any vowel between,
 forming a 'consonant-group,'
 they are, if possible, joined together without any stroke, as in
-!["else"]({{ S }}/else.jpg),
+!["else"]({{ S }}/else.jpg "else"),
 where **ls** forms a 'ligature.'
 
 If this cannot be done,
 they are crowded together,
 or written detached and close together,
 as in
-![crowded tn]({{ S }}/Etna_crowded.jpg),
-![detached tn]({{ S }}/Etna_detached.jpg)
+![crowded tn]({{ S }}/Etna_crowded.jpg "Etna with crowded tn"),
+![detached tn]({{ S }}/Etna_detached.jpg "Etna with detached tn")
 **Etna,**
 or else 'grafted' together,
 as in
-![grafted md]({{ S }}/Camden.t.jpg){: .tall } **Camden.**
+![grafted md]({{ S }}/Camden.t.jpg "Camden with grafted md"){: .tall } **Camden.**
 
 But many consonant-groups are expressed by simple characters,
 such as
@@ -92,17 +92,17 @@ A consonant-character standing alone is used as a 'sign,'
 that is, a contraction of some special word,
 or of several words pronounced alike.
 Thus
-![t]({{ S }}/t.jpg) = **to, too, two,**
-![th]({{ S }}/th.jpg) = **the,**
+![t]({{ S }}/t.jpg "t") = **to, too, two,**
+![th]({{ S }}/th.jpg "th") = **the,**
 which is however generally joined on to the following word, as in
 ![]({{ S }}/the-cat.t.jpg){: .tall } **the&nbsp;cat.**
 
 Some signs are made by writing 'in position',
 that is, raised or lowered above or below the line of writing.
 Thus raised
-![t]({{ S }}/t_hi.jpg) = **it,**
+![t]({{ S }}/t_hi.jpg "t") = **it,**
 lowered
-![n]({{ S }}/n_lo.t.jpg){: .tall } = **than.**
+![n]({{ S }}/n_lo.t.jpg "n"){: .tall } = **than.**
 
 ### Vowels
 <!-- BEGIN p 4 -->
