@@ -1,4 +1,6 @@
 # Orthographic Current Shorthand
+{: .no_toc }
+
 <style>
 p img, li img, td img {
   max-height: 3ex
