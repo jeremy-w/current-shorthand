@@ -10,6 +10,9 @@ img.tall {
 </style>
 {%- assign S = "/assets/o" | relative_url %}
 
+* Contents
+{: toc }
+
 ## The Alphabet
 <!-- BEGIN p 2 -->
 The following is the elementary alphabet of Orthographic Current Shorthand:
