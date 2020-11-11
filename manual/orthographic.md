@@ -199,11 +199,27 @@ Lengthening a vowel-character implies preceding **e**:
 
 
 #### ie, oa
+- ![]({{ S }}/ie.jpg) is used to express **ie,** as in
+  ![]({{ S }}/piece.jpg) **piece.**
+  In the combination **ieu** the **i** is written separately,
+  and the **e** is implied by lengthened **u**:
+  ![]({{ S }}/lieutenant.jpg) **lieutenant.**
+
+- ![]({{ S }}/oa.jpg) may be used to express **oa**:
+  ![]({{ S }}/oatmeal.jpg) **oatmeal.**
 
 #### Detaching
-
-
+In the combination **aa** the two vowels
 <!-- BEGIN p 6 -->
+must be written detached:
+![]({{ S }}/Isaac.t.jpg){: .tall } **Isaac.**
+So also in such combinations as
+![]({{ S }}/lying.t.jpg){: .tall } **lying.**
+
+When a low vowel has to be detached after a high one,
+it is written immediately under the high one:
+![]({{ S }}/guard.t.jpg){: .tall } **guard.**
+
 
 ### Arbitraries
 
