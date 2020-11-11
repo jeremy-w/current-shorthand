@@ -106,8 +106,76 @@ lowered
 
 ### Vowels
 <!-- BEGIN p 4 -->
+- ![]({{ S }}/stroke_e_ee.jpg) **e, ee.**
+  ![]({{ S }}/let.jpg) **let;**
+  ![]({{ S }}/seen.jpg) **seen.**
+  Most medial (in the interior of a word) unaccented vowels may also be expressed by the short stroke:
+  ![]({{ S }}/canal.t.jpg){: .tall } **canal,**
+  ![]({{ S }}/singing.t.jpg){: .tall } **singing.**
+
+- ![]({{ S }}/i.jpg) **i.**
+  ![]({{ S }}/imitate.jpg) **imitate,**
+  or, using the short stroke for the medial **i,**
+  ![]({{ S }}/im_tate.jpg).
+
+- ![]({{ S }}/a.jpg) **a.**
+  ![]({{ S }}/a man.jpg) **a man.**
+  When convenient, may be written inside the curve of some consonants:
+  ![]({{ S }}/vain.jpg) **vain.**
+
+- ![]({{ S }}/y.jpg) **y.**
+  ![]({{ S }}/gypsy.t.jpg){: .tall } **gypsy.**
+  The shorter **i** may generally be written instead:
+  ![]({{ S }}/gipsi.t.jpg){: .tall } **"gipsi,"**
+  ![]({{ S }}/city.t.jpg){: .tall } **city** (literally "citi"),
+  ![]({{ S }}/day.jpg) **day** (literally "dai").
+
+- ![]({{ S }}/œ.jpg) **œ.**
+  ![]({{ S }}/phœnix.t.jpg){: .tall } **phœnix,**
+  or, using the short stroke for the medial **i,**
+  ![]({{ S }}/phœn_x.t.jpg){: .tall }.
+
+- ![]({{ S }}/e_ee.jpg) **e, ee.**
+  These characters are only occasionally written instead of the stroke, as in
+  ![]({{ S }}/true.jpg) **true.**
+  Full **e** is often more distinct finally
+  (at the end of a word)
+  than the stroke, as in
+  ![]({{ S }}/fine.jpg) **fine**
+  distinguished from
+  ![]({{ S }}/fin.jpg) **fin.**
+  Full **ee** is sometimes more distinct than the long stroke.
+  [No example is provided.]
+  
+- ![]({{ S }}/æ.jpg) **æ.**
+  ![]({{ S }}/cæsar.t.jpg){: .tall } **Cæsar.**
+
+- ![]({{ S }}/u_U.jpg) **u.**
+  The second form is used when **u** is written detached, to distinguish it from
+  ![]({{ S }}/ring_r.jpg) **r.**
 
 <!-- BEGIN p 5 -->
+- ![]({{ S }}/o_O.jpg) **o.**
+  ![]({{ S }}/soul.jpg) **soul.**
+  Detached ![th]({{ S }}/th.jpg "th") = **o**!
+
+- ![]({{ S }}/w.jpg) **w.**
+  Used only to express **w** after a vowel, as in 
+  ![]({{ S }}/saw.jpg) **saw,**
+  ![]({{ S }}/now.jpg) **now.**
+  In all familiar words **u** may be substituted:
+  ![]({{ S }}/sau.jpg) **"sau,"**
+  ![]({{ S }}/nou.jpg) **"nou."**
+
+#### Lengthening
+Lengthening a vowel-character implies preceding **e**:
+
+
+
+#### ie, oa
+
+#### Detaching
+
 
 <!-- BEGIN p 6 -->
 
