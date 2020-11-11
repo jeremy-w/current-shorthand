@@ -230,5 +230,3 @@ Lengthening a vowel-character implies preceding **e**:
 ### (Current Only 1)
 
 ### (Current Only 2)
-
-### (Current Only 3)
