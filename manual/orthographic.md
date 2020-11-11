@@ -175,6 +175,27 @@ lowered
 #### Lengthening
 Lengthening a vowel-character implies preceding **e**:
 
+- ![]({{ S }}/ei.jpg) **ei.**
+  ![]({{ S }}/vein.jpg) **vein.**
+
+- ![]({{ S }}/ea.jpg) **ea.**
+  !["easy" with a literal y]({{ S }}/easy.jpg "easy with a literal y"), !["easy" with an i instead of a y]({{ S }}/easi.jpg "easy with an i instead of a y") **easy.**
+
+- ![]({{ S }}/ey.jpg) **ey.**
+  ![]({{ S }}/they.jpg) **they.**
+  In most cases **ei** may be written instead:
+  ![]({{ S }}/thei.jpg).
+
+- ![]({{ S }}/eu.jpg) **eu.**
+  ![]({{ S }}/Europe.jpg) **Europe.**
+
+- ![]({{ S }}/eo.jpg) **eo.**
+  ![]({{ S }}/people.jpg) **people.**
+
+- ![]({{ S }}/ew.jpg) **ew.**
+  ![]({{ S }}/Carew.t.jpg){: .tall } **Carew.**
+  In most words **eu** may be substituted:
+  ![]({{ S }}/neu.jpg) **new** (literally "neu").
 
 
 #### ie, oa
