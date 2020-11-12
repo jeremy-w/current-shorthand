@@ -153,7 +153,7 @@ lowered
   [No example is provided.]
   
 - ![]({{ S }}/æ.jpg) **æ.**
-  ![]({{ S }}/cæsar.t.jpg){: .tall } **Cæsar.**
+  ![]({{ S }}/Cæsar.t.jpg){: .tall } **Cæsar.**
 
 - ![]({{ S }}/u_U.jpg) **u.**
   The second form is used when **u** is written detached, to distinguish it from
