@@ -132,8 +132,8 @@ lowered
   ![]({{ S }}/gypsy.t.jpg){: .tall } **gypsy.**
   The shorter **i** may generally be written instead:
   ![]({{ S }}/gipsi.t.jpg){: .tall } **"gipsi,"**
-  ![]({{ S }}/city.t.jpg){: .tall } **city** (literally "citi"),
-  ![]({{ S }}/day.jpg) **day** (literally "dai").
+  ![]({{ S }}/citi.t.jpg){: .tall } **city** (literally "citi"),
+  ![]({{ S }}/dai.jpg) **day** (literally "dai").
 
 - ![]({{ S }}/œ.jpg) **œ.**
   ![]({{ S }}/phœnix.t.jpg){: .tall } **phœnix,**
