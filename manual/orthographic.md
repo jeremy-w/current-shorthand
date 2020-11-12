@@ -238,10 +238,59 @@ Examples:
 
 
 ### Consonants
+#### Projection Indicates Articulation
+The projection of a consonant-character shows the place in the mouth where the sound it generally represents is formed.
 
+##### Short = Point
+The point (tongue-point) consonants are written
 <!-- BEGIN p 7 -->
+short:
+
+{% assign groups = 't,d,n s,z th r' | split: ' ' %}
+{%- for group in groups %}
+  {%- assign cs = group | split: ',' %}
+  {%- for c in cs -%}
+    ![]({{ S }}/{{ c }}.jpg) **{{ c }}
+    {%- unless forloop.last %}, {% endunless %}**
+  {%- endfor %}
+  {%- unless forloop.last %}; {% endunless %}
+{%- endfor %}.
+Examples:
+![]({{ S }}/detain.jpg) **detain,**
+![]({{ S }}/seize.jpg) **seize,**
+![]({{ S }}/the-rat.jpg) **the rat.**
+
+Sign meanings:
+
+- ![t]({{ S }}/t.jpg "t") **to(o), two**
+- ![raised t]({{ S }}/t_hi.jpg "raised t") **it**
+- ![ts]({{ S }}/ts.jpg "ts") **twice**
+- ![raised ts]({{ S }}/ts_hi.jpg "raised ts") **its, it is (it's)**
+- ![n]({{ S }}/n.jpg "n") **on**
+- ![raised n]({{ S }}/n_hi.jpg "raised n") **in**
+- ![lowered n]({{ S }}/n_lo.jpg "lowered n") **than**
+- ![raised s]({{ S }}/s_hi.jpg "raised s") **is**
+- ![th]({{ S }}/th.jpg "th") **the, thee**
+- ![raised th]({{ S }}/th_hi.jpg "raised th") **this**
+
+##### High = Lip
+
+##### Low = Back
+
+##### Tall = Doubled Point
+
 <!-- BEGIN p 8 -->
+
+#### Form Indicates Quality
+
+#### Consonants Requiring Special Notice
+##### H
+##### L
+
+
 <!-- BEGIN p 9 -->
+##### R
+
 <!-- BEGIN p 10 -->
 
 #### Consonant-Groups
