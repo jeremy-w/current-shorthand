@@ -245,18 +245,20 @@ The projection of a consonant-character shows the place in the mouth where the s
 The point (tongue-point) consonants are written
 <!-- BEGIN p 7 -->
 short:
-![]({{ S }}/t.jpg) **t,**
-![]({{ S }}/d.jpg) **d,**
-![]({{ S }}/n.jpg) **n**;
-![]({{ S }}/s.jpg) **s,**
-![]({{ S }}/z.jpg) **z**;
-![]({{ S }}/th.jpg) **th,**;
-![]({{ S }}/r.jpg) **r**.
+
+- ![]({{ S }}/t.jpg) **t,**
+  ![]({{ S }}/d.jpg) **d,**
+  ![]({{ S }}/n.jpg) **n**;
+- ![]({{ S }}/s.jpg) **s,**
+  ![]({{ S }}/z.jpg) **z**;
+- ![]({{ S }}/th.jpg) **th**;
+- ![]({{ S }}/r.jpg) **r**.
 
 Examples:
-![]({{ S }}/detain.jpg) **detain,**
-![]({{ S }}/seize.jpg) **seize,**
-![]({{ S }}/the-rat.jpg) **the rat.**
+
+- ![]({{ S }}/detain.jpg) **detain,**
+- ![]({{ S }}/seize.jpg) **seize,**
+- ![]({{ S }}/the-rat.jpg) **the rat.**
 
 Signs:
 
