@@ -246,12 +246,12 @@ The point (tongue-point) consonants are written
 <!-- BEGIN p 7 -->
 short:
 ![]({{ S }}/t.jpg) **t,**
-![]({{ S }}/t.jpg) **d,**
-![]({{ S }}/t.jpg) **n**;
-![]({{ S }}/t.jpg) **s,**
-![]({{ S }}/t.jpg) **z**;
-![]({{ S }}/t.jpg) **th,**;
-![]({{ S }}/t.jpg) **r**.
+![]({{ S }}/d.jpg) **d,**
+![]({{ S }}/n.jpg) **n**;
+![]({{ S }}/s.jpg) **s,**
+![]({{ S }}/z.jpg) **z**;
+![]({{ S }}/th.jpg) **th,**;
+![]({{ S }}/r.jpg) **r**.
 
 Examples:
 ![]({{ S }}/detain.jpg) **detain,**
