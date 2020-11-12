@@ -274,6 +274,28 @@ Signs:
   ![raised th]({{ S }}/th_hi.jpg "raised th") = **this**
 
 ##### High = Lip
+The lip-consonants are written high:
+
+- ![]({{ S }}/p.jpg) **p,**
+  ![]({{ S }}/b.jpg) **b,**
+  ![]({{ S }}/m.jpg) **m**;
+- ![]({{ S }}/f.jpg) **f,**
+  ![]({{ S }}/v.jpg) **v**;
+- ![]({{ S }}/w-.jpg) **w** (as in **we**),
+  ![]({{ S }}/ph.jpg) **ph**.
+
+Examples:
+
+- ![]({{ S }}/problem.jpg) **problem,**
+- ![]({{ S }}/five.jpg) **five,**
+- ![]({{ S }}/wolf.jpg) **wolf,**
+  ![]({{ S }}/sylph.jpg) **sylph.**
+
+Signs:
+
+- ![b]({{ S }}/b.jpg "b") = **but**
+- ![f]({{ S }}/f.jpg "f") = **for, fore, four**
+- ![consonantal w]({{ S }}/w-.jpg "consonantal w") = **won, one**
 
 ##### Low = Back
 
