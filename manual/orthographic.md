@@ -222,6 +222,19 @@ it is written immediately under the high one:
 
 
 ### Arbitraries
+The following arbitrary marks, written like vowels, are used to express certain very common words:
+
+- ![]({{ S }}/and.jpg) **and.**
+  Compare the use of the hyphen (-) in ordinary writing.
+
+- ![]({{ S }}/or.jpg) **or.**
+
+- ![]({{ S }}/of.jpg) **of.**
+
+Examples:
+![]({{ S }}/now and then.jpg) **now and then**;
+![]({{ S }}/now or never.jpg) **now or never**;
+![]({{ S }}/a piece of cake.jpg) **a piece of cake.**
 
 
 ### Consonants
