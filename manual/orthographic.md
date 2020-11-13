@@ -354,10 +354,76 @@ Examples:
 <!-- BEGIN p 8 -->
 
 #### Form Indicates Quality
+The other classes under which consonants fall are partly indicated by their form:
+
+<style>
+#formTable th, #formTable td { padding: 1em }
+</style>
+<table id="formTable">
+<colgroup>
+ <col />
+ <col span="3" />
+ <col span="2" />
+</colgroup>
+<tr>
+<th scope="row">hard:
+<td>![]({{ S }}/t.jpg) **t**
+<td>p
+<td>k
+<td style="border-left: 1px solid gray">s
+<td>f
+<tr>
+<th scope="row">soft:
+<td>d
+<td>b
+<td>g
+<td style="border-left: 1px solid gray">z
+<td>v
+<tr>
+<th scope="row">nasal:
+<td>n
+<td>m
+<td>ng
+</table>
 
 #### Consonants Requiring Special Notice
+Some of the consonants require special notice.
+
 ##### H
+**h** is generally expressed by the low stroke when initial (at the beginning of a word): ![]({{ S }}/hat.jpg){{T}} **hat.**
+
+Non-initial **h** is expressed by
+![]({{ S }}/h_circle.jpg)
+as in
+![]({{ S }}/ah.jpg) **ah**!,
+the stroke being drawn through the character, as with
+![]({{ S }}/qu.jpg){{T}} **qu,**
+when convenient:
+![]({{ S }}/behalf.jpg) **behalf.**
+
+This character also forms part of the ligatures:
+
+- ![]({{ S }}/kh.t.jpg){{T}} **kh** as in
+  ![]({{ S }}/khan.t.jpg){{T}} **khan,**
+- ![]({{ S }}/ch.t.jpg){{T}} **ch** as in
+  ![]({{ S }}/cheque.t.jpg){{T}} **cheque,**
+- ![]({{ S }}/gh.t.jpg){{T}} **gh** as in
+  ![]({{ S }}/laugh.t.jpg){{T}} **laugh,**
+- ![]({{ S }}/rh.jpg) **rh** as in
+  ![]({{ S }}/rhyme.jpg) **rhyme,**
+- ![]({{ S }}/wh.jpg) **wh** as in
+  ![]({{ S }}/when.jpg) **when.**
+  
+Medial **h** may be expressed by drawing a stroke through the preceding character, as in
+- ![]({{ S }}/behave.jpg), ![]({{ S }}/behve.jpg) **behave.**
+
+Signs:
+
+- ![initial h]({{ S }}/h.jpg "initial h") = **how**
+
 ##### L
+**L** has been partly explained under
+['General Principles'](#general-principles).
 
 
 <!-- BEGIN p 9 -->
