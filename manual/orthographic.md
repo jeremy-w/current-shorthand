@@ -366,29 +366,26 @@ The other classes under which consonants fall are partly indicated by their form
  <col span="2" />
 </colgroup>
 <tr>
-<th scope="row">hard:
-<td><img src="{{ S }}/t.jpg" /> <strong>t</strong>
-<td><img src="{{ S }}/p.jpg" /> <strong>p</strong>
-<td><img class="tall" src="{{ S }}/k.jpg" /> <strong>k</strong>
-<td style="border-left: 1px solid gray"><img src="{{ S }}/s.jpg" /> <strong>s</strong>
-<td><img src="{{ S }}/f.jpg" /> <strong>f</strong>
-</tr>
+ <th scope="row">hard:
+ <td><img src="{{ S }}/t.jpg" /> <strong>t</strong>
+ <td><img src="{{ S }}/p.jpg" /> <strong>p</strong>
+ <td><img class="tall" src="{{ S }}/k.jpg" /> <strong>k</strong>
+ <td style="border-left: 1px solid gray"><img src="{{ S }}/s.jpg" /> <strong>s</strong>
+ <td><img src="{{ S }}/f.jpg" /> <strong>f</strong>
 <tr>
-<th scope="row">soft:
-<td><img src="{{ S }}/d.jpg" /> <strong>d</strong>
-<td><img src="{{ S }}/b.jpg" /> <strong>b</strong>
-<td><img class="tall" src="{{ S }}/g.jpg" /> <strong>g</strong>
-<td style="border-left: 1px solid gray"><img src="{{ S }}/z.jpg" /> <strong>z</strong>
-<td><img src="{{ S }}/v.jpg" /> <strong>v</strong>
-</tr>
+ <th scope="row">soft:
+ <td><img src="{{ S }}/d.jpg" /> <strong>d</strong>
+ <td><img src="{{ S }}/b.jpg" /> <strong>b</strong>
+ <td><img class="tall" src="{{ S }}/g.jpg" /> <strong>g</strong>
+ <td style="border-left: 1px solid gray"><img src="{{ S }}/z.jpg" /> <strong>z</strong>
+ <td><img src="{{ S }}/v.jpg" /> <strong>v</strong>
 <tr>
-<th scope="row">nasal:
-<td><img src="{{ S }}/n.jpg" /> <strong>n</strong>
-<td><img src="{{ S }}/m.jpg" /> <strong>m</strong>
-<td><img class="tall" src="{{ S }}/ng.jpg" /> <strong>ng</strong>
-<td>
-<td>
-</tr>
+ <th scope="row">nasal:
+ <td><img src="{{ S }}/n.jpg" /> <strong>n</strong>
+ <td><img src="{{ S }}/m.jpg" /> <strong>m</strong>
+ <td><img class="tall" src="{{ S }}/ng.jpg" /> <strong>ng</strong>
+ <td />
+ <td />
 </table>
 
 #### Consonants Requiring Special Notice
