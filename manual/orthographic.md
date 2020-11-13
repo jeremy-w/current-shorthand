@@ -298,7 +298,8 @@ Signs:
 - ![consonantal w]({{ S }}/w-.jpg "consonantal w") = **won, one**
 
 ##### Low = Back
-{{ assign T = "{: .tall }" }}
+
+{% assign T = '{: .tall }' %}
 
 The back-consonants are written low:
 
@@ -319,10 +320,10 @@ because they are formed further back in the mouth than the point-consonants.
 
 Examples:
 
-{{ assign words = 'king cook going queen six rejoice youngish' | split: ' ' }}
-{{ for w in words }}
-- ![]({{ S }}/{{ w }}.jpg){{T}} **{{ w }}{{ if forloop.last }}.{{ else }},{{ endif }}**
-{{ endfor }}
+{% assign words = 'king cook going queen six rejoice youngish' | split: ' ' %}
+{% for w in words %}
+- ![]({{ S }}/{{ w }}.jpg){{T}} **{{ w }}{% if forloop.last %}.{% else %},{% endif %}**
+{% endfor %}
 
 Signs:
 
