@@ -449,7 +449,34 @@ the **L** may be lengthened instead of the vowel, as in
 The stroke before low **L** must be written under the line:
 ![]({{ S }}/elect.jpg) **elect.**
 
+{% assign NBH = '&#8209;' %}
+**L** is also expressed by the upright
+![L]({{ S }}/L_vert.jpg "L"),
+which always implies a following vowel,
+expressing **{{NBH}}le** when final:
+![]({{ S }}/mile.jpg) **mile.**
+It is necessary when vowel + **L** is followed by a low vowel, as in
+![]({{ S }}/felon.jpg) **felon,**
+unless a break
+(![]({{ S }}/fel.on.jpg) **fel/on**)
+or contraction
+(![]({{ S }}/feln.jpg) **feln**)
+is made.
 
+In the combination consonant + **L** + vowel,
+the **L** may be implied by lengthening the stroke before the vowel:
+![]({{ S }}/slip.jpg) **slip,**
+![]({{ S }}/float.jpg) **float.**
+Hence initial
+![oa with long leading stroke]({{ S }}/loa.jpg "oa with long leading stroke")
+may be used to express **loa,** as in
+![]({{ S }}/load.jpg) **load.**
+
+Signs:
+
+- ![raised L]({{ S }}/L_hi.jpg "raised L") = **all**
+- ![LS]({{ S }}/always.jpg "LS") = **always**
+- ![BL]({{ S }}/BL.jpg "BL") = **below**
 
 <!-- BEGIN p 9 -->
 ##### R
