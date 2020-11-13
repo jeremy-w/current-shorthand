@@ -282,7 +282,7 @@ The lip-consonants are written high:
 - ![]({{ S }}/f.jpg) **f,**
   ![]({{ S }}/v.jpg) **v**;
 - ![]({{ S }}/w-.jpg) **w** (as in **we**),
-  ![]({{ S }}/ph.jpg) **ph**.
+  ![]({{ S }}/ph.jpg) **ph.**
 
 Examples:
 
@@ -303,26 +303,26 @@ Signs:
 
 The back-consonants are written low:
 
-- ![]({{ S }}/k.jpg){{T}} **k,**
-  ![]({{ S }}/c.jpg){{T}} **c,**
-  ![]({{ S }}/g.jpg){{T}} **g,**
-  ![]({{ S }}/ng.jpg){{T}} **ng**;
-- ![]({{ S }}/qu.jpg){{T}} **qu** (= **kw**)
-  ![]({{ S }}/x.jpg){{T}} **x** (= **ks**)
+- ![]({{ S }}/k.t.jpg){{T}} **k,**
+  ![]({{ S }}/c.t.jpg){{T}} **c,**
+  ![]({{ S }}/g.t.jpg){{T}} **g,**
+  ![]({{ S }}/ng.t.jpg){{T}} **ng**;
+- ![]({{ S }}/qu.t.jpg){{T}} **qu** (= **kw**),
+  ![]({{ S }}/x.t.jpg){{T}} **x** (= **ks**).
 
 So also:
 
-- ![]({{ S }}/y-.jpg){{T}} **y** (as in **you**)
-  ![]({{ S }}/j.jpg){{T}} **j,** and
-  ![]({{ S }}/sh.jpg){{T}} **sh,**
+- ![]({{ S }}/y-.t.jpg){{T}} **y** (as in **you**)
+  ![]({{ S }}/j.t.jpg){{T}} **j,** and
+  ![]({{ S }}/sh.t.jpg){{T}} **sh.**
 
 because they are formed further back in the mouth than the point-consonants.
 
 Examples:
 
-{% assign words = 'king cook going queen six rejoice youngish' | split: ' ' %}
-{% for w in words %}
-- ![]({{ S }}/{{ w }}.jpg){{T}} **{{ w }}{% if forloop.last %}.{% else %},{% endif %}**
+{% assign clusters = 'king cook going;queen six;rejoice youngish' | split: ';' %}
+{% for cluster in clusters %}
+-{% assign words = cluster | split: ' ' %}{% for w in words %} ![]({{ S }}/{{ w }}.t.jpg){{T}} **{{ w }}{% if forloop.last %}{% else %},{% endif %}**{% endfor %}
 {% endfor %}
 
 Signs:
@@ -334,6 +334,22 @@ Signs:
 
 
 ##### Tall = Doubled Point
+The tall consonants indicate doubling of the corresponding short or small ones:
+
+- ![]({{ S }}/tt.jpg){{T}} **tt,**
+  ![]({{ S }}/dd.jpg){{T}} **dd,**
+  ![]({{ S }}/nn.jpg){{T}} **nn**;
+- ![]({{ S }}/ss.jpg){{T}} **ss,**
+  ![]({{ S }}/zz.jpg){{T}} **zz**;
+- ![]({{ S }}/rr.jpg){{T}} **rr,**
+  ![]({{ S }}/ll.jpg){{T}} **ll.**
+
+Examples:
+
+{% assign clusters = 'ditto middle penny;less buzz;sorry tell silly' | split: ';' %}
+{% for cluster in clusters %}
+-{% assign words = cluster | split: ' ' %}{% for w in words %} ![]({{ S }}/{{ w }}.t.jpg){{T}} **{{ w }}{% if forloop.last %}{% else %},{% endif %}**{% endfor %}
+{% endfor %}
 
 <!-- BEGIN p 8 -->
 
