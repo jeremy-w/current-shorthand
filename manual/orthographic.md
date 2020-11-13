@@ -298,7 +298,7 @@ Signs:
 - ![consonantal w]({{ S }}/w-.jpg "consonantal w") = **won, one**
 
 ##### Low = Back
-{{ assign T = '{: .tall }' }}
+{{ assign T = "{: .tall }" }}
 
 The back-consonants are written low:
 
