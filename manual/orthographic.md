@@ -298,6 +298,39 @@ Signs:
 - ![consonantal w]({{ S }}/w-.jpg "consonantal w") = **won, one**
 
 ##### Low = Back
+{{ assign T = '{: .tall }' }}
+
+The back-consonants are written low:
+
+- ![]({{ S }}/k.jpg){{T}} **k,**
+  ![]({{ S }}/c.jpg){{T}} **c,**
+  ![]({{ S }}/g.jpg){{T}} **g,**
+  ![]({{ S }}/ng.jpg){{T}} **ng**;
+- ![]({{ S }}/qu.jpg){{T}} **qu** (= **kw**)
+  ![]({{ S }}/x.jpg){{T}} **x** (= **ks**)
+
+So also:
+
+- ![]({{ S }}/y-.jpg){{T}} **y** (as in **you**)
+  ![]({{ S }}/j.jpg){{T}} **j,** and
+  ![]({{ S }}/sh.jpg){{T}} **sh,**
+
+because they are formed further back in the mouth than the point-consonants.
+
+Examples:
+
+{{ assign words = 'king cook going queen six rejoice youngish' | split: ' ' }}
+{{ for w in words }}
+- ![]({{ S }}/{{ w }}.jpg){{T}} **{{ w }}{{ if forloop.last }}.{{ else }},{{ endif }}**
+{{ endfor }}
+
+Signs:
+
+- ![c]({{ S }}/c.jpg "c"){{T}} = **because**
+- ![g]({{ S }}/g.jpg "g"){{T}} = **again**
+- ![qu]({{ S }}/qu.jpg "qu"){{T}} = **quite**
+- ![consonantal y]({{ S }}/y-.jpg "consonantal y"){{T}} = **you**
+
 
 ##### Tall = Doubled Point
 
