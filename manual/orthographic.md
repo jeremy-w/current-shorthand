@@ -480,8 +480,52 @@ Signs:
 
 <!-- BEGIN p 9 -->
 ##### R
+**r** when final or followed by a consonant is expressed by
+![high-mid ring connected at the top]({{ S }}/r_flavours.jpg "high-mid ring connected at the top"),
+which is run on to **t,** **n,** etc.:
+![]({{ S }}/terror.jpg) **terror,**
+![]({{ S }}/word.jpg) **word,**
+![]({{ S }}/heart.t.jpg){{T}} **heart,**
+![]({{ S }}/burn.jpg) **burn.**
 
+Before such consonants as **s** it may be written as an upward loop run on to the consonant:
+![]({{ S }}/curse.t.jpg){{T}} **curse,**
+![]({{ S }}/force.jpg) **force.**
+
+Final
+![vertical R]({{ S }}/r.jpg "vertical R")
+always implies a following vowel:
+![]({{ S }}/here.t.jpg){{T}} **here.**
+
+**r** is added to straight-stem consonants in the form of a 'back ring,' as in
+![]({{ S }}/tr.jpg) **tr**:
+![]({{ S }}/true.jpg) **true,**
+![]({{ S }}/pride.jpg) **pride,**
+![]({{ S }}/green.t.jpg){{T}} **green,**
+![]({{ S }}/street.jpg) **street.**
+
+Consonants
 <!-- BEGIN p 10 -->
+ending in rising loops add **r** as in
+![]({{ S }}/fr.jpg) **fr**:
+![]({{ S }}/fruit.jpg) **fruit**:
+![]({{ S }}/phrase.jpg) **phrase,**
+![]({{ S }}/Nimrod.jpg) **Nimrod,**
+![]({{ S }}/creature.t.jpg){{T}} **creature.**
+
+**r** is simply crowded on after down-loop consonants such as
+![]({{ S }}/sh.jpg) **sh**:
+![]({{ S }}/shrill.jpg) **shrill.**
+
+**nr** is best written grafted, as in
+![]({{ S }}/Henry.t.jpg){{T}} **Henry.**
+
+Signs:
+
+- ![ring R]({{ S }}/ring_r.jpg "ring R") = **her**
+- ![PR]({{ S }}/perhaps.jpg "PR") = **perhaps**
+- ![FR]({{ S }}/BL.jpg "FR") = **from**
+
 
 #### Consonant-Groups
 
