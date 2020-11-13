@@ -336,13 +336,13 @@ Signs:
 ##### Tall = Doubled Point
 The tall consonants indicate doubling of the corresponding short or small ones:
 
-- ![]({{ S }}/tt.jpg){{T}} **tt,**
-  ![]({{ S }}/dd.jpg){{T}} **dd,**
-  ![]({{ S }}/nn.jpg){{T}} **nn**;
-- ![]({{ S }}/ss.jpg){{T}} **ss,**
-  ![]({{ S }}/zz.jpg){{T}} **zz**;
-- ![]({{ S }}/rr.jpg){{T}} **rr,**
-  ![]({{ S }}/ll.jpg){{T}} **ll.**
+- ![]({{ S }}/tt.t.jpg){{T}} **tt,**
+  ![]({{ S }}/dd.t.jpg){{T}} **dd,**
+  ![]({{ S }}/nn.t.jpg){{T}} **nn**;
+- ![]({{ S }}/ss.t.jpg){{T}} **ss,**
+  ![]({{ S }}/zz.t.jpg){{T}} **zz**;
+- ![]({{ S }}/rr.t.jpg){{T}} **rr,**
+  ![]({{ S }}/ll.t.jpg){{T}} **ll.**
 
 Examples:
 
@@ -420,7 +420,7 @@ This character also forms part of the ligatures:
   ![]({{ S }}/when.jpg) **when.**
   
 Medial **h** may be expressed by drawing a stroke through the preceding character, as in
-- ![]({{ S }}/behave.jpg), ![]({{ S }}/behve.jpg) **behave.**
+![]({{ S }}/behave.jpg), ![]({{ S }}/behve.jpg) **behave.**
 
 Signs:
 
@@ -429,6 +429,26 @@ Signs:
 ##### L
 **L** has been partly explained under
 ['General Principles'](#general-principles).
+
+Long high
+![]({{ S }}/LL_hi.jpg) = **eel,**
+long low
+![]({{ S }}/LL.jpg) = **lee,**
+as in
+![]({{ S }}/feel.jpg) **feel,**
+![]({{ S }}/bleed.jpg) **bleed,**
+the stroke being prefixed to initial **eel** and added to final **lee**:
+![]({{ S }}/eel.jpg) **eel,**
+![]({{ S }}/Lee.jpg) **Lee,**
+![]({{ S }}/glee.jpg) **glee.**
+
+After a long vowel
+the **L** may be lengthened instead of the vowel, as in
+![]({{ S }}/veil.jpg) **veil.**
+
+The stroke before low **L** must be written under the line:
+![]({{ S }}/elect.jpg) **elect.**
+
 
 
 <!-- BEGIN p 9 -->
