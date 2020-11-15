@@ -235,7 +235,7 @@ The following arbitrary marks, written like vowels, are used to express certain 
 Examples:
 ![]({{ S }}/now and then.jpg) **now and then**;
 ![]({{ S }}/now or never.jpg) **now or never**;
-![]({{ S }}/a piece of cake.jpg) **a piece of cake.**
+![]({{ S }}/a piece of cake.t.jpg){{T}} **a piece of cake.**
 
 
 ### Consonants
