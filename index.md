@@ -10,3 +10,16 @@ It is truly and entirely lineal, and it looks really darn fancy written with a b
   - The Web version of this is a work in progress.
 - **Phonetic Current** describes the phonetic system. The system is described in around 80 handwritten pages. These are followed by about 13 pages of example texts.
   - There's no link because I haven't begun typing it up yet.
+  
+### Learning the Shorthand
+Sweet was a good phoneticist, but not a good shorthand instructor. At least two regular writers of the shorthand — the journalist Thomas Satchell, who was noted for reliably writing the phonetic style at 150 WPM and teaching many students Current in Japan, and the lawyer FJO Coddington, who used Current in his work — are on record offering to provide or to write a better manual, but the publisher wasn't interested.
+
+Instead of those phantom manuals,
+your best pal might be Zach Smith's
+[A Curriculum of Current Phonetic Shorthand (April 2020)](https://blog.zdsmith.com/posts/a-curriculum-of-current-phonetic-shorthand.html),
+which tries "to lay out some of the same information contained in the manual in a more systematic and searchable way."
+Think of it as a primer for the manual - it won't replace it, but it will prevent it from actively confusing you.
+
+You'll also find writers sharing Current snippets and reviewing each other's work within the
+[r/shorthand Reddit community](https://www.reddit.com/r/shorthand).
+That community is your best bet for getting feedback and answering any questions you might have about Current shorthand.
