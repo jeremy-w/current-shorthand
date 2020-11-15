@@ -11,6 +11,7 @@ img.tall {
 }
 </style>
 {%- assign S = "/assets/o" | relative_url %}
+{%- assign T = '{: .tall }' %}
 
 * Contents
 {: toc }
@@ -200,7 +201,7 @@ Lengthening a vowel-character implies preceding **e**:
 
 #### ie, oa
 - ![]({{ S }}/ie.jpg) is used to express **ie,** as in
-  ![]({{ S }}/piece.jpg) **piece.**
+  ![]({{ S }}/piece.t.jpg){{T}} **piece.**
   In the combination **ieu** the **i** is written separately,
   and the **e** is implied by lengthened **u**:
   ![]({{ S }}/lieutenant.jpg) **lieutenant.**
@@ -298,8 +299,6 @@ Signs:
 - ![consonantal w]({{ S }}/w-.jpg "consonantal w") = **won, one**
 
 ##### Low = Back
-
-{% assign T = '{: .tall }' %}
 
 The back-consonants are written low:
 
