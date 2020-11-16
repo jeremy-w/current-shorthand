@@ -341,7 +341,7 @@ The tall consonants indicate doubling of the corresponding short or small ones:
 - ![]({{ S }}/ss.t.jpg){{T}} **ss,**
   ![]({{ S }}/zz.t.jpg){{T}} **zz**;
 - ![]({{ S }}/rr.t.jpg){{T}} **rr,**
-  ![]({{ S }}/ll.t.jpg){{T}} **ll.**
+  ![]({{ S }}/LL.t.jpg){{T}} **ll.**
 
 Examples:
 
