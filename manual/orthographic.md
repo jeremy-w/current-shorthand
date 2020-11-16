@@ -326,10 +326,10 @@ Examples:
 
 Signs:
 
-- ![c]({{ S }}/c.jpg "c"){{T}} = **because**
-- ![g]({{ S }}/g.jpg "g"){{T}} = **again**
-- ![qu]({{ S }}/qu.jpg "qu"){{T}} = **quite**
-- ![consonantal y]({{ S }}/y-.jpg "consonantal y"){{T}} = **you**
+- ![c]({{ S }}/c.t.jpg "c"){{T}} = **because**
+- ![g]({{ S }}/g.t.jpg "g"){{T}} = **again**
+- ![qu]({{ S }}/qu.t.jpg "qu"){{T}} = **quite**
+- ![consonantal y]({{ S }}/y-.t.jpg "consonantal y"){{T}} = **you**
 
 
 ##### Tall = Doubled Point
