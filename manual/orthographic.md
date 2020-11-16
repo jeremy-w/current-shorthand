@@ -368,7 +368,7 @@ The other classes under which consonants fall are partly indicated by their form
  <th scope="row">hard:</th>
  <td><img src="{{ S }}/t.jpg" /> <strong>t</strong></td>
  <td><img src="{{ S }}/p.jpg" /> <strong>p</strong></td>
- <td><img class="tall" src="{{ S }}/k.jpg" /> <strong>k</strong></td>
+ <td><img class="tall" src="{{ S }}/k.t.jpg" /> <strong>k</strong></td>
  <td style="border-left: 1px solid gray"><img src="{{ S }}/s.jpg" /> <strong>s</strong></td>
  <td><img src="{{ S }}/f.jpg" /> <strong>f</strong></td>
 </tr>
@@ -384,7 +384,7 @@ The other classes under which consonants fall are partly indicated by their form
  <th scope="row">nasal:</th>
  <td><img src="{{ S }}/n.jpg" /> <strong>n</strong></td>
  <td><img src="{{ S }}/m.jpg" /> <strong>m</strong></td>
- <td><img class="tall" src="{{ S }}/ng.jpg" /> <strong>ng</strong></td>
+ <td><img class="tall" src="{{ S }}/ng.t.jpg" /> <strong>ng</strong></td>
  <td />
  <td />
 </tr>
