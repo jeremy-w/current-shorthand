@@ -401,7 +401,7 @@ Non-initial **h** is expressed by
 as in
 ![]({{ S }}/ah.jpg) **ah**!,
 the stroke being drawn through the character, as with
-![]({{ S }}/qu.jpg){{T}} **qu,**
+![]({{ S }}/qu.t.jpg){{T}} **qu,**
 when convenient:
 ![]({{ S }}/behalf.jpg) **behalf.**
 
