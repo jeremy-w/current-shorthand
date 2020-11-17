@@ -376,7 +376,7 @@ The other classes under which consonants fall are partly indicated by their form
  <th scope="row">soft:</th>
  <td><img src="{{ S }}/d.jpg" /> <strong>d</strong></td>
  <td><img src="{{ S }}/b.jpg" /> <strong>b</strong></td>
- <td><img class="tall" src="{{ S }}/g.jpg" /> <strong>g</strong></td>
+ <td><img class="tall" src="{{ S }}/g.t.jpg" /> <strong>g</strong></td>
  <td style="border-left: 1px solid gray"><img src="{{ S }}/z.jpg" /> <strong>z</strong></td>
  <td><img src="{{ S }}/v.jpg" /> <strong>v</strong></td>
 </tr>
@@ -397,7 +397,7 @@ Some of the consonants require special notice.
 **h** is generally expressed by the low stroke when initial (at the beginning of a word): ![]({{ S }}/hat.jpg){{T}} **hat.**
 
 Non-initial **h** is expressed by
-![]({{ S }}/h_circle.jpg)
+![]({{ S }}/h.jpg)
 as in
 ![]({{ S }}/ah.jpg) **ah**!,
 the stroke being drawn through the character, as with
@@ -423,7 +423,7 @@ Medial **h** may be expressed by drawing a stroke through the preceding characte
 
 Signs:
 
-- ![initial h]({{ S }}/h.jpg "initial h") = **how**
+- ![initial h]({{ S }}/h-.t.jpg "initial h"){{T}} = **how**
 
 ##### L
 **L** has been partly explained under
