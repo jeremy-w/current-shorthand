@@ -528,6 +528,15 @@ Signs:
 
 #### Consonant-Groups
 
+As we have seen, many consonant-groups are expressed by simple characters,
+not only when they express simple sounds,
+such as **sh,**
+but also when they express compound sounds,
+such as **x.**
+The following consonant-groups are also expressed by simple characters:
+
+- …
+
 <!-- BEGIN p 11 -->
 <!-- BEGIN p 12 -->
 <!-- BEGIN p 13 -->
