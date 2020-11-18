@@ -535,10 +535,83 @@ but also when they express compound sounds,
 such as **x.**
 The following consonant-groups are also expressed by simple characters:
 
-- …
+##### nt, mp, nk; nd, mb
+- ![]({{ S }}/nt.jpg)
+  ![]({{ S }}/mp.jpg)
+  ![]({{ S }}/nk.t.jpg){{T}}
+  **nt, mp, nk**;
+- ![]({{ S }}/nd.jpg)
+  ![]({{ S }}/mb.jpg)
+  **nd, mb.**
+
+Examples:
+
+- ![]({{ S }}/tent.jpg) **tent,**
+  ![]({{ S }}/lamp.jpg) **lamp,**
+  ![]({{ S }}/ink.t.jpg){{T}} **ink**;
+- ![]({{ S }}/find.jpg) **find,**
+  ![]({{ S }}/number.jpg) **number.**
+
+Signs:
+
+- ![nt]({{ S }}/nt.jpg "nt") = **unto**
+- ![raised nt]({{ S }}/nt_hi.jpg "raised nt") = **into**
+- ![nd]({{ S }}/nd.jpg "nd") = **under**
+
+##### pt, kt; bt, ght; ft, ct, tht
+- ![]({{ S }}/pt.jpg) **pt,**
+  ![]({{ S }}/kt.t.jpg){{T}} **kt**;
+- ![]({{ S }}/bt.jpg) **bt,**
+  ![]({{ S }}/gt.t.jpg){{T}} **gt** (but more often used for **ght**);
+- ![]({{ S }}/ft.jpg) **ft,**
+  ![]({{ S }}/ct.t.jpg){{T}} **ct,**
+  ![]({{ S }}/tht.jpg) **tht.**
+
+Examples:
+
+- ![]({{ S }}/adapt.jpg) **adapt**;
+- ![]({{ S }}/debt.jpg) **debt,**
+  ![]({{ S }}/bright.t.jpg){{T}} **bright.**
+- ![]({{ S }}/left.jpg) **left,**
+  ![]({{ S }}/fact.t.jpg){{T}} **fact.**
+
+Signs:
+
+- ![bt]({{ S }}/bt.jpg "bt") = **about**
+- ![gt]({{ S }}/gt.t.jpg){{T}} = **against**
+- ![tht]({{ S }}/tht.jpg "tht") = **that**
 
 <!-- BEGIN p 11 -->
+##### pf, ck
+
+Examples:
+
+##### s before
+
+Examples:
+
+##### s after
+
+Examples:
+
+##### s after vowels
+
+##### les, res
+
+##### loop z and cross-loop s after curved-foot consonants
+
+##### back-hook for final s
+
 <!-- BEGIN p 12 -->
+
+##### -hs, -qs, -ques
+
+##### thr, thw
+
+##### forward-ring w
+
+##### other notes
+
 <!-- BEGIN p 13 -->
 
 #### Rising Consonants
