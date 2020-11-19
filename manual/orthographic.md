@@ -558,7 +558,7 @@ Signs:
 - ![raised nt]({{ S }}/nt_hi.jpg "raised nt") = **into**
 - ![nd]({{ S }}/nd.jpg "nd") = **under**
 
-##### pt, kt; bt, ght; ft, ct, tht
+##### pt, kt; bt, g(h)t; ft, ct, tht
 - ![]({{ S }}/pt.jpg) **pt,**
   ![]({{ S }}/kt.t.jpg){{T}} **kt**;
 - ![]({{ S }}/bt.jpg) **bt,**
@@ -583,22 +583,118 @@ Signs:
 
 <!-- BEGIN p 11 -->
 ##### pf, ck
+- ![]({{ S }}/pf.jpg) **pf**
+- ![]({{ S }}/ck.t.jpg){{T}} **ck**
 
 Examples:
+
+- ![]({{ S }}/Pfeiffer.jpg) **Pfeiffer**
+- ![]({{ S }}/cackle.t.jpg){{T}} **cackle**
 
 ##### s before
+**s** is prefixed to another consonant by means of a loop.
 
 Examples:
+
+- As a high anti-clockwise loop before the straight stem consonants: 
+  - ![]({{ S }}/st.jpg) **st** as in
+    ![]({{ S }}/stand.jpg) **stand**
+  - ![]({{ S }}/sp.jpg) **sp** as in
+    ![]({{ S }}/spread.jpg) **spread**
+  - ![]({{ S }}/sk.t.jpg){{T}} **sk** as in
+    ![]({{ S }}/task.t.jpg){{T}} **task**
+
+- As a high clockwise loop before **b** and **w**:
+  - ![]({{ S }}/sb.jpg) **sb** as in
+    ![]({{ S }}/husband.jpg) **husband**
+  - ![]({{ S }}/sw.jpg) **sw** as in
+    ![]({{ S }}/swift.jpg) **swift**
+
+- As a low anti-clockwise loop before most consonants:
+  - ![]({{ S }}/sn.jpg) **sn** as in
+    ![]({{ S }}/snow.jpg) **snow**
+  - ![]({{ S }}/sm.jpg) **sm** as in
+    ![]({{ S }}/smoke.jpg) **smoke**
+  - ![]({{ S }}/sf.jpg) **sf** as in
+    ![]({{ S }}/satisfy.jpg) **satisfy**
+  - ![]({{ S }}/sc.t.jpg){{T}} **sc** as in
+    ![]({{ S }}/scale.t.jpg){{T}} **scale**
+  - ![]({{ S }}/sq.t.jpg){{T}} **sq** as in
+    ![]({{ S }}/squint.t.jpg){{T}} **squint**
+  - ![]({{ S }}/sp.t.jpg){{T}} **sp** as in
+    ![]({{ S }}/sphere.t.jpg){{T}} **sphere**
 
 ##### s after
+It is also added by a loop in:
+
+- ![]({{ S }}/ts.jpg) **ts** as in
+  ![]({{ S }}/sits.jpg) **sits**
+- ![]({{ S }}/ps.jpg) **ps** as in
+  ![]({{ S }}/copse.t.jpg){{T}} **copse**
+- ![]({{ S }}/ks.t.jpg){{T}} **ks**
+- ![]({{ S }}/tts.t.jpg){{T}} **tts** as in
+  ![]({{ S }}/butts.t.jpg){{T}} **butts**
+- ![]({{ S }}/pts.jpg) **pts** as in
+  ![]({{ S }}/adopts.jpg) **adopts**
+- ![]({{ S }}/ths.jpg) **ths** as in
+  ![]({{ S }}/paths.jpg) **paths**
+
+and also:
+
+- ![]({{ S }}/ls.jpg) **ls** as in
+  ![]({{ S }}/details.jpg) **details**
+- ![]({{ S }}/lls.t.jpg){{T}} **lls** as in
+  ![]({{ S }}/fills.t.jpg){{T}} **fills**
+- ![]({{ S }}/nds.jpg) **nds** as in
+  ![]({{ S }}/sends.jpg) **sends**
+- ![]({{ S }}/nts.jpg) **nts** etc. as in
+  ![]({{ S }}/lamps.jpg) **lamps,** and
+- ![]({{ S }}/rs.jpg) **rs** as in
+  ![]({{ S }}/letters.t.jpg){{T}} **letters.**
+
+##### s after vowels
+**s** may be looped on after vowels also,
+especially **oa,** as in
+![]({{ S }}/boas.jpg) **boas.**
+
+##### les, res
+- ![]({{ S }}/les.jpg) **les** as in
+  ![]({{ S }}/miles.jpg) **miles**
+- ![]({{ S }}/res.jpg) **res** as in
+  ![]({{ S }}/fares.jpg) **fares**
+
+##### loop z and cross-loop s after curved-foot consonants
+Looping up such a character as
+![]({{ S }}/n.jpg) **n** adds
+![]({{ S }}/z.jpg) **z**
+as in
+![]({{ S }}/nz.jpg) **nz,**
+the 'cross-loop' being used to add
+![]({{ S }}/s.jpg) **s**
+as in
+![]({{ S }}/ns.jpg) **ns.**
 
 Examples:
 
-##### s after vowels
+- ![]({{ S }}/bronze.jpg) **bronze**
+- ![]({{ S }}/sins.jpg) **sins**
+- ![]({{ S }}/seems.jpg) **seems**
+- ![]({{ S }}/sings.t.jpg){{T}} **sings**
+- ![]({{ S }}/loafs.jpg) **loafs**
 
-##### les, res
+##### -ses
+Cross-looping
+![]({{ S }}/s.jpg) **s,**
+![]({{ S }}/ss.t.jpg){{T}} **ss**
+adds **-es,** as in:
 
-##### loop z and cross-loop s after curved-foot consonants
+- ![]({{ S }}/loses.jpg) **loses**
+- ![]({{ S }}/misses.t.jpg){{T}} **misses.**
+
+![]({{ S }}/ns.jpg) **ns**
+may be made into **nses** by looping up the cross-stroke:
+
+- ![]({{ S }}/sense.jpg), ![]({{ S }}/senses.jpg) **sense, -s.**
 
 ##### back-hook for final s
 
