@@ -727,11 +727,74 @@ Final **hs, qs, ques** are written:
 
 ##### thr, thw
 
+- **thr** is expressed by
+  ![sr]({{ S }}/sr.jpg "sr")
+  as there is no **sr** in English:
+  ![]({{ S }}/thrice.jpg) **thrice**
+- So also **thw** is expressed by
+  ![sw]({{ S }}/sw.jpg "sw"):
+  ![]({{ S }}/thwart.jpg) **thwart**
+
 ##### forward-ring w
 
-##### other notes
+**w** is generally added by means of the 'forward ring',
+which is written either upwards or downwards as is most convenient:
+
+- ![]({{ S }}/twitter.t.jpg){{T}} **twitter**
+- ![]({{ S }}/dwell.t.jpg){{T}} **dwell**
+
+Signs:
+
+- ![bw]({{ S }}/bw.jpg "bw") = **between**
+
+##### obvious ligatures
+
+There are many ligatures which do not require explanation, such as
+
+- ![]({{ S }}/dz.jpg) **dz** as in
+  ![]({{ S }}/adze.jpg) **adze**
+- ![]({{ S }}/pph.jpg) **pph** as in
+  ![]({{ S }}/sapphire.jpg) **sapphire**
+  
+Signs:
+
+- ![]({{ S }}/bv.jpg) **bv** = **above**
+
+##### raised short consonant beginning a consonant group
+When a short consonant begins a consonant-group,
+it may be written raised,
+implying that there is no vowel between:
+
+- ![]({{ S }}/nonsense.jpg), ![]({{ S }}/nonsense-with-NSE.jpg) **nonsense**
+- ![]({{ S }}/punctual.t.jpg){{T}} **punctual**
+- ![]({{ S }}/aesthetic.t.jpg){{T}} **aesthetic.**
+
+It is often convenient to write
+**ntr** etc in this way, as in
+![]({{ S }}/en-tr-y.jpg) **entry** = ![]({{ S }}/e-ntr-y.jpg),
+**mpr** being written
+![]({{ S }}/m-pr.jpg), as in
+![]({{ S }}/empress.t.jpg){{T}} **empress.**
+
+##### other ways to form ligatures
+
+Some ligatures may be made by joining on below the line: ![]({{ S }}/depth.t.jpg){{T}} **depth.**
 
 <!-- BEGIN p 13 -->
+
+In other cases,
+crowding,
+detaching,
+and grafting must be employed:
+
+- ![]({{ S }}/crimson.t.jpg){{T}} **crimson,**
+  ![]({{ S }}/songster.t.jpg){{T}} **songster,**
+  ![]({{ S }}/nymph.jpg) **nymph** ;
+- ![]({{ S }}/suffer.jpg) **suffer,**
+  ![]({{ S }}/upper.jpg) **upper** ;
+- ![]({{ S }}/christen.t.jpg){{T}} **christen,**
+  ![]({{ S }}/actress.t.jpg){{T}} **actress.**
+
 
 #### Rising Consonants
 
