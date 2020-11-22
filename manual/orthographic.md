@@ -623,6 +623,10 @@ Examples:
     ![]({{ S }}/squint.t.jpg){{T}} **squint**
   - ![]({{ S }}/sp.t.jpg){{T}} **sp** as in
     ![]({{ S }}/sphere.t.jpg){{T}} **sphere**
+    
+Signs:
+
+- ![sm]({{ S }}/sm.jpg "sm") = **some, sum**
 
 ##### s after
 It is also added by a loop in:
@@ -651,6 +655,10 @@ and also:
   ![]({{ S }}/lamps.jpg) **lamps,** and
 - ![]({{ S }}/rs.jpg) **rs** as in
   ![]({{ S }}/letters.t.jpg){{T}} **letters.**
+  
+Signs:
+
+- ![ts]({{ S }}/ts.jpg "ts") = **twice**
 
 ##### s after vowels
 **s** may be looped on after vowels also,
@@ -698,9 +706,24 @@ may be made into **nses** by looping up the cross-stroke:
 
 ##### back-hook for final s
 
+When the loop is not convenient,
+final **s** is added by means of a 'back-hook' or any convenient hook that is not liable to be
 <!-- BEGIN p 12 -->
+taken for a vowel:
+
+- ![]({{ S }}/reads.jpg) **reads**
+- ![]({{ S }}/cabs.t.jpg){{T}} **cabs**
+- ![]({{ S }}/lights.t.jpg){{T}} **lights**
+- ![]({{ S }}/laughs1.t.jpg){{T}}, ![]({{ S }}/laughs2.t.jpg){{T}} **laughs**
+- ![]({{ S }}/tests1.t.jpg){{T}}, ![]({{ S }}/tests2.t.jpg){{T}}, ![]({{ S }}/tests3.t.jpg){{T}} **tests.**
 
 ##### -hs, -qs, -ques
+
+Final **hs, qs, ques** are written:
+- ![]({{ S }}/hs.jpg) **-hs** as in
+  ![]({{ S }}/the-shah's turban.t.jpg){{T}}
+- ![]({{ S }}/qs.t.jpg){{T}} **-q(ue)s** as in
+  ![]({{ S }}/M Le Coq's clothes.t.jpg){{T}} **M. Le Coq's clothes**
 
 ##### thr, thw
 
