@@ -477,7 +477,7 @@ Signs:
 
 - ![raised L]({{ S }}/L_hi.jpg "raised L") = **all**
 - ![LS]({{ S }}/always.jpg "LS") = **always**
-- ![BL]({{ S }}/BL.jpg "BL") = **below**
+- ![BL]({{ S }}/below.jpg "BL") = **below**
 
 ##### R
 **r** when final or followed by a consonant is expressed by
