@@ -483,14 +483,14 @@ Signs:
 **r** when final or followed by a consonant is expressed by
 ![high-mid ring connected at the top]({{ S }}/r_flavours.jpg "high-mid ring connected at the top"),
 which is run on to **t,** **n,** etc.:
-![]({{ S }}/terror.jpg) **terror,**
+![]({{ S }}/terror.t.jpg){{T}} **terror,**
 ![]({{ S }}/word.jpg) **word,**
 ![]({{ S }}/heart.t.jpg){{T}} **heart,**
 ![]({{ S }}/burn.jpg) **burn.**
 
 Before such consonants as **s** it may be written as an upward loop run on to the consonant:
 ![]({{ S }}/curse.t.jpg){{T}} **curse,**
-![]({{ S }}/force.jpg) **force.**
+![]({{ S }}/force.t.jpg){{T}} **force.**
 
 Final
 ![vertical R]({{ S }}/r.jpg "vertical R")
