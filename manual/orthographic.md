@@ -439,10 +439,12 @@ as in
 the stroke being prefixed to initial **eel** and added to final **lee**:
 ![]({{ S }}/eel.jpg) **eel,**
 ![]({{ S }}/Lee.jpg) **Lee,**
-![]({{ S }}/glee.jpg) **glee.**
+![]({{ S }}/glee.t.jpg){{T}} **glee.**
 
 After a long vowel
-the **L** may be lengthened instead of the vowel, as in
+the **L** may
+<!-- BEGIN p 9 -->
+be lengthened instead of the vowel, as in
 ![]({{ S }}/veil.jpg) **veil.**
 
 The stroke before low **L** must be written under the line:
@@ -477,7 +479,6 @@ Signs:
 - ![LS]({{ S }}/always.jpg "LS") = **always**
 - ![BL]({{ S }}/BL.jpg "BL") = **below**
 
-<!-- BEGIN p 9 -->
 ##### R
 **r** when final or followed by a consonant is expressed by
 ![high-mid ring connected at the top]({{ S }}/r_flavours.jpg "high-mid ring connected at the top"),
