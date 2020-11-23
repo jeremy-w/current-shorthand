@@ -448,7 +448,7 @@ be lengthened instead of the vowel, as in
 ![]({{ S }}/veil.jpg) **veil.**
 
 The stroke before low **L** must be written under the line:
-![]({{ S }}/elect.jpg) **elect.**
+![]({{ S }}/elect.t.jpg){{T}} **elect.**
 
 {% assign NBH = '&#8209;' %}
 **L** is also expressed by the upright
