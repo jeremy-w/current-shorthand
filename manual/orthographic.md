@@ -514,8 +514,8 @@ ending in rising loops add **r** as in
 ![]({{ S }}/creature.t.jpg){{T}} **creature.**
 
 **r** is simply crowded on after down-loop consonants such as
-![]({{ S }}/sh.jpg) **sh**:
-![]({{ S }}/shrill.jpg) **shrill.**
+![]({{ S }}/sh2.t.jpg){{T}} **sh**:
+![]({{ S }}/shrill.t.jpg){{T}} **shrill.**
 
 **nr** is best written grafted, as in
 ![]({{ S }}/Henry.t.jpg){{T}} **Henry.**
