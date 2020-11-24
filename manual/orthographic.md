@@ -523,8 +523,8 @@ ending in rising loops add **r** as in
 Signs:
 
 - ![ring R]({{ S }}/ring_r.jpg "ring R") = **her**
-- ![PR]({{ S }}/perhaps.jpg "PR") = **perhaps**
-- ![FR]({{ S }}/BL.jpg "FR") = **from**
+- ![PR]({{ S }}/pr.jpg "PR") = **perhaps**
+- ![FR]({{ S }}/fr.jpg "FR") = **from**
 
 
 #### Consonant-Groups
