@@ -133,8 +133,8 @@ lowered
   ![]({{ S }}/gypsy.t.jpg){: .tall } **gypsy.**
   The shorter **i** may generally be written instead:
   ![]({{ S }}/gipsi.t.jpg){: .tall } **"gipsi,"**
-  ![]({{ S }}/citi.t.jpg){: .tall } **city** (literally "citi"),
-  ![]({{ S }}/dai.jpg) **day** (literally "dai").
+  ![]({{ S }}/citi.t.jpg){: .tall } **city** (literally 'citi'),
+  ![]({{ S }}/dai.jpg) **day** (literally 'dai').
 
 - ![]({{ S }}/œ.jpg) **œ.**
   ![]({{ S }}/phœnix.t.jpg){: .tall } **phœnix,**
@@ -170,8 +170,8 @@ lowered
   ![]({{ S }}/saw.jpg) **saw,**
   ![]({{ S }}/now.jpg) **now.**
   In all familiar words **u** may be substituted:
-  ![]({{ S }}/sau.jpg) **"sau,"**
-  ![]({{ S }}/nou.jpg) **"nou."**
+  ![]({{ S }}/sau.jpg) **'sau,'**
+  ![]({{ S }}/nou.jpg) **'nou.'**
 
 #### Lengthening
 Lengthening a vowel-character implies preceding **e**:
