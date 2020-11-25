@@ -646,9 +646,9 @@ It is also added by a loop in:
 
 and also:
 
-- ![]({{ S }}/ls.jpg) **ls** as in
+- ![]({{ S }}/LS.jpg) **ls** as in
   ![]({{ S }}/details.jpg) **details**
-- ![]({{ S }}/lls.t.jpg){{T}} **lls** as in
+- ![]({{ S }}/LLS.t.jpg){{T}} **lls** as in
   ![]({{ S }}/fills.t.jpg){{T}} **fills**
 - ![]({{ S }}/nds.jpg) **nds** as in
   ![]({{ S }}/sends.jpg) **sends**
