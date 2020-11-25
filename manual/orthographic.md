@@ -799,6 +799,36 @@ and grafting must be employed:
 
 #### Rising Consonants
 
+Some of the consonants are written upwards as well as downwards,
+so as to avoid connecting-strokes.
+When these 'risers' are written detached,
+we graft them on to a horizontal stroke, thus
+![]({{ S }}/b_rising.jpg) = rising **b.**
+Most of them are written only finally,
+and are employed chiefly in contractions.
+
+- ![]({{ S }}/th_rising.jpg)
+  rising **th** as in
+  ![]({{ S }}/tenth.jpg), ![]({{ S }}/tenths.jpg)
+  **tenth, -s**
+- ![]({{ S }}/p_rising.jpg),
+  ![]({{ S }}/b_rising.jpg)
+  rising **p, b**
+- ![]({{ S }}/f_rising.jpg)
+  rising **f** as in
+  ![]({{ S }}/self.jpg)
+- ![]({{ S }}/v_rising.jpg)
+  rising **v** as in
+  ![]({{ S }}/selves.jpg) ;
+  ![]({{ S }}/love.jpg), ![]({{ S }}/loves.jpg)
+  **love, -s.**
+  This character is used more freely than the other risers.
+
+Signs:
+
+- ![raised AL]({{ S }}/AL_hi.jpg "raised AL") = **although**
+- ![w + rising th]({{ S }}/with.jpg "w + rising th") = **with**
+
 
 ### List of Characters
 <!-- BEGIN p 14 -->
