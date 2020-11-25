@@ -607,7 +607,7 @@ Examples:
 
 - As a high clockwise loop before **b** and **w**:
   - ![]({{ S }}/sb.jpg) **sb** as in
-    ![]({{ S }}/husband.jpg) **husband**
+    ![]({{ S }}/husband.t.jpg){{T}} **husband**
   - ![]({{ S }}/sw.jpg) **sw** as in
     ![]({{ S }}/swift.jpg) **swift**
 
@@ -615,15 +615,15 @@ Examples:
   - ![]({{ S }}/sn.jpg) **sn** as in
     ![]({{ S }}/snow.jpg) **snow**
   - ![]({{ S }}/sm.jpg) **sm** as in
-    ![]({{ S }}/smoke.jpg) **smoke**
+    ![]({{ S }}/smoke.t.jpg){{T}} **smoke**
   - ![]({{ S }}/sf.jpg) **sf** as in
     ![]({{ S }}/satisfy.jpg) **satisfy**
   - ![]({{ S }}/sc.t.jpg){{T}} **sc** as in
     ![]({{ S }}/scale.t.jpg){{T}} **scale**
-  - ![]({{ S }}/sq.t.jpg){{T}} **sq** as in
+  - ![]({{ S }}/squ.t.jpg){{T}} **squ** as in
     ![]({{ S }}/squint.t.jpg){{T}} **squint**
-  - ![]({{ S }}/sp.t.jpg){{T}} **sp** as in
-    ![]({{ S }}/sphere.t.jpg){{T}} **sphere**
+  - ![]({{ S }}/sph.jpg) **sph** as in
+    ![]({{ S }}/sphere.jpg) **sphere**
     
 Signs:
 
