@@ -1096,7 +1096,7 @@ either the one that is least easy to write or is least distinctive:
 especially in unaccented syllables:
 ![]({{ S }}/prepare.jpg) **prepare,**
 ![]({{ S }}/telegraph.t.jpg){{T}} **telegraph.**
-It is especially convenient to write **ct* for **ctr,** as in
+It is especially convenient to write **ct** for **ctr,** as in
 ![]({{ S }}/electric.t.jpg){{T}} **electric.**
 **r** may often be omitted before a
 <!-- BEGIN p 19 -->
