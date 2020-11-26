@@ -832,8 +832,86 @@ Signs:
 
 ### List of Characters
 <!-- BEGIN p 14 -->
+_Of some of the ligatures only a few examples are given under the modifying element – **ts** under **s** etc.)_
+
+<!-- COLUMN 1 -->
+- a: ![]({{ S }}/a.jpg).
+- æ: ![]({{ S }}/æ.jpg).
+
+- b: ![]({{ S }}/b.jpg). ![]({{ S }}/b_rising.jpg).
+- bt: ![]({{ S }}/bt.jpg).
+
+- c: ![]({{ S }}/c.t.jpg){{T}}.
+- ch: ![]({{ S }}/ch.t.jpg){{T}}.
+- chr: ![]({{ S }}/chr.t.jpg){{T}}.
+- ck: ![]({{ S }}/ck.t.jpg){{T}}.
+- cr: ![]({{ S }}/cr.t.jpg){{T}}.
+- ct: ![]({{ S }}/ct.t.jpg){{T}}.
+- ctr: ![]({{ S }}/ctr.t.jpg){{T}}.
+
+- d: ![]({{ S }}/d.jpg).
+- dd: ![]({{ S }}/dd.t.jpg){{T}}.
+
+- e: ![]({{ S }}/e.jpg) ![]({{ S }}/e_stroke.jpg).
+- ea: ![]({{ S }}/ea.jpg).
+- ee: ![]({{ S }}/ee.jpg) ![]({{ S }}/ee_stroke.jpg).
+- eel: ![]({{ S }}/eel.jpg).
+- ei: ![]({{ S }}/ei.jpg).
+<!-- COLUMN 2 -->
+- eo: ![]({{ S }}/eo.jpg).
+- eu: ![]({{ S }}/eu.jpg).
+- ew: ![]({{ S }}/ew.jpg) ![]({{ S }}/eu.jpg).
+- ey: ![]({{ S }}/ey.jpg) ![]({{ S }}/ei.jpg).
+
+- f: ![]({{ S }}/f.jpg). ![]({{ S }}/f_rising.jpg).
+- ft: ![]({{ S }}/ft.jpg).
+
+- g: ![]({{ S }}/g.t.jpg){{T}}.
+- gh: ![]({{ S }}/gh.t.jpg){{T}}.
+- ght: ![]({{ S }}/gt.t.jpg){{T}}.
+
+- h: ![]({{ S }}/h.jpg) ![]({{ S }}/h-.t.jpg){{T}}. ![]({{ S }}/beh-.jpg) **beh-.**
+
+- i: ![]({{ S }}/i.jpg).
+- ie: ![]({{ S }}/ie.jpg).
+
+- j: ![]({{ S }}/j.t.jpg){{T}}.
+- k: ![]({{ S }}/k.t.jpg){{T}}.
+
+- l: ![]({{ S }}/L_hi.jpg) ![]({{ S }}/L_lo.jpg) ![]({{ S }}/L_vert.jpg). ![]({{ S }}/sla.jpg) **sla.**
+- -le: ![]({{ S }}/L_vert.jpg)
+<!-- COLUMN 3 -->
+- lee: ![]({{ S }}/Lee.jpg)
+
+- m: ![]({{ S }}/m.jpg)
+- mb: ![]({{ S }}/mb.jpg)
+- mp: ![]({{ S }}/mp.jpg)
+
+- n: ![]({{ S }}/n.jpg)
+- nd: ![]({{ S }}/nd.jpg)
+- ng: ![]({{ S }}/ng.t.jpg){{T}}.
+- nk: ![]({{ S }}/nk.t.jpg){{T}}.
+- nn: ![]({{ S }}/nn.t.jpg){{T}}.
+- nr: ![]({{ S }}/nr.jpg)
+- nt: ![]({{ S }}/nt.jpg)
+
+- o: ![]({{ S }}/o.jpg)
+- oa: ![]({{ S }}/oa.jpg)
+- œ: ![]({{ S }}/œ.jpg)
+
+- p: ![]({{ S }}/p.jpg). ![]({{ S }}/p_rising.jpg).
+- pf: ![]({{ S }}/pf.jpg).
+- ph: ![]({{ S }}/ph.jpg).
+- pt: ![]({{ S }}/pt.jpg).
 
 <!-- BEGIN p 15 -->
+<!-- COLUMN 1 -->
+
+<!-- COLUMN 2 -->
+
+<!-- COLUMN 3 -->
+
+***
 
 ## Contraction
 
