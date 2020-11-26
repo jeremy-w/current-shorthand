@@ -906,10 +906,53 @@ _Of some of the ligatures only a few examples are given under the modifying elem
 
 <!-- BEGIN p 15 -->
 <!-- COLUMN 1 -->
+- q(u): ![]({{ S }}/qu.t.jpg){{T}}.
 
+- r: ![]({{ S }}/r.jpg) ![]({{ S }}/r_flavours.jpg).
+  - ![]({{ S }}/tr.jpg) **tr.** ![]({{ S }}/fr.jpg) **fr.**
+- rh: ![]({{ S }}/rh.jpg).
+- rr: ![]({{ S }}/rr.t.jpg){{T}}.
+
+- s: ![]({{ S }}/s.jpg).
+  - ![]({{ S }}/st.jpg) **st.**
+    ![]({{ S }}/sw.jpg) **sw.**
+    ![]({{ S }}/sn.jpg) **sn.**
+    ![]({{ S }}/ts.jpg) **ts.**
+    ![]({{ S }}/ds.jpg) **ds.**
+    ![]({{ S }}/ns.jpg), ![]({{ S }}/n-s.jpg) **ns.**
+- sh: ![]({{ S }}/sh.t.jpg){{T}}.
 <!-- COLUMN 2 -->
+- sph: ![]({{ S }}/sph.jpg).
+- ss: ![]({{ S }}/ss.t.jpg){{T}}.
+- sw: ![]({{ S }}/sw.jpg).
+
+- t: ![]({{ S }}/t.jpg).
+
+- th: ![]({{ S }}/th.jpg). ![]({{ S }}/th_rising.jpg).
+- thr: ![]({{ S }}/sr.jpg).
+- thw: ![]({{ S }}/sw.jpg).
+
+- tt: ![]({{ S }}/tt.t.jpg){{T}}.
+
+- u: ![]({{ S }}/u.jpg).
 
 <!-- COLUMN 3 -->
+- v: ![]({{ S }}/v.jpg). ![]({{ S }}/v_rising.jpg).
+
+- w: ![]({{ S }}/w.jpg) ;
+  ![]({{ S }}/w-.jpg).
+  - ![]({{ S }}/tw.jpg) **tw.**
+- wh: ![]({{ S }}/wh.jpg).
+
+- x: ![]({{ S }}/x.t.jpg){{T}}.
+
+- y: ![]({{ S }}/y.jpg) ;
+  ![]({{ S }}/y-.jpg).
+
+- z: ![]({{ S }}/z.jpg).
+  - ![]({{ S }}/nz.jpg) **nz.**
+
+- zz: ![]({{ S }}/zz.t.jpg){{T}}.
 
 ***
 
