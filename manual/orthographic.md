@@ -958,6 +958,152 @@ _Of some of the ligatures only a few examples are given under the modifying elem
 
 ## Contraction
 
+The extent to which contraction may be carried varies under different circumstances.
+It is evident that familiar words may be more safely contracted than unfamiliar ones,
+altho even these may be contracted when they are repeated.
+
+### The Three Principles
+In contracting there are three main principles to be observed:
+
+1. To keep the most sonorous and distinct elements of a word,
+   that is, the accented vowels and the syllables that contain them,
+   as when we contract
+<!-- BEGIN p 16 -->
+   **phótograph** into **phot-gr-ph**
+   ![]({{ S }}/phot-gr-ph.t.jpg){{T}}
+   or **phot-g-ph**
+   ![]({{ S }}/phot-g-ph.t.jpg){{T}},
+   **photográphic** into
+   **ph-t-gra(phi)c**
+   ![]({{ S }}/ph-t-grac.t.jpg){{T}}.
+
+2. To keep, if possible,
+   the beginning and end of the contracted word,
+   as in the last example.
+
+3. To keep the distinctive elements of a word,
+   that is, those sounds or letters which distinguish it from other words with which it might be confounded ;
+   thus the **i** of **sit** is distinctive,
+   because it distinguishes **sit** from **sat** and **set,**
+   and should therefore be written in full,
+   while two such words as **quality** and **quantity** are distinguished solely by their medial consonants **l** and **nt**:
+   ![quality written 'quali']({{ S }}/quantity.t.jpg "quality written 'quali'"){{T}},
+   ![quantity written 'quani']({{ S }}/quantity.t.jpg "quantity written 'quani'"){{T}}.
+
+***
+
+The most obvious method of contraction is the omission of _silent_ letters,
+that is, letters which are neither sounded themselves nor modify the sounds of other letters,
+as in the following examples:
+
+- ![]({{ S }}/bread.jpg) **bread,**
+- ![]({{ S }}/people.jpg) **people,**
+- ![]({{ S }}/edge.t.jpg){{T}} **edge,**
+- ![]({{ S }}/ey.jpg) **eye,**
+- ![]({{ S }}/double.jpg) **double,**
+- ![]({{ S }}/mourn.jpg) **mourn** ;
+- ![]({{ S }}/stuff.jpg) **stuff,**
+- ![]({{ S }}/suppose.jpg) **suppose,**
+- ![]({{ S }}/ghost.t.jpg){{T}} **ghost,**
+- ![]({{ S }}/lamb.jpg) **lamb,**
+- ![]({{ S }}/foreign.jpg) **foreign,**
+- ![]({{ S }}/knowledge1.t.jpg){{T}},
+  ![]({{ S }}/knowledge2.t.jpg){{T}} **knowledge.**
+
+
+
+The substitution of a _phonetic_ for an unphonetic spelling often shortens writing or makes it easier.
+Thus
+<!-- BEGIN p 17 -->
+it is convenient to write **f** for **ph** and **gh** in such words as
+![]({{ S }}/sphere.jpg) **sphere,**
+![]({{ S }}/phlegm.jpg) **phlegm,**
+![]({{ S }}/enough.jpg) **enough.**
+So also **k** and **s** may be written instead of **c** (**ch**), as in
+![]({{ S }}/secret.t.jpg){{T}} **secret,**
+![]({{ S }}/school.t.jpg){{T}} **school,**
+![]({{ S }}/success.t.jpg){{T}} **success.**
+
+
+
+**h** should be dropped in all words which drop it when unaccented, such as
+**him, ’im** ![]({{ S }}/him.jpg).
+As **h** is dropped in all words in vulgar speech without causing confusion,
+it may be dropped in writing in all familiar words.
+It is especially convenient to drop it when not initial, as in
+![]({{ S }}/abhor.jpg) **abhor,**
+![]({{ S }}/apprehend.jpg) **apprehend,**
+where the **e** is written in full to show that it is accented.
+
+
+Any vowel or vowel-group may be expressed by the short stroke
+if the consonant-outline is distinctive enough, as in
+![]({{ S }}/chasm.t.jpg){{T}} **chasm,**
+![]({{ S }}/pseudonym.jpg) **pseudonym,**
+especially in unaccented syllables, as in
+![]({{ S }}/honour.jpg) **honour.**
+
+When unaccented vowels are dropped between consonants,
+these may often be joined together into ligatures, as in
+![]({{ S }}/credulous.t.jpg){{T}} **credulous,**
+![]({{ S }}/shilling.t.jpg){{T}} **shilling,**
+![]({{ S }}/separate.jpg) **separate,**
+![]({{ S }}/opposite.jpg) **opposite.**
+
+**er, ir, ur** final or before consonants all have
+<!-- BEGIN p 18 -->
+the same sound, as in **serve, sir, fur** ;
+hence they can all be written alike with the simple stroke:
+![]({{ S }}/serve.jpg) **serve,**
+![]({{ S }}/sir.jpg) **sir,**
+![]({{ S }}/fur.jpg) **fur.**
+This allows us to shorten **ier** final or before a consonant into **ir**:
+![]({{ S }}/fierce.t.jpg){{T}} **fierce.**
+
+
+
+A further step in contraction is the omission of _sounding_ letters,
+whenever this can be done without causing confusion:—
+
+Double consonants may often be written single, as in
+![]({{ S }}/beggar.t.jpg){{T}} **beggar,**
+![]({{ S }}/upper.jpg) **upper,**
+**k** being written for **ck,** as in 
+![]({{ S }}/pick.t.jpg){{T}},
+![]({{ S }}/picking.t.jpg){{T}}
+**pick, -ing.**
+
+
+Inconvenient consonant-joins may often be avoided by omitting one of the consonants —
+either the one that is least easy to write or is least distinctive:
+
+![]({{ S }}/absent.jpg) **absent**
+[![]({{ S }}/assent.t.jpg){{T}} **assent**],
+![]({{ S }}/admire.jpg) **admire,**
+![]({{ S }}/object.t.jpg){{T}} **object** ;
+![]({{ S }}/attempt.jpg) **attempt,**
+![]({{ S }}/tincture.t.jpg){{T}} **tincture,**
+![]({{ S }}/relinquish1.t.jpg){{T}},
+![]({{ S }}/relinquish2.t.jpg){{T}}
+**relinquish.**
+
+![]({{ S }}/magnificent.t.jpg){{T}} **magnificent** ;
+![]({{ S }}/omnipotent.jpg) **omnipotent,**
+![]({{ S }}/pamphlet.jpg) **pamphlet** ;
+![]({{ S }}/nonchalant.jpg) **nonchalant.**
+
+**r** may often be omitted,
+especially in unaccented syllables:
+![]({{ S }}/prepare.jpg) **prepare,**
+![]({{ S }}/telegraph.t.jpg){{T}} **telegraph.**
+It is especially convenient to write **ct* for **ctr,** as in
+![]({{ S }}/electric.t.jpg){{T}} **electric.**
+**r** may often be omitted before a
+<!-- BEGIN p 19 -->
+consonant, as in
+![]({{ S }}/southern.jpg) **southern.**
+
+
 ### Word-Omission
 
 ### Signs
