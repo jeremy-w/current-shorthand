@@ -997,9 +997,9 @@ that is, letters which are neither sounded themselves nor modify the sounds of o
 as in the following examples:
 
 - ![]({{ S }}/bread.jpg) **bread,**
-- ![]({{ S }}/people.jpg) **people,**
+- ![]({{ S }}/pe(o)ple.jpg) **people,**
 - ![]({{ S }}/edge.t.jpg){{T}} **edge,**
-- ![]({{ S }}/ey.jpg) **eye,**
+- ![]({{ S }}/ei.jpg) **eye,**
 - ![]({{ S }}/double.jpg) **double,**
 - ![]({{ S }}/mourn.jpg) **mourn** ;
 - ![]({{ S }}/stuff.jpg) **stuff,**
@@ -1016,7 +1016,7 @@ The substitution of a _phonetic_ for an unphonetic spelling often shortens writi
 Thus
 <!-- BEGIN p 17 -->
 it is convenient to write **f** for **ph** and **gh** in such words as
-![]({{ S }}/sphere.jpg) **sphere,**
+![]({{ S }}/sfere.jpg) **sphere,**
 ![]({{ S }}/phlegm.jpg) **phlegm,**
 ![]({{ S }}/enough.jpg) **enough.**
 So also **k** and **s** may be written instead of **c** (**ch**), as in
@@ -1120,7 +1120,7 @@ Longer words may often be shortened by whole syllables:—
 
 Thus **-ate** may be dropped in many verbs, as in
 ![]({{ S }}/abdicate.t.jpg){{T}} **abdicate,**
-![]({{ S }}/imitate.jpg) **imitate,**
+![]({{ S }}/imit(ate).jpg) **imitate,**
 ![]({{ S }}/ventilate.jpg) **ventilate.**
 
 Such endings as **-alogy** may be contracted by writing only their beginning and end with a distinctive consonant between,
@@ -1254,7 +1254,7 @@ Final ![long low L]({{ S }}/LL.jpg "long low L") without an up-stroke may be use
 ![]({{ S }}/peaceable.t.jpg){{T}} **peaceable,**
 ![]({{ S }}/terrible.jpg) **terrible,**
 and
-![long low L + i]({{ S }}/LL.jpg "long low L + i")
+![long low L + i]({{ S }}/LLi.jpg "long low L + i")
 to express **-bility,** as in
 ![]({{ S }}/excitability.t.jpg){{T}} **excitability,**
 ![]({{ S }}/volubility.jpg) **volubility.**
