@@ -1103,24 +1103,217 @@ It is especially convenient to write **ct** for **ctr,** as in
 consonant, as in
 ![]({{ S }}/southern.jpg) **southern.**
 
+**mb, mp, nd, nt** may often be shortened to **m, n**:
+![]({{ S }}/resemble.jpg) **resemble,**
+![]({{ S }}/important.jpg) **important** ;
+![]({{ S }}/random.jpg) **random,**
+![]({{ S }}/interest.jpg) **interest.**
+So also — with dropping of **r** as well —
+![]({{ S }}/introduce.jpg) **introduce.**
+**mbr, mpr** may be shortened to **mr**:
+![]({{ S }}/Cambridge.t.jpg){{T}} **Cambridge,**
+![]({{ S }}/emperor.jpg) **emperor.**
+
+
+
+Longer words may often be shortened by whole syllables:—
+
+Thus **-ate** may be dropped in many verbs, as in
+![]({{ S }}/abdicate.t.jpg){{T}} **abdicate,**
+![]({{ S }}/imitate.jpg) **imitate,**
+![]({{ S }}/ventilate.jpg) **ventilate.**
+
+Such endings as **-alogy** may be contracted by writing only their beginning and end with a distinctive consonant between,
+**analogy,** for instance, being shortened to
+![]({{ S }}/analogy.t.jpg){{T}}.
+Other examples are:
+![]({{ S }}/democracy.t.jpg){{T}} **democracy,**
+![]({{ S }}/theology1.t.jpg){{T}},
+![]({{ S }}/theology2.t.jpg){{T}} **theology,**
+![]({{ S }}/geography.t.jpg){{T}} **geography,**
+![]({{ S }}/philosophy.jpg) **philosophy,**
+![]({{ S }}/economy.t.jpg){{T}} **economy,**
+![]({{ S }}/misanthropy.jpg) **misanthropy.**
+
+
+
+Final **c** is so rare except in words ending in **-ic**
+that most of these words can be contracted by joining the **c** on to the next preceding accented vowel,
+omitting the intervening consonants:
+![]({{ S }}/physic.t.jpg){{T}} **physic,**
+![]({{ S }}/photographic.t.jpg){{T}} **photographic,**
+![]({{ S }}/misanthropic.t.jpg){{T}} **misanthropic.**
+The ending
+<!-- BEGIN p 20 -->
+**-cal** may be expressed by adding low **L,** as in
+![]({{ S }}/physical.t.jpg){{T}} **physical,**
+![]({{ S }}/logical.t.jpg){{T}} **logical** [![]({{ S }}/local.t.jpg){{T}} **local**].
+The **-al** may be omitted in such words as
+![]({{ S }}/practical.t.jpg){{T}} **practical,**
+![]({{ S }}/theatrical.t.jpg){{T}} **theatrical.**
+Other derivative syllables may be added, as in
+![]({{ S }}/physician.t.jpg){{T}} **physician.**
+
+As **v** never occurs finally in English,
+final
+![v]({{ S }}/v.jpg "v")
+may be used to imply contraction, as in
+![]({{ S }}/positive.jpg) **positive,**
+![]({{ S }}/imperative.jpg) **imperative.**
+
+As **x** is very rare initially,
+initial vowels can always be omitted before it:
+![]({{ S }}/axiom.t.jpg){{T}} **axiom,**
+![]({{ S }}/excellent.t.jpg){{T}} **excellent,**
+![]({{ S }}/extravagant.t.jpg){{T}} **extravagant,**
+![]({{ S }}/extraordinary.t.jpg){{T}} **extraordinary.**
+
+So also **cata-, cate-** may be contracted to **ct-,**
+**preter-** to **pt-,**
+**trans-** to **ts-**:
+
+- ![]({{ S }}/catalogue.t.jpg){{T}} **catalogue,** ![]({{ S }}/category.t.jpg){{T}} **category** ;
+- ![]({{ S }}/preternatural.jpg) **preternatural** ;
+- ![]({{ S }}/translate1.jpg), ![]({{ S }}/translate2.jpg) **translate.**
+
+**sub-** may be contracted to **sb**:
+
+- ![]({{ S }}/subject.t.jpg){{T}} **subject,**
+- ![]({{ S }}/substance.jpg) **substance,** and, with contraction of the body of the word, ![]({{ S }}/subst.jpg);
+- ![]({{ S }}/substantial.jpg) **substantial.**
+
+In this, as in other prefixes and endings,
+the stroke between it and the body of the word does not necessarily imply a vowel.
+
+<!-- BEGIN p 21 -->
+So, again, **un-** may be shortened to **u-,**
+**uni-** to **ui-**:
+
+- **u(n)-**
+  - ![]({{ S }}/unseen.jpg) **unseen**
+  - ![]({{ S }}/unkind.t.jpg){{T}} **unkind**
+  - ![]({{ S }}/unhealthy.jpg) **unhealthy**
+
+- **u(n)i-**
+  - ![]({{ S }}/uniform1.jpg), ![]({{ S }}/uniform2.jpg) **uniform**
+  - ![]({{ S }}/universal.jpg) **universal**
+
+
+When final **y** is written **i,**
+full final **y** may be used to imply the endings **-ety, -ity,** as in
+![]({{ S }}/variety.jpg) **variety,**
+![]({{ S }}/deity.jpg) **deity,**
+and, with further contraction,
+![]({{ S }}/dignity.t.jpg){{T}} **dignity,**
+![]({{ S }}/reality.jpg) **reality,**
+![]({{ S }}/authority.jpg) **authority.**
+The **y** must be kept when an inflection is added:
+![]({{ S }}/abilities.jpg) **abilities.**
+
+
+As **ng** does not occur initially,
+initial
+![ng]({{ S }}/ng.t.jpg "ng")
+may be utilized to express
+**con-,** **com(m)-,**
+as in
+![]({{ S }}/contend.t.jpg){{T}} **contend,**
+![]({{ S }}/complex1.t.jpg){{T}},
+![]({{ S }}/complex2.t.jpg){{T}}
+**complex,**
+![]({{ S }}/common.t.jpg){{T}} **common.**
+So also:
+
+- ![nga]({{ S }}/contra-.t.jpg "nga"){{T}} = **contra-**
+  as in
+  ![]({{ S }}/contradict.t.jpg){{T}} **contradict,**
+- ![ngo]({{ S }}/contra-.t.jpg "ngo"){{T}} = **contro-**
+  as in
+  ![]({{ S }}/contradict.t.jpg){{T}} **controvert,**
+- ![ngr]({{ S }}/contra-.t.jpg "ngr"){{T}} = **counter-**
+  as in
+  ![]({{ S }}/contradict.t.jpg){{T}} **counterfeit.**
+
+
+
+Characters which are not required in ordinary writing may be used as contractions of prefixes and endings:—
+
+Thus may be utilized:
+
+- ![low ring s + t]({{ S }}/s-t.jpg "low ring s + t") to express **Saint (St.)** as in
+  ![]({{ S }}/St-John.jpg), ![]({{ S }}/St-Jon.jpg) **St. John,**
+  ![]({{ S }}/St-Paul's.jpg) **St. Paul's,**
+- ![low ring s + p]({{ S }}/s-p.jpg "low ring s + p") to express **super-** as in
+  ![]({{ S }}/superfluous.jpg) **superfluous,**
+- ![low ring s + k]({{ S }}/s-k.t.jpg "low ring s + k"){{T}} to express **circum-** as in
+<!-- BEGIN p 22 -->
+  ![]({{ S }}/circumstance.t.jpg){{T}}, ![]({{ S }}/circumstantial.t.jpg){{T}} **circumstance, -stantial.**
+
+Final ![long low L]({{ S }}/LL.jpg "long low L") without an up-stroke may be used to express
+**-able, -ible** etc, as in
+![]({{ S }}/peaceable.t.jpg){{T}} **peaceable,**
+![]({{ S }}/terrible.jpg) **terrible,**
+and
+![long low L + i]({{ S }}/LL.jpg "long low L + i")
+to express **-bility,** as in
+![]({{ S }}/excitability.t.jpg){{T}} **excitability,**
+![]({{ S }}/volubility.jpg) **volubility.**
+
+flipped N
+
+flipped C
+
+closed M
+
+
+<!-- BEGIN p 23 -->
+position
+
+<!-- BEGIN p 24 -->
 
 ### Word-Omission
 
 ### Signs
 
+<!-- BEGIN p 25 -->
+<!-- COLUMN 1 -->
+<!-- COLUMN 2 -->
+<!-- COLUMN 3 -->
+
+<!-- BEGIN p 26 -->
+<!-- COLUMN 1 -->
+<!-- COLUMN 2 -->
+<!-- COLUMN 3 -->
+
+
+
+<!-- BEGIN p 27 -->
 ### Free Contractions
 
 
 
-
+***
+<!-- BEGIN p 28 -->
 ## Specimens
 
 ### A Psalm of Life
+
+<!-- BEGIN p 32 -->
 
 ### The House-Dog and the Wolf
 
 ### Characteristics of the Age
 
+<!-- BEGIN p 36 -->
+
 ### (Current Only 1)
+<!-- BEGIN p 37 -->
+<!-- BEGIN p 38 -->
+<!-- BEGIN p 39 -->
+<!-- BEGIN p 40 -->
 
 ### (Current Only 2)
+
+<!-- BEGIN p 41 -->
+<!-- BEGIN p 42 -->
+<!-- BEGIN p 43 -->
