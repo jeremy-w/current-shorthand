@@ -716,13 +716,13 @@ taken for a vowel:
 - ![]({{ S }}/cabs.t.jpg){{T}} **cabs**
 - ![]({{ S }}/lights.t.jpg){{T}} **lights**
 - ![]({{ S }}/laughs1.t.jpg){{T}}, ![]({{ S }}/laughs2.t.jpg){{T}} **laughs**
-- ![]({{ S }}/tests1.jpg), ![]({{ S }}/tests2.jpg), ![]({{ S }}/tests3.jpg) **tests.**
+- ![]({{ S }}/tests1.t.jpg){{T}}, ![]({{ S }}/tests2.t.jpg){{T}}, ![]({{ S }}/tests3.jpg) **tests.**
 
 ##### -hs, -qs, -ques
 
 Final **hs, qs, ques** are written:
 - ![]({{ S }}/-hs.jpg) **-hs** as in
-  ![]({{ S }}/the-Shah's turban.t.jpg){{T}}
+  ![]({{ S }}/the-Shah's turban.t.jpg){{T}} **the Shah's turban**
 - ![]({{ S }}/-qs.t.jpg){{T}} **-q(ue)s** as in
   ![]({{ S }}/M Le Coq's.t.jpg){{T}} ![]({{ S }}/clothes.t.jpg){{T}} **M. Le Coq's clothes**
 
@@ -731,7 +731,7 @@ Final **hs, qs, ques** are written:
 - **thr** is expressed by
   ![sr]({{ S }}/sr.jpg "sr")
   as there is no **sr** in English:
-  ![]({{ S }}/thrice.jpg) **thrice**
+  ![]({{ S }}/thrice.t.jpg){{T}} **thrice**
 - So also **thw** is expressed by
   ![sw]({{ S }}/sw.jpg "sw"):
   ![]({{ S }}/thwart.jpg) **thwart**
