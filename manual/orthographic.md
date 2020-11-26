@@ -1306,13 +1306,13 @@ position
 
 <!-- BEGIN p 36 -->
 
-### (Current Only 1)
+### The Darning-Needle
 <!-- BEGIN p 37 -->
 <!-- BEGIN p 38 -->
 <!-- BEGIN p 39 -->
 <!-- BEGIN p 40 -->
 
-### (Current Only 2)
+### Celtic and Old English Literature
 
 <!-- BEGIN p 41 -->
 <!-- BEGIN p 42 -->
