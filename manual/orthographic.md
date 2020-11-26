@@ -716,15 +716,15 @@ taken for a vowel:
 - ![]({{ S }}/cabs.t.jpg){{T}} **cabs**
 - ![]({{ S }}/lights.t.jpg){{T}} **lights**
 - ![]({{ S }}/laughs1.t.jpg){{T}}, ![]({{ S }}/laughs2.t.jpg){{T}} **laughs**
-- ![]({{ S }}/tests1.t.jpg){{T}}, ![]({{ S }}/tests2.t.jpg){{T}}, ![]({{ S }}/tests3.t.jpg){{T}} **tests.**
+- ![]({{ S }}/tests1.jpg), ![]({{ S }}/tests2.jpg), ![]({{ S }}/tests3.jpg) **tests.**
 
 ##### -hs, -qs, -ques
 
 Final **hs, qs, ques** are written:
-- ![]({{ S }}/hs.jpg) **-hs** as in
-  ![]({{ S }}/the-shah's turban.t.jpg){{T}}
-- ![]({{ S }}/qs.t.jpg){{T}} **-q(ue)s** as in
-  ![]({{ S }}/M Le Coq's clothes.t.jpg){{T}} **M. Le Coq's clothes**
+- ![]({{ S }}/-hs.jpg) **-hs** as in
+  ![]({{ S }}/the-Shah's turban.t.jpg){{T}}
+- ![]({{ S }}/-qs.t.jpg){{T}} **-q(ue)s** as in
+  ![]({{ S }}/M Le Coq's.t.jpg){{T}} ![]({{ S }}/clothes.t.jpg){{T}} **M. Le Coq's clothes**
 
 ##### thr, thw
 
@@ -768,7 +768,7 @@ implying that there is no vowel between:
 
 - ![]({{ S }}/nonsense.jpg), ![]({{ S }}/nonsense-with-NSE.jpg) **nonsense**
 - ![]({{ S }}/punctual.t.jpg){{T}} **punctual**
-- ![]({{ S }}/aesthetic.t.jpg){{T}} **aesthetic.**
+- ![]({{ S }}/æsthetic.t.jpg){{T}} **æsthetic.**
 
 It is often convenient to write
 **ntr** etc in this way, as in
