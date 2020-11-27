@@ -1067,7 +1067,7 @@ whenever this can be done without causing confusion:—
 
 Double consonants may often be written single, as in
 ![]({{ S }}/beggar.t.jpg){{T}} **beggar,**
-![]({{ S }}/upper.jpg) **upper,**
+![]({{ S }}/up(p)er.jpg) **upper,**
 **k** being written for **ck,** as in 
 ![]({{ S }}/pick.t.jpg){{T}},
 ![]({{ S }}/picking.t.jpg){{T}}
