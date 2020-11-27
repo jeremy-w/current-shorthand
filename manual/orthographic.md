@@ -1090,7 +1090,7 @@ either the one that is least easy to write or is least distinctive:
 ![]({{ S }}/magnificent.t.jpg){{T}} **magnificent** ;
 ![]({{ S }}/omnipotent.jpg) **omnipotent,**
 ![]({{ S }}/pamphlet.jpg) **pamphlet** ;
-![]({{ S }}/nonchalant.jpg) **nonchalant.**
+![]({{ S }}/nonchalant.t.jpg){{T}} **nonchalant.**
 
 **r** may often be omitted,
 especially in unaccented syllables:
