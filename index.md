@@ -5,9 +5,12 @@ It is the (Henry) Sweetest shorthand ever.
 It is truly and entirely lineal, and it looks really darn fancy written with a broad edge pen.
 
 ### The Manual
-- [**The Preface**]({{ "/manual/preface" | relative_url }}) positions Current against Pitman and Gabelsberger/Stolze, enumerates the advantages of Current, and recaps the development of the system. It ends with a downer: everyone Sweet was excited to show the finished, printed version of the shorthand he'd been working on for a decade had died before he got to that point. E-hugs from the future, Señor Sweet. Publishing paid off!
-- [**Orthographic Current**]({{ "/manual/orthographic" | relative_url }}) describes the orthographic system. The original text is about 25 handwritten pages describing the system followed by 15 pages of example passages demonstrating it at work. It's a simpler system than Phonetic Current (so many fewer vowels!), so it's a good place to start.
-  - The Web version of this is a work in progress.
+- [**The Preface**]({{ "/manual/preface" | relative_url }}) positions Current against Pitman and Gabelsberger/Stolze, enumerates the advantages of Current, and recaps the development of the system.
+  - It ends with a downer: everyone Sweet was excited to show the finished, printed version of the shorthand he'd been working on for a decade had died before he got to that point. E-hugs from the future, Señor Sweet. Publishing paid off!
+- [**Orthographic Current**]({{ "/manual/orthographic" | relative_url }}) describes the orthographic system. It provides a fast way to write words as they are spelt (orthographically), as opposed to how they are pronounced (phonetically).
+  - The original text is about 25 handwritten pages describing the system followed by 15 pages of example texts demonstrating it at work. It's a simpler system than Phonetic Current (so many fewer vowels!), so it's a good place to start.
+  - As of 27 November 2020, the core system description is complete. You can now learn the system using just this Website!
+  - Work continues to transcribe the many contraction techniques and the longer sample texts ("specimens"). 
 - **Phonetic Current** describes the phonetic system. The system is described in around 80 handwritten pages. These are followed by about 13 pages of example texts.
   - There's no link because I haven't begun typing it up yet.
   
