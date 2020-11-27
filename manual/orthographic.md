@@ -987,7 +987,7 @@ In contracting there are three main principles to be observed:
    because it distinguishes **sit** from **sat** and **set,**
    and should therefore be written in full,
    while two such words as **quality** and **quantity** are distinguished solely by their medial consonants **l** and **nt**:
-   ![quality written 'quali']({{ S }}/quantity.t.jpg "quality written 'quali'"){{T}},
+   ![quality written 'quali']({{ S }}/quality.t.jpg "quality written 'quali'"){{T}},
    ![quantity written 'quani']({{ S }}/quantity.t.jpg "quantity written 'quani'"){{T}}.
 
 ***
@@ -999,7 +999,7 @@ as in the following examples:
 - ![]({{ S }}/bread.jpg) **bread,**
 - ![]({{ S }}/pe(o)ple.jpg) **people,**
 - ![]({{ S }}/edge.t.jpg){{T}} **edge,**
-- ![]({{ S }}/ei.jpg) **eye,**
+- ![]({{ S }}/eye.jpg) **eye,**
 - ![]({{ S }}/double.jpg) **double,**
 - ![]({{ S }}/mourn.jpg) **mourn** ;
 - ![]({{ S }}/stuff.jpg) **stuff,**
