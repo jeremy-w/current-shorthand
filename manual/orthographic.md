@@ -895,7 +895,7 @@ _Of some of the ligatures only a few examples are given under the modifying elem
 - nr: ![]({{ S }}/nr.jpg)
 - nt: ![]({{ S }}/nt.jpg)
 
-- o: ![]({{ S }}/o.jpg)
+- o: ![]({{ S }}/o_O.jpg)
 - oa: ![]({{ S }}/oa.jpg)
 - œ: ![]({{ S }}/œ.jpg)
 
@@ -947,7 +947,7 @@ _Of some of the ligatures only a few examples are given under the modifying elem
 - x: ![]({{ S }}/x.t.jpg){{T}}.
 
 - y: ![]({{ S }}/y.jpg) ;
-  ![]({{ S }}/y-.jpg).
+  ![]({{ S }}/y-.t.jpg){{T}}.
 
 - z: ![]({{ S }}/z.jpg).
   - ![]({{ S }}/nz.jpg) **nz.**
