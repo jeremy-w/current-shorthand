@@ -1109,7 +1109,7 @@ consonant, as in
 ![]({{ S }}/random.jpg) **random,**
 ![]({{ S }}/interest.jpg) **interest.**
 So also — with dropping of **r** as well —
-![]({{ S }}/introduce.jpg) **introduce.**
+![]({{ S }}/introduce.t.jpg){{T}} **introduce.**
 **mbr, mpr** may be shortened to **mr**:
 ![]({{ S }}/Cambridge.t.jpg){{T}} **Cambridge,**
 ![]({{ S }}/emperor.jpg) **emperor.**
