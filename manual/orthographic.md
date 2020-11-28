@@ -1179,7 +1179,7 @@ So also **cata-, cate-** may be contracted to **ct-,**
 **sub-** may be contracted to **sb**:
 
 - ![]({{ S }}/subject.t.jpg){{T}} **subject,**
-- ![]({{ S }}/substance.jpg) **substance,** and, with contraction of the body of the word, ![]({{ S }}/subst.jpg);
+- ![]({{ S }}/substance1.t.jpg){{T}} **substance,** and, with contraction of the body of the word, ![]({{ S }}/substance2.jpg);
 - ![]({{ S }}/substantial.jpg) **substantial.**
 
 In this, as in other prefixes and endings,
