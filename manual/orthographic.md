@@ -1411,12 +1411,12 @@ but others may be formed at pleasure, such as
 ![]({{ S }}/difficult.jpg) **difficult,**
 ![]({{ S }}/difficulty.jpg) **difficulty,**
 ![]({{ S }}/different.jpg) **different,**
-![]({{ S }}/enough.jpg) **enough,**
+![]({{ S }}/nuff.jpg) **enough,**
 ![]({{ S }}/full.jpg) **full,**
 ![]({{ S }}/great.t.jpg){{T}} **great,**
 ![]({{ S }}/possible.jpg) **possible,**
 ![]({{ S }}/short.t.jpg){{T}} **short,**
-![]({{ S }}/true.jpg) **true.**
+![]({{ S }}/tr(ue).jpg) **true.**
 
 The ordinary long-hand contractions may of course be used in shorthand as well:
 ![]({{ S }}/tho.jpg) **tho(ugh),**
