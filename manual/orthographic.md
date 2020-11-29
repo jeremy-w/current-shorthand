@@ -1399,7 +1399,32 @@ Many other subordinate words may be OLED in quick writing, such as **the, a, of.
 
 ### Signs
 
+Most signs are formed by giving fixed values to isolated consonants or consonant-groups.
+The raised signs all contain the vowel **i**:
+![raised t]({{ S }}/t_hi.jpg "raised t") = **it** etc.
+Some of the contractions here given fall under the general rules already given.
+
+This list includes only the most necessary
 <!-- BEGIN p 25 -->
+signs;
+but others may be formed at pleasure, such as
+![]({{ S }}/difficult.jpg) **difficult,**
+![]({{ S }}/difficulty.jpg) **difficulty,**
+![]({{ S }}/different.jpg) **different,**
+![]({{ S }}/enough.jpg) **enough,**
+![]({{ S }}/full.jpg) **full,**
+![]({{ S }}/great.t.jpg){{T}} **great,**
+![]({{ S }}/possible.jpg) **possible,**
+![]({{ S }}/short.t.jpg){{T}} **short,**
+![]({{ S }}/true.jpg) **true.**
+
+The ordinary long-hand contractions Matt of course be used in shorthand as well:
+![]({{ S }}/tho.jpg) **tho(ugh),**
+![]({{ S }}/thro.jpg) **thro,**
+![]({{ S }}/Mr.jpg) **Mr.,**
+![]({{ S }}/Mrs.jpg) **Mrs.,**
+![]({{ S }}/Messrs.jpg) **Messrs.**
+
 <!-- COLUMN 1 -->
 <!-- COLUMN 2 -->
 <!-- COLUMN 3 -->
