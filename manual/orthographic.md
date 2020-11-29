@@ -1418,7 +1418,7 @@ but others may be formed at pleasure, such as
 ![]({{ S }}/short.t.jpg){{T}} **short,**
 ![]({{ S }}/true.jpg) **true.**
 
-The ordinary long-hand contractions Matt of course be used in shorthand as well:
+The ordinary long-hand contractions may of course be used in shorthand as well:
 ![]({{ S }}/tho.jpg) **tho(ugh),**
 ![]({{ S }}/thro.jpg) **thro,**
 ![]({{ S }}/Mr.jpg) **Mr.,**
