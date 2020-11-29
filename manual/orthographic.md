@@ -1259,9 +1259,49 @@ to express **-bility,** as in
 ![]({{ S }}/excitability.t.jpg){{T}} **excitability,**
 ![]({{ S }}/volubility.jpg) **volubility.**
 
-flipped N
 
-flipped C
+
+
+![]({{ S }}/n_backwards.jpg),
+= ![n]({{ S }}/n.jpg "n") with the hook turned back,
+may be used to express:
+
+- **-ion** as in
+  ![]({{ S }}/union.jpg) **union**
+- **-s(s)ion** as in
+  ![]({{ S }}/vision.jpg) **vision** and
+  ![]({{ S }}/mission.jpg) **mission**
+- **-tion** as in
+  ![]({{ S }}/nation.jpg) **nation.**
+
+Preceding lip consonants are implied by writing the character high,
+like a **p** or **m**:
+
+- ![]({{ S }}/adoption.jpg) **adoption**
+- ![]({{ S }}/presumption.jpg) **presumption.**
+
+It is written low to imply a preceding **c**:
+
+- ![]({{ S }}/action.t.jpg){{T}} **action**
+- ![]({{ S }}/junction.t.jpg){{T}} **junction.**
+
+The tall form may be utilised to express **-ntion**:
+
+- ![]({{ S }}/mention.t.jpg){{T}} **mention.**
+
+**s** may be hooked on, and other endings added:
+
+- ![]({{ S }}/unions.jpg) **unions**
+- ![]({{ S }}/actions.t.jpg){{T}} **actions**
+- ![]({{ S }}/nationality.jpg) **nationality.**
+
+
+
+
+backwards C
+
+
+
 
 closed M
 
