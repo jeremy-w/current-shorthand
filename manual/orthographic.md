@@ -1263,7 +1263,7 @@ to express **-bility,** as in
 
 
 ![]({{ S }}/n_backwards.jpg),
-= ![n]({{ S }}/n.jpg "n") with the hook turned back,
+= ![]({{ S }}/n.jpg) **n** with the hook turned back,
 may be used to express:
 
 - **-ion** as in
@@ -1315,10 +1315,23 @@ intervening consonants may be omitted:
 
 
 
-closed M
 
-
+![]({{ S }}/m_closed.jpg) —
+a closed-up ![]({{ S }}/m.jpg) **m** —
+may be used to express
 <!-- BEGIN p 23 -->
+the endings **-man, -men**
+(which are pronounced alike)
+so as to avoid inconvenient consonant-joinings, as in:
+
+- ![]({{ S }}/gentlemæn1.t.jpg){{T}},
+  ![]({{ S }}/gentlemæn2.t.jpg){{T}} **gentle-man, -men**
+- ![]({{ S }}/gentlemæn's.t.jpg){{T}} **gentle-man's, -men's**
+- ![]({{ S }}/Englishman.t.jpg){{T}} **Englishman.**
+
+
+
+
 position
 
 <!-- BEGIN p 24 -->
