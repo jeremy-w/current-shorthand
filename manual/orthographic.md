@@ -1241,7 +1241,7 @@ Characters which are not required in ordinary writing may be used as contraction
 Thus may be utilized:
 
 - ![low ring s + t]({{ S }}/s-t.jpg "low ring s + t") to express **Saint (St.)** as in
-  ![]({{ S }}/St-John.jpg), ![]({{ S }}/St-Jon.jpg) **St. John,**
+  ![]({{ S }}/St-John.t.jpg){{T}}, ![]({{ S }}/St-Jon.t.jpg){{T}} **St. John,**
   ![]({{ S }}/St-Paul's.jpg) **St. Paul's,**
 - ![low ring s + p]({{ S }}/s-p.jpg "low ring s + p") to express **super-** as in
   ![]({{ S }}/superfluous.jpg) **superfluous,**
