@@ -1298,8 +1298,20 @@ The tall form may be utilised to express **-ntion**:
 
 
 
-backwards C
+![backwards C]({{ S }}/c_backwards.t.jpg "backwards C"){{T}}
+is similarly used as a contraction of
+**-eous, -ious, -uous,**
+so as to avoid breaks:
 
+- ![]({{ S }}/gorgeous.t.jpg){{T}} **gorgeous**
+- ![]({{ S }}/tedious.t.jpg){{T}} **tedious**
+- ![]({{ S }}/sumptuous1.t.jpg){{T}},
+  ![]({{ S }}/sumptuous2.t.jpg){{T}} **sumptuous**
+
+If the accented vowel of the word is written,
+intervening consonants may be omitted:
+
+- ![]({{ S }}/sagacious.t.jpg){{T}} **sagacious.**
 
 
 
