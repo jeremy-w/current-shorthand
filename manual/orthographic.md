@@ -1426,6 +1426,22 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 ![]({{ S }}/Messrs.jpg) **Messrs.**
 
 <!-- COLUMN 1 -->
+#### A
+- about ![bt]({{ S }}/bt.jpg "bt")
+- above ![bv]({{ S }}/bv.jpg "bv")
+- after ![ar]({{ S }}/ar.jpg "ar")
+- afterwards ![ar^d]({{ S }}/ar^d.jpg "ar^d")
+- again ![g]({{ S }}/g.t.jpg "g"){{T}}
+- against ![gt]({{ S }}/gt.t.jpg "gt"){{T}}
+- all ![mid L]({{ S }}/L_hi.jpg "mid L")
+- almost ![mid L ms]({{ S }}/*Lms.jpg "mid L ms")
+- already ![mid L R]({{ S }}/*LR.jpg "mid L")
+- also ![mid L so]({{ S }}/also.jpg "mid L so")
+- although ![mid L rising TH]({{ S }}/although.jpg "mid L rising TH")
+- altogether ![mid L tr]({{ S }}/altogether.jpg "mid L tr")
+- always ![mid L s]({{ S }}/always.jpg "mid L s")
+- among ![mng]({{ S }}/mng.t.jpg "mng"){{T}}
+
 <!-- COLUMN 2 -->
 <!-- COLUMN 3 -->
 
