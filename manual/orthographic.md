@@ -1440,7 +1440,7 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 - although ![mid L rising TH]({{ S }}/although.jpg "mid L rising TH")
 - altogether ![mid L tr]({{ S }}/altogether.jpg "mid L tr")
 - always ![mid L s]({{ S }}/always.jpg "mid L s")
-- among ![mng]({{ S }}/mng.t.jpg "mng"){{T}}
+- among ![mŋ]({{ S }}/mŋ.t.jpg "mŋ"){{T}}
 
 <!-- COLUMN 2 -->
 <!-- COLUMN 3 -->
