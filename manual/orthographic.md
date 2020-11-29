@@ -1439,7 +1439,37 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 <!-- BEGIN p 27 -->
 ### Free Contractions
 
+The high stroke
+![]({{ S }}/stroke_hi.jpg)
+stands for _any word._
+![]({{ S }}/stroke_hi_and_back.jpg)
+stands for _any group of words._
+These marks may be made more definite by prefixing the initial letter of the single word,
+or the initial letters of the chief words of the group,
+all the characters being joined together.
+Thus **laudanum, stalactite** may be expressed by
+![]({{ S }}/l_etc.jpg),
+![]({{ S }}/st_etc.jpg)
+respectively,
+or, if the context is clear enough, by simple
+![]({{ S }}/stroke_hi.jpg);
+and **United States** may be expressed by
+![]({{ S }}/ust_etc_etc.jpg),
+![]({{ S }}/u_etc_etc.jpg),
+or by
+![]({{ S }}/stroke_hi_and_back.jpg)
+alone.
 
+A more accurate method of free contraction is writing the initial and final letters or letter-groups of a word detached and close together; thus
+
+- ![]({{ S }}/l_m.jpg) = **laudanum,**
+  or any other word beginning with **L** and ending in **M,**
+- ![]({{ S }}/st_t-s.jpg),
+  ![]({{ S }}/st_ts.jpg) = **stalactites** etc,
+- ![]({{ S }}/m_i.jpg) = **mahogany** etc.
+
+When convenient, a final consonant may be written across the up-stroke of an initial consonant, as in
+![]({{ S }}/sXp.jpg) = **satrap** etc.
 
 ***
 <!-- BEGIN p 28 -->
