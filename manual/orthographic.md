@@ -1384,6 +1384,19 @@ The following endings are contracted for the same reason as **-man,** but by pos
 
 ### Word-Omission
 
+The possessive pronouns **my** etc. may almost always be omitted before **self** and **own**:
+
+- ![]({{ S }}/I saw it myself.jpg) **I saw it myself**
+- ![]({{ S }}/I saw it with my own eyes.jpg) **I saw it with my own eyes**
+
+**to** before verbs may generally be omitted, as in:
+
+- ![]({{ S }}/you ought to know what to do.t.jpg){{T}} **you ought to know what to do**
+
+Many other subordinate words may be OLED in quick writing, such as **the, a, of.**
+
+
+
 ### Signs
 
 <!-- BEGIN p 25 -->
