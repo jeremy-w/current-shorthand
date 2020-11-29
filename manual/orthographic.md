@@ -1332,9 +1332,55 @@ so as to avoid inconvenient consonant-joinings, as in:
 
 
 
-position
+Another way of contracting prefixes and endings is by the use of position:
+
+- ![raised N]({{ S }}/n_hi.jpg "raised N")
+  may be joined on to express not only **in-,**
+  but also **im-** and the like-sounding **en-, em-**:
+  - ![]({{ S }}/intend.jpg) **intend**
+  - ![]({{ S }}/entire.jpg) **entire**
+  - ![]({{ S }}/impress.t.jpg){{T}} **impress**
+  - ![]({{ S }}/employ.jpg) **employ**
+  - ![]({{ S }}/enthusiasm.jpg) **enthusiasm**
+  - ![]({{ S }}/enthusiastic.jpg) **enthusiastic**
+  - **imm-** is best written
+    ![]({{ S }}/imm-.jpg): ![]({{ S }}/immediate.jpg) **immediate**
+
+- ![raised S]({{ S }}/s_hi.jpg "raised S") = **dis-, des-,**
+  the **s** being written instead of **d** for the sake of easier joining:
+  - ![]({{ S }}/dissent.jpg) **dissent, descent**
+  - ![]({{ S }}/distant.jpg) **distant**
+  - ![]({{ S }}/display.jpg) **display**
+
+- ![raised i]({{ S }}/i_hi.jpg "raised i") **-ly**:
+  - ![]({{ S }}/manly.jpg) **manly**
+  - ![]({{ S }}/only.jpg) **only**
+  - ![]({{ S }}/really.jpg) **really**
+  - ![]({{ S }}/terribly.jpg) **terribly**
+  - ![]({{ S }}/ungentlemanly.t.jpg){{T}} **ungentlemanly**
+
+The following endings are contracted for the same reason as **-man,** but by position:
+
+- ![raised d]({{ S }}/d_hi.jpg "raised d") **-ward(s),** the **s** being often dropped:
+  - ![]({{ S }}/forward.jpg), ![]({{ S }}/forwards.jpg) **forward, -s**
+  - ![]({{ S }}/towards.jpg) **towards**
+
+- ![raised L]({{ S }}/L_higher.jpg "raised L") **-ful**:
+  - ![]({{ S }}/useful.jpg) **useful**
+  - ![]({{ S }}/successfully.jpg) **successfully**
 
 <!-- BEGIN p 24 -->
+- ![raised n]({{ S }}/n_hi.jpg "raised n") **-ness**:
+  - ![]({{ S }}/hardness.jpg) **hardness**
+  - ![]({{ S }}/usefulness.jpg) **usefulness**
+
+- ![raised nt, nti, ntl, ntli]({{ S }}/nt_etc_hi.jpg "raised nt, nti, ntl, ntli") **-ment, -mentary, -mental, -mentality**:
+  - ![]({{ S }}/agreement1.t.jpg){{T}}, ![]({{ S }}/agreement2.t.jpg){{T}} **agreement**
+  - ![]({{ S }}/rudimentary.jpg) **rudimentary**
+  - ![]({{ S }}/fundamental.jpg) **fundamental**
+  - ![]({{ S }}/instrumentality.jpg) **instrumentality.**
+
+
 
 ### Word-Omission
 
