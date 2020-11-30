@@ -1342,7 +1342,7 @@ Another way of contracting prefixes and endings is by the use of position:
   - ![]({{ S }}/impress.t.jpg){{T}} **impress**
   - ![]({{ S }}/employ.jpg) **employ**
   - ![]({{ S }}/enthusiasm.jpg) **enthusiasm**
-  - ![]({{ S }}/enthusiastic.jpg) **enthusiastic**
+  - ![]({{ S }}/enthusiastic.t.jpg){{T}} **enthusiastic**
   - **imm-** is best written
     ![]({{ S }}/imm-.jpg): ![]({{ S }}/immediate.jpg) **immediate**
 
@@ -1367,7 +1367,7 @@ The following endings are contracted for the same reason as **-man,** but by pos
 
 - ![raised L]({{ S }}/L_higher.jpg "raised L") **-ful**:
   - ![]({{ S }}/useful.jpg) **useful**
-  - ![]({{ S }}/successfully.jpg) **successfully**
+  - ![]({{ S }}/successfully.t.jpg){{T}} **successfully**
 
 <!-- BEGIN p 24 -->
 - ![raised n]({{ S }}/n_hi.jpg "raised n") **-ness**:
