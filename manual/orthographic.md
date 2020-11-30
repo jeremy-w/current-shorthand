@@ -1485,7 +1485,7 @@ A more accurate method of free contraction is writing the initial and final lett
 - ![m i]({{ S }}/m_i.jpg "m i") = **mahogany** etc.
 
 When convenient, a final consonant may be written across the up-stroke of an initial consonant, as in
-![s intersecting p]({{ S }}/s#p.jpg "s intersecting p") = **satrap** etc.
+![s intersecting p]({{ S }}/sXp.jpg "s intersecting p") = **satrap** etc.
 
 ***
 <!-- BEGIN p 28 -->
