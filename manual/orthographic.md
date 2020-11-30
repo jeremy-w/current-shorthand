@@ -1393,7 +1393,7 @@ The possessive pronouns **my** etc. may almost always be omitted before **self**
 
 - ![]({{ S }}/you ought to know what to do.t.jpg){{T}} **you ought to know what to do**
 
-Many other subordinate words may be OLED in quick writing, such as **the, a, of.**
+Many other subordinate words may be omitted in quick writing, such as **the, a, of.**
 
 
 
