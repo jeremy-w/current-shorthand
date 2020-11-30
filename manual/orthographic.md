@@ -1458,34 +1458,34 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 The high stroke
 ![]({{ S }}/stroke_hi.jpg)
 stands for _any word._
-![]({{ S }}/stroke_hi_and_back.jpg)
+![the high stroke with return stroke]({{ S }}/stroke_hi_and_back.jpg "the high stroke with return stroke")
 stands for _any group of words._
 These marks may be made more definite by prefixing the initial letter of the single word,
 or the initial letters of the chief words of the group,
 all the characters being joined together.
 Thus **laudanum, stalactite** may be expressed by
-![]({{ S }}/l_etc.jpg),
-![]({{ S }}/st_etc.jpg)
+![L joined to the high stroke]({{ S }}/L_etc.jpg "L joined to the high stroke"),
+![s.t. joined to the high stroke]({{ S }}/st_etc.jpg "s.t. joined to the high stroke")
 respectively,
 or, if the context is clear enough, by simple
-![]({{ S }}/stroke_hi.jpg);
+![high stroke]({{ S }}/stroke_hi.jpg "high stroke");
 and **United States** may be expressed by
-![]({{ S }}/ust_etc_etc.jpg),
-![]({{ S }}/u_etc_etc.jpg),
+![u.s.t. joined to the high stroke with return stroke]({{ S }}/ust_etc_etc.jpg "u.s.t. joined to the high stroke with return stroke"),
+![u joined to the high stroke with return stroke]({{ S }}/u_etc_etc.jpg "u joined to the high stroke with return stroke"),
 or by
-![]({{ S }}/stroke_hi_and_back.jpg)
+![the high stroke with return stroke]({{ S }}/stroke_hi_and_back.jpg "the high stroke with return stroke")
 alone.
 
 A more accurate method of free contraction is writing the initial and final letters or letter-groups of a word detached and close together; thus
 
-- ![]({{ S }}/l_m.jpg) = **laudanum,**
+- ![L M]({{ S }}/L_m.jpg "L M") = **laudanum,**
   or any other word beginning with **L** and ending in **M,**
-- ![]({{ S }}/st_t-s.jpg),
-  ![]({{ S }}/st_ts.jpg) = **stalactites** etc,
-- ![]({{ S }}/m_i.jpg) = **mahogany** etc.
+- ![s.t. t s]({{ S }}/st_t-s.jpg "s.t. t-s"),
+  ![s.t. t.s.]({{ S }}/st_ts.jpg "s.t. t.s.") = **stalactites** etc,
+- ![m i]({{ S }}/m_i.jpg "m i") = **mahogany** etc.
 
 When convenient, a final consonant may be written across the up-stroke of an initial consonant, as in
-![]({{ S }}/sXp.jpg) = **satrap** etc.
+![s intersecting p]({{ S }}/sXp.jpg "s intersecting p") = **satrap** etc.
 
 ***
 <!-- BEGIN p 28 -->
