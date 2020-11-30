@@ -1291,7 +1291,7 @@ The tall form may be utilised to express **-ntion**:
 
 **s** may be hooked on, and other endings added:
 
-- ![]({{ S }}/unions.jpg) **unions**
+- ![]({{ S }}/unions.t.jpg){{T}} **unions**
 - ![]({{ S }}/actions.t.jpg){{T}} **actions**
 - ![]({{ S }}/nationality.jpg) **nationality.**
 
