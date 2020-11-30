@@ -1490,12 +1490,69 @@ When convenient, a final consonant may be written across the up-stroke of an ini
 ***
 <!-- BEGIN p 28 -->
 ## Specimens
+_Of the following Specimens
+the first only is written in full,
+without any contractions.
+The first three Specimens are accompanied with transliterations._
+
 
 ### A Psalm of Life
 
+Tell me not, in mournful numbers, \
+"Life is but an empty dream!" \
+for the soul is dead that slumbers, \
+and things are not what they seem.
+
+Life is real! life is earnest! \
+and the grave is not its goal; \
+"dust thou art, to dust returnest," \
+was not spoken to the soul.
+
+Not enjoyment, and not sorrow, \
+is our designed end or way; \
+but to act, that each to-morrow \
+find us farther than to-day.
+
+Art is long, and time is fleeting, \
+and our hearts, though stout and brave, \
+still, like muffled drums, are beating \
+funeral marches to the grave.
+
+<!-- BEGIN p 30 -->
+
+In the world's broad field of battle, \
+in the bivouac of life, \
+be not like dumb, driven cattle! \
+be a hero in the strife!
+
+Trust no future, howe'er pleasant! \
+let the dead past bury its dead! \
+act — act in the living present! \
+heart within, and God o'erhead!
+
+Lives of great men all remind us, \
+we can make our lives sublime, \
+and, departing, leave behind us \
+footprints on the sands of time;
+
+footprints, that perhaps another, \
+sailing o'er life's solemn main, \
+a forlorn and shipwrecked brother, \
+seeing, shall take heart again.
+
+Let us, then, be up and doing \
 <!-- BEGIN p 32 -->
+with a heart for any fate; \
+still achieving, still pursuing, \
+learn to labour and to wait.
+
+
 
 ### The House-Dog and the Wolf
+
+
+<!-- BEGIN p 34 -->
+
 
 ### Characteristics of the Age
 
