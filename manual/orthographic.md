@@ -1488,6 +1488,7 @@ When convenient, a final consonant may be written across the up-stroke of an ini
 ![s intersecting p]({{ S }}/sXp.jpg "s intersecting p") = **satrap** etc.
 
 ***
+
 <!-- BEGIN p 28 -->
 ## Specimens
 _Of the following Specimens
@@ -1550,8 +1551,47 @@ learn to labour and to wait.
 
 ### The House-Dog and the Wolf
 
+A lean half-starved wolf happened to meet a fat, well-fed house-dog one bright night.
+'Good evening,' said the wolf.
+'How do you do?' replied the dog.
+After some conversation, the wolf remarked:
+'How is it, my friend, that you look so sleek?
+I'm travelling about everywhere,
+and working hard night and day for a living,
+and yet I'm always on the point of starvation.'
+'Well,' replied the dog,
+if you want to be as comfortable as I am,
+you have only to do as I do.'
+'Indeed, and what is that?'
+'Why, nothing, except to guard the master's house, and keep off thieves.'
+'With all my heart; for at present I've but a hard time of it.
+The frost and rain, and the rough life in the woods is too much for me.
+I should be very glad fo have a roof over my head, a warm bed, and a good dinner now and then?'
+'Very well,' replied the dog, 'then you have only to come with me.'
 
+As they were walking along together,
+the wolf happened to notice a mark round his friend's neck.
+'What is that mark on your neck, if you please?'
+'Oh, nothing at all,' said the dog.
+'Nay; but do tell me.'
+'Pooh! just a trifle; it is the mark of the collar my chain is fastened to.'
+'Chain! you don't mean to say they chain you up?
+that you can't roam about
 <!-- BEGIN p 34 -->
+where and when you please?'
+'Why, not exactly perhaps.
+They think I'm rather fierce,
+and tie me up in the daytime;
+but at night I can go where I like.
+Then I have all kind of titbits.
+I get the scraps off my master's plate;
+and I'm such a favourite that —
+but what is the matter?
+where are you going?'
+'Good-bye,' said the wolf,
+'I'm very much obliged to you;
+but I prefer liberty with a dry bone to luxury and comfort in chains.'
+
 
 
 ### Characteristics of the Age
