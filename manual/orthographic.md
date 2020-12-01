@@ -1435,7 +1435,7 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 - again ![g]({{ S }}/g.t.jpg "g"){{T}}
 - against ![gt]({{ S }}/gt.t.jpg "gt"){{T}}
 - all ![mid L]({{ S }}/L_hi.jpg "mid L")
-- almost ![mid L ms]({{ S }}/*Lms.jpg "mid L ms")
+- almost ![mid L ms]({{ S }}/*Lms.t.jpg "mid L ms"){{T}}
 - already ![mid L R]({{ S }}/*LR.jpg "mid L")
 - also ![mid L so]({{ S }}/also.jpg "mid L so")
 - although ![raised AL]({{ S }}/AL_hi.jpg "raised AL")
@@ -1460,7 +1460,7 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 
 <!-- COLUMN 3 -->
 #### E
-- either ![eith]({{ S }}/eith.jpg "eith")
+- either ![eir]({{ S }}/eir.jpg "eir")
 
 #### F
 - for(e), four ![f]({{ S }}/f.jpg "f")
@@ -1468,10 +1468,10 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 - from ![fr]({{ S }}/fr.jpg "fr")
 
 #### H
-- had ![hd]({{ S }}/hd.jpg "hd")
-- has ![hs]({{ S }}/hs.jpg "hs")
-- have ![hs]({{ S }}/hv.jpg "hv")
-- he ![hs]({{ S }}/e.jpg "e")
+- had ![əd]({{ S }}/əd.jpg "əd")
+- has ![əs]({{ S }}/əs.jpg "əs")
+- have ![əv]({{ S }}/əv.jpg "əv")
+- he ![e]({{ S }}/e.jpg "e")
 - her, hers ![r]({{ S }}/r.jpg "r"), ![rs]({{ S }}/rs.jpg "rs")
 - him ![im]({{ S }}/im.jpg "im")
 - his ![is]({{ S }}/is.jpg "is")
