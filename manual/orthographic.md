@@ -394,7 +394,7 @@ The other classes under which consonants fall are partly indicated by their form
 Some of the consonants require special notice.
 
 ##### H
-**h** is generally expressed by the low stroke when initial (at the beginning of a word): ![]({{ S }}/hat.jpg){{T}} **hat.**
+**h** is generally expressed by the low stroke when initial (at the beginning of a word): ![]({{ S }}/hat.t.jpg){{T}} **hat.**
 
 Non-initial **h** is expressed by
 ![]({{ S }}/h.jpg)
@@ -828,6 +828,7 @@ Signs:
 
 - ![raised AL]({{ S }}/AL_hi.jpg "raised AL") = **although**
 - ![w + rising th]({{ S }}/with.jpg "w + rising th") = **with**
+
 
 
 ### List of Characters
@@ -1437,19 +1438,128 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 - almost ![mid L ms]({{ S }}/*Lms.jpg "mid L ms")
 - already ![mid L R]({{ S }}/*LR.jpg "mid L")
 - also ![mid L so]({{ S }}/also.jpg "mid L so")
-- although ![mid L rising TH]({{ S }}/although.jpg "mid L rising TH")
+- although ![raised AL]({{ S }}/AL_hi.jpg "raised AL")
 - altogether ![mid L tr]({{ S }}/altogether.jpg "mid L tr")
 - always ![mid L s]({{ S }}/always.jpg "mid L s")
 - among ![mŋ]({{ S }}/mŋ.t.jpg "mŋ"){{T}}
-
 <!-- COLUMN 2 -->
+- amongst ![mŋs]({{ S }}/mŋs.t.jpg "mŋ"){{T}}
+- and ![-]({{ S }}/and.jpg "-")
+- away ![ai]({{ S }}/ai.jpg "ai")
+
+#### B
+- because ![c]({{ S }}/c.t.jpg "c"){{T}}
+- before ![bf]({{ S }}/bf.jpg "bf")
+- behind ![behnd]({{ S }}/behnd.jpg "behnd")
+- below ![bl]({{ S }}/below.jpg "bl")
+- beneath ![benth]({{ S }}/benth.jpg "benth")
+- between ![bw]({{ S }}/bw.jpg "bw")
+- beyond ![beond]({{ S }}/beond.jpg "beond")
+- both ![c]({{ S }}/bth.t.jpg "bth"){{T}}
+- but ![b]({{ S }}/b.jpg "b")
+
 <!-- COLUMN 3 -->
+#### E
+- either ![eith]({{ S }}/eith.jpg "eith")
+
+#### F
+- for(e), four ![f]({{ S }}/f.jpg "f")
+- fo(u)rth ![fth]({{ S }}/fth.jpg "fth")
+- from ![fr]({{ S }}/fr.jpg "fr")
+
+#### H
+- had ![hd]({{ S }}/hd.jpg "hd")
+- has ![hs]({{ S }}/hs.jpg "hs")
+- have ![hs]({{ S }}/hv.jpg "hv")
+- he ![hs]({{ S }}/e.jpg "e")
+- her, hers ![r]({{ S }}/r.jpg "r"), ![rs]({{ S }}/rs.jpg "rs")
+- him ![im]({{ S }}/im.jpg "im")
+- his ![is]({{ S }}/is.jpg "is")
+- how ![initial h]({{ S }}/h-.t.jpg "initial h"){{T}}
+
+
 
 <!-- BEGIN p 26 -->
 <!-- COLUMN 1 -->
-<!-- COLUMN 2 -->
-<!-- COLUMN 3 -->
+#### I
+- in ![raised n]({{ S }}/n_hi.jpg "raised n")
+- into ![raised nt]({{ S }}/nt_hi.jpg "raised nt")
+- is ![raised s]({{ S }}/s_hi.jpg "raised s")
+- it ![raised t]({{ S }}/t_hi.jpg "raised t")
 
+
+#### N
+- neither ![neir]({{ S }}/neir.jpg "neir")
+- nevertheless ![nls]({{ S }}/nls.jpg "nls")
+- nothing ![nth]({{ S }}/nth.jpg "nth")
+- notwithstanding ![nost]({{ S }}/nost.jpg "nost")
+
+
+#### O
+- of ![raised dot]({{ S }}/of.jpg "raised dot")
+- off ![of]({{ S }}/off.jpg "of")
+- often, orphan ![fn]({{ S }}/fn.jpg "fn")
+- on ![n]({{ S }}/n.jpg "n")
+- one, won ![consonantal w]({{ S }}/w-.jpg "consonantal w")
+- or ![raised tick]({{ S }}/or.jpg "raised tick")
+- other ![o r]({{ S }}/o-r.jpg "o r")
+- our, hour ![er]({{ S }}/er.jpg "er")
+- over ![ver]({{ S }}/ver.jpg "ver")
+
+<!-- COLUMN 2 -->
+#### P
+- perhaps ![pr]({{ S }}/pr.jpg "pr")
+
+
+#### Q
+- quite ![qu]({{ S }}/qu.t.jpg "qu"){{T}}
+
+
+#### R
+- rather ![rer]({{ S }}/rer.jpg "rer")
+
+
+#### S
+- self ![sf]({{ S }}/self.jpg "sf")
+- selves ![sv]({{ S }}/selves.jpg "sv")
+- some, sum ![sm]({{ S }}/sm.jpg "sm")
+- something ![smth]({{ S }}/smth.jpg "smth")
+- sometimes ![smms]({{ S }}/smms.jpg "smms")
+
+
+#### T
+- than ![lowered n]({{ S }}/n_lo.t.jpg "lowered n"){{T}}
+- that ![tht]({{ S }}/tht.jpg "tht")
+- the(e) ![th]({{ S }}/th.jpg "th")
+- therefore ![thf]({{ S }}/thf.jpg "thf")
+- this ![raised th]({{ S }}/th_hi.jpg "raised th")
+- till ![tl]({{ S }}/tl.jpg "tl")
+- to(o) ![t]({{ S }}/t.jpg "t")
+<!-- COLUMN 3 -->
+- together ![ter]({{ S }}/ter.jpg "ter")
+- twice ![ts]({{ S }}/ts.jpg "ts")
+- two ![t]({{ S }}/t.jpg "t")
+
+
+#### U
+- under ![nd]({{ S }}/nd.jpg "nd")
+- underneath ![ndnth]({{ S }}/ndnth.jpg "ndnth")
+- unless ![ul]({{ S }}/ul.jpg "ul")
+- until ![ntl]({{ S }}/ntl.jpg "ntl")
+- unto ![nt]({{ S }}/nt.jpg "nt")
+
+
+#### W
+- wherefore ![whf]({{ S }}/whf.jpg "whf")
+- whether, weather ![wer]({{ S }}/wer.jpg "wer")
+- with ![w + rising th]({{ S }}/with.jpg "w + rising th")
+- without ![wout]({{ S }}/wout.jpg "wout")
+
+
+#### Y
+- you ![consonantal y]({{ S }}/y-.t.jpg "consonantal y"){{T}}
+- your ![consonantal y r]({{ S }}/yr.t.jpg "consonantal y r"){{T}}
+- yours ![consonantal y rs]({{ S }}/yrs.t.jpg "consonantal y rs"){{T}}
 
 
 <!-- BEGIN p 27 -->
