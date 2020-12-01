@@ -1596,6 +1596,25 @@ but I prefer liberty with a dry bone to luxury and comfort in chains.'
 
 ### Characteristics of the Age
 
+The peculiar and distinguishing characteristics of the present age are in every respect remarkable.
+Unquestionably an extraordinary and universal change has commenced in the internal as well as in the external world —
+in the mind of man as well as in the habits of society,
+the one indeed being the necessary consequence of the other.
+A rational consideration of the circumstances in which mankind are at present placed,
+must show us that
+influences of the most important and wonderful character
+have been and are operating
+in such a manner as to bring about
+if not a reformation,
+a thorough revolution in the organization of society.
+Never in the history of the world have
+benevolent and philanthropic institutions for the relief of domestic and public affliction;
+societies for the promotion of manufacturing, commercial and agricultural interests;
+associations for the instruction of the masses, the advancement of literature and science, the development of true political principles;
+for the extension, in short, of every
+
+_[Here the transcription abruptly ends, though the specimen continues for another half a page.]_
+
 <!-- BEGIN p 36 -->
 
 ### The Darning-Needle
