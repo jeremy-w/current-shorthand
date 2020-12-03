@@ -1503,8 +1503,8 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 - one, won ![consonantal w]({{ S }}/w-.jpg "consonantal w")
 - or ![raised tick]({{ S }}/or.jpg "raised tick")
 - other ![o r]({{ S }}/o-r.jpg "o r")
-- our, hour ![er]({{ S }}/er.jpg "er")
-- over ![ver]({{ S }}/ver.jpg "ver")
+- our, hour ![ər]({{ S }}/ər.jpg "ər")
+- over ![vər]({{ S }}/vər.jpg "vər")
 
 <!-- COLUMN 2 -->
 #### P
@@ -1524,7 +1524,7 @@ The ordinary long-hand contractions may of course be used in shorthand as well:
 - selves ![sv]({{ S }}/selves.jpg "sv")
 - some, sum ![sm]({{ S }}/sm.jpg "sm")
 - something ![smth]({{ S }}/smth.jpg "smth")
-- sometimes ![smms]({{ S }}/smms.jpg "smms")
+- sometimes ![smms]({{ S }}/smms.t.jpg "smms"){{T}}
 
 
 #### T
