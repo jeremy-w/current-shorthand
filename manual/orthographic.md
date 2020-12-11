@@ -1609,20 +1609,28 @@ The first three Specimens are accompanied with transliterations._
 
 ### A Psalm of Life
 
+![]({{ S }}/Psalm of Life 1.jpg)
+
 Tell me not, in mournful numbers, \
 "Life is but an empty dream!" \
 for the soul is dead that slumbers, \
 and things are not what they seem.
+
+![]({{ S }}/Psalm of Life 2.jpg)
 
 Life is real! life is earnest! \
 and the grave is not its goal; \
 "dust thou art, to dust returnest," \
 was not spoken to the soul.
 
+![]({{ S }}/Psalm of Life 3.jpg)
+
 Not enjoyment, and not sorrow, \
 is our designed end or way; \
 but to act, that each to-morrow \
 find us farther than to-day.
+
+![]({{ S }}/Psalm of Life 4.jpg)
 
 Art is long, and time is fleeting, \
 and our hearts, though stout and brave, \
@@ -1630,26 +1638,35 @@ still, like muffled drums, are beating \
 funeral marches to the grave.
 
 <!-- BEGIN p 30 -->
+![]({{ S }}/Psalm of Life 5.jpg)
 
 In the world's broad field of battle, \
 in the bivouac of life, \
 be not like dumb, driven cattle! \
 be a hero in the strife!
 
+![]({{ S }}/Psalm of Life 6.jpg)
+
 Trust no future, howe'er pleasant! \
 let the dead past bury its dead! \
 act — act in the living present! \
 heart within, and God o'erhead!
+
+![]({{ S }}/Psalm of Life 7.jpg)
 
 Lives of great men all remind us, \
 we can make our lives sublime, \
 and, departing, leave behind us \
 footprints on the sands of time;
 
+![]({{ S }}/Psalm of Life 8.jpg)
+
 footprints, that perhaps another, \
 sailing o'er life's solemn main, \
 a forlorn and shipwrecked brother, \
 seeing, shall take heart again.
+
+![]({{ S }}/Psalm of Life 9.jpg)
 
 Let us, then, be up and doing \
 <!-- BEGIN p 32 -->
