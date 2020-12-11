@@ -1678,6 +1678,8 @@ learn to labour and to wait.
 
 ### The House-Dog and the Wolf
 
+![]({{ S }}/House-Dog and Wolf 1.jpg)
+
 A lean half-starved wolf happened to meet a fat, well-fed house-dog one bright night.
 'Good evening,' said the wolf.
 'How do you do?' replied the dog.
@@ -1696,13 +1698,19 @@ The frost and rain, and the rough life in the woods is too much for me.
 I should be very glad fo have a roof over my head, a warm bed, and a good dinner now and then?'
 'Very well,' replied the dog, 'then you have only to come with me.'
 
+![]({{ S }}/House-Dog and Wolf 2.jpg)
+
 As they were walking along together,
 the wolf happened to notice a mark round his friend's neck.
 'What is that mark on your neck, if you please?'
 'Oh, nothing at all,' said the dog.
 'Nay; but do tell me.'
 'Pooh! just a trifle; it is the mark of the collar my chain is fastened to.'
-'Chain! you don't mean to say they chain you up?
+'Chain! you don't mean to say
+
+![]({{ S }}/House-Dog and Wolf 3.jpg)
+
+they chain you up?
 that you can't roam about
 <!-- BEGIN p 34 -->
 where and when you please?'
