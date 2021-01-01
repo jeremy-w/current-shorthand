@@ -1810,6 +1810,24 @@ _[Here the transcription abruptly ends, though the specimen continues for anothe
 
 ### Celtic and Old English Literature
 
+<figure>
+ <img src="{{ S }}/Celtic Lit 1.jpg" />
+</figure>
+
 <!-- BEGIN p 41 -->
+
+<figure>
+ <img src="{{ S }}/Celtic Lit 2.jpg" />
+</figure>
+
 <!-- BEGIN p 42 -->
+
+<figure>
+ <img src="{{ S }}/Celtic Lit 3.jpg" />
+</figure>
+
 <!-- BEGIN p 43 -->
+
+<figure>
+ <img src="{{ S }}/Celtic Lit 4.jpg" />
+</figure>
