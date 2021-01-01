@@ -1755,6 +1755,10 @@ but I prefer liberty with a dry bone to luxury and comfort in chains.'
 
 ### Characteristics of the Age
 
+<figure>
+ <img src="Characteristics of the Age 1.jpg" />
+</figure>
+
 The peculiar and distinguishing characteristics of the present age are in every respect remarkable.
 Unquestionably an extraordinary and universal change has commenced in the internal as well as in the external world —
 in the mind of man as well as in the habits of society,
@@ -1775,6 +1779,9 @@ for the extension, in short, of every
 _[Here the transcription abruptly ends, though the specimen continues for another half a page.]_
 
 <!-- BEGIN p 36 -->
+<figure>
+ <img src="Characteristics of the Age 2.jpg" />
+</figure>
 
 ### The Darning-Needle
 <!-- BEGIN p 37 -->
