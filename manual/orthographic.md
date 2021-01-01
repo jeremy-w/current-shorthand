@@ -1784,10 +1784,29 @@ _[Here the transcription abruptly ends, though the specimen continues for anothe
 </figure>
 
 ### The Darning-Needle
+<figure>
+ <img src="{{ S }}/Darning-Needle 1.jpg" />
+</figure>
+
 <!-- BEGIN p 37 -->
+<figure>
+ <img src="{{ S }}/Darning-Needle 2.jpg" />
+</figure>
+
 <!-- BEGIN p 38 -->
+<figure>
+ <img src="{{ S }}/Darning-Needle 3.jpg" />
+</figure>
+
 <!-- BEGIN p 39 -->
+<figure>
+ <img src="{{ S }}/Darning-Needle 4.jpg" />
+</figure>
+
 <!-- BEGIN p 40 -->
+<figure>
+ <img src="{{ S }}/Darning-Needle 5.jpg" />
+</figure>
 
 ### Celtic and Old English Literature
 
