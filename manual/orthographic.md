@@ -1610,7 +1610,7 @@ The first three Specimens are accompanied with transliterations._
 ### A Psalm of Life
 
 <figure>
- <img src="Psalm of Life 1.jpg" />
+ <img src="{{ S }}/Psalm of Life 1.jpg" />
 </figure>
 
 Tell me not, in mournful numbers, \
@@ -1619,7 +1619,7 @@ for the soul is dead that slumbers, \
 and things are not what they seem.
 
 <figure>
- <img src="Psalm of Life 2.jpg" />
+ <img src="{{ S }}/Psalm of Life 2.jpg" />
 </figure>
 
 Life is real! life is earnest! \
@@ -1628,7 +1628,7 @@ and the grave is not its goal; \
 was not spoken to the soul.
 
 <figure>
- <img src="Psalm of Life 3.jpg" />
+ <img src="{{ S }}/Psalm of Life 3.jpg" />
 </figure>
 
 Not enjoyment, and not sorrow, \
@@ -1637,7 +1637,7 @@ but to act, that each to-morrow \
 find us farther than to-day.
 
 <figure>
- <img src="Psalm of Life 4.jpg" />
+ <img src="{{ S }}/Psalm of Life 4.jpg" />
 </figure>
 
 Art is long, and time is fleeting, \
@@ -1647,7 +1647,7 @@ funeral marches to the grave.
 
 <!-- BEGIN p 30 -->
 <figure>
- <img src="Psalm of Life 5.jpg" />
+ <img src="{{ S }}/Psalm of Life 5.jpg" />
 </figure>
 
 In the world's broad field of battle, \
@@ -1656,7 +1656,7 @@ be not like dumb, driven cattle! \
 be a hero in the strife!
 
 <figure>
- <img src="Psalm of Life 6.jpg" />
+ <img src="{{ S }}/Psalm of Life 6.jpg" />
 </figure>
 
 Trust no future, howe'er pleasant! \
@@ -1665,7 +1665,7 @@ act — act in the living present! \
 heart within, and God o'erhead!
 
 <figure>
- <img src="Psalm of Life 7.jpg" />
+ <img src="{{ S }}/Psalm of Life 7.jpg" />
 </figure>
 
 Lives of great men all remind us, \
@@ -1674,7 +1674,7 @@ and, departing, leave behind us \
 footprints on the sands of time;
 
 <figure>
- <img src="Psalm of Life 8.jpg" />
+ <img src="{{ S }}/Psalm of Life 8.jpg" />
 </figure>
 
 footprints, that perhaps another, \
@@ -1683,7 +1683,7 @@ a forlorn and shipwrecked brother, \
 seeing, shall take heart again.
 
 <figure>
- <img src="Psalm of Life 9.jpg" />
+ <img src="{{ S }}/Psalm of Life 9.jpg" />
 </figure>
 
 Let us, then, be up and doing \
@@ -1697,7 +1697,7 @@ learn to labour and to wait.
 ### The House-Dog and the Wolf
 
 <figure>
- <img src="House-Dog and Wolf 1.jpg" />
+ <img src="{{ S }}/House-Dog and Wolf 1.jpg" />
 </figure>
 
 A lean half-starved wolf happened to meet a fat, well-fed house-dog one bright night.
@@ -1719,7 +1719,7 @@ I should be very glad fo have a roof over my head, a warm bed, and a good dinner
 'Very well,' replied the dog, 'then you have only to come with me.'
 
 <figure>
- <img src="House-Dog and Wolf 2.jpg" />
+ <img src="{{ S }}/House-Dog and Wolf 2.jpg" />
 </figure>
 
 As they were walking along together,
@@ -1731,7 +1731,7 @@ the wolf happened to notice a mark round his friend's neck.
 'Chain! you don't mean to say
 
 <figure>
- <img src="House-Dog and Wolf 3.jpg" />
+ <img src="{{ S }}/House-Dog and Wolf 3.jpg" />
 </figure>
 
 they chain you up?
