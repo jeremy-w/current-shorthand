@@ -1756,7 +1756,7 @@ but I prefer liberty with a dry bone to luxury and comfort in chains.'
 ### Characteristics of the Age
 
 <figure>
- <img src="Characteristics of the Age 1.jpg" />
+ <img src="{{ S }}/Characteristics of the Age 1.jpg" />
 </figure>
 
 The peculiar and distinguishing characteristics of the present age are in every respect remarkable.
@@ -1780,7 +1780,7 @@ _[Here the transcription abruptly ends, though the specimen continues for anothe
 
 <!-- BEGIN p 36 -->
 <figure>
- <img src="Characteristics of the Age 2.jpg" />
+ <img src="{{ S }}/Characteristics of the Age 2.jpg" />
 </figure>
 
 ### The Darning-Needle
