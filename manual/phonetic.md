@@ -135,9 +135,117 @@ We call such vowels as (ə) 'weak vowels,' because they occur only in weak sylla
 
 ### General Principles
 
+Consonants are expressed by full-sized characters, such as
+![]({{ O }}/t.jpg) (t),
+![]({{ O }}/s.jpg) (s),
+vowels by small characters,
+as in
+![]({{ S }}/siti.jpg) **city** (siti).
+Some vowels,
+such as
+![(i)]({{ O }}/i.jpg),
+are written on the 'high-mid' level,
+others on the 'low-mid' level,
+such as (ai), as in
+![(nait)]({{ S }}/nait.jpg) **night.**
+Long vowels are expressed by lengthening,
+as in
+![]({{ S }}/siin.jpg)
+**seen, scene** (siin).
+
+The only consonant that is written small is (L),
+expressed by low-mid
+![]({{ O }}/L_lo.jpg)
+before a vowel,
+as in
+![(i)]({{ S }}/lit.jpg) **lit**,
+![(i)]({{ S }}/lain.jpg) **line**,
+by high-mid
+![]({{ O }}/L_hi.jpg)
+after a vowel,
+as in
+![]({{ S }}/tail.jpg) **tile.**
+
+The other consonants are distinguished by projection.
+'Short' consonants, such as
+![(t)]({{ O }}/t.jpg),
+do not project at all.
+Of the 'long' consonants
+some are 'high', such as
+![]({{ O }}/b.jpg) (b),
+some are 'low', such as
+![]({{ O }}/k.jpg){{T}} (k),
+and some are 'tall', such as
+![]({{ O }}/tt.jpg){{T}} (tsh).
+Examples:
+
+- ![(biit)]({{ S }}/biit.jpg) **beat**
+- ![(sik)]({{ S }}/sik.jpg){{T}} **sick**
+- ![(tiitsh)]({{ S }}/tiitsh.jpg){{T}} **teach**
+
+If the vowel before or after a consonant is not written,
+the simple stroke is used to show the presence of a vowel –
+generally (e) or (ə):
+![]({{ S }}/-t.jpg) **ate**
 <!-- BEGIN p 49 -->
+(et),
+![]({{ S }}/dh-siti.jpg) **the city.**
+[Note that **the** is generally run on to the following word.]
+
+If two consonants come together without any vowel between,
+forming a 'consonant-group,'
+they are,
+if possible,
+joined together without any stroke between,
+as in
+![]({{ S }}/bles.jpg) **bless,**
+![]({{ S }}/litl.jpg) **little,**
+![]({{ S }}/bl.jpg),
+![]({{ S }}/tl.jpg)
+being 'ligatures.'
+
+If this cannot be done,
+they are 'crowded' together as closely as possible,
+or written detached with the smallest possible space between,
+as in
+![bitn written with crowded tn]({{ S }}/bitn_crowded.jpg),
+![bitn written with detached tn]({{ S }}/bitn_detached.jpg) **bitten,**
+or else 'grafted' together,
+as in
+![ængshs written with grafted ngsh]({{ S }}/ængshs.jpg){{T}} **anxious.**
+
+But many consonant-groups are expressed by simple characters,
+such as
+![]({{ O }}/tt.jpg){{T}} (tsh).
+Such groups as (st, ts) are expressed by joining the loop of the (s) directly on to the (t),
+as in
+![]({{ S }}/stail.jpg){{T}} **stile, style,**
+![]({{ S }}/sits.jpg){{T}} **sits.**
+
+A consonant-character standing along is used as a 'sign,'
+that is,
+a contraction of some special word or of several words having the same sound:
+![t]({{ O }}/t.jpg) = **to, too, two,**
+![ts]({{ O }}/ts.jpg) = **twice.**
+
+Some contractions are made by writing 'in position' – 'raised' or 'lowered.'
+Thus raised
+![t]({{ O }}/t_hi.jpg) = **it,**
+![raised ts]({{ O }}/ts_hi.jpg) = **its,**
+![lowered n]({{ O }}/n_lo.jpg) = **than.**
+
 
 <!-- BEGIN p 50 -->
+Letters and sounds are distinguished as _initial, medial,_ and _final,_ 
+according as they occur at the beginning,
+in the middle,
+or at the end of a word.
+
+When we express short-hand outlines by ordinary letters,
+we use (-) to denote the stroke,
+as in
+**dh-n** =
+![]({{ S }}/dh-n.jpg) **then.**
 
 ### Vowels
 
