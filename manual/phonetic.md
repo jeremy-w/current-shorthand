@@ -11,7 +11,9 @@ img.tall {
 }
 </style>
 {%- assign S = "/assets/p" | relative_url %}
+{%- assign O = "/assets/o" | relative_url %}
 {%- assign T = '{: .tall }' %}
+{%- assign STRONG = 'ˈ' %}
 
 * Contents
 {: toc }
@@ -19,15 +21,106 @@ img.tall {
 ## The Sounds of English
 <!-- BEGIN p 45 -->
 
+As the ordinary spelling of English does not always show its real pronunciation,
+it is necessary to use a **phonetic** spelling, which we enclose in (parentheses).
+
+Sounds are classed as **Vowels** and **Consonants.**
+
+
 ### Consonants
+
+Consonants are classed according to the place in the mouth where they are formed as:
+
+- **back:** (k, g), (ng) in _sing, think_ (thingk)
+- **front:** (y) in _you_
+- **point** (tongue-point): (t, d, n); (th) in _thin,_ (dh) in _then_; (s, z); (sh), (zh) in _measure_; (r, l)
+- **lip:** (p, b, m; f, v; w).
+
+By 'form' they are classed as:
+
+- **stopped** (stops): (k, g; t, d; p, b)
+- **nasal:** (ng, n m)
+- **open:** (th, dh; s, z; sh, zh; f, v), which are **hiss**-consonants, and (r, l; w, y) which are **vowel-like** consonants.
+
+The stop and hiss consonants go in pairs of **breath** and **voice** consonants:
+
+- **breath:** k, t, p; th, s, sh, f
+- **voice:** g, d, b; dh, z, zh, v.
 
 <!-- BEGIN p 46 -->
 
+The nasals, vowel-like consonants, and vowels occur only voiced.
+
+The vowel-like consonant (y) has nearly the same sound as the vowel (i), and (w) has nearly the same sound as (u) in full.
+
+(h) is something between a breath vowel and a throat consonant.
+
+
 ### Vowels
 
+Vowels are **short, long,** and **diphthongic.**
+In phonetic spelling long vowels are doubled,
+except (ɔ) in _fall,_
+and diphthongs are expressed by writing two different vowels together.
+
+In the following list
+some of the vowels are bracketed together in pairs of short and long;
+but in English
+the long vowels never have exactly the same sounds as any of the short vowels.
+Thus the vowel in _sun,_
+which we write (a),
+really has a sound between (aa) in _father_ and (əə) in _further._
+Sometimes the nearest approach to a long vowel is a diphthong.
+
+- a: as in _sun, son_ (san)
+- aa: as in _father, farther_ (faadhə)
+- ai: as in _time_ (taim)
+- au: as in _house_ (haus)
+- æ: as in _man_ (mæn)
+- the bracketed pair:
+  - e: as in _bred, bread_ (bred)
+  - ei: as in _tale, tail_ (teil)
 <!-- BEGIN p 47 -->
+- eə: as in _there, their_ (dheə)
+- ə: as in _together_ (təgedhə)
+- əə: as in _fir, fur_ (fəə)
+- the bracketed pair:
+  - i: as in _city_ (siti)
+  - ii: as in _see, sea_ (sii)
+- the bracketed pair:
+  - iə: as in _carrier_ (kæriə)
+  - iiə: as in _here, hear_ (hiiə)
+- the bracketed pair:
+  - o: as in _follow_ (folo)
+  - ɔ: as in _fall_ (fɔl)
+- the bracketed pair:
+  - oə: as in _narrower_ (næroə)
+  - ɔə: as in _soar, sore_ (sɔə)
+- oi: as in _boy_ (boi)
+- ou: as in _no, know_ (nou)
+- the bracketed pair:
+  - u: as in _full_ (ful)
+  - uu: as in _too, two_ (tuu)
+- uuə: as in _poor_ (puuə)
+
+There are also **triphthongs,** ending in (ə), such as (aiə) in _fire._
 
 ### Stress
+
+Syllables are uttered with three degrees of **stress** (loudness):
+
+- **strong**
+- **medium**
+- **weak.**
+
+Thus in _contradict_
+the first syllable is medium,
+the second weak,
+the last strong.
+<!-- Sweet actually used an interpunct before the strong syllable, but the vowel notation is already just far enough off from IPA to be a pain. -->
+Strong stress is marked by ({{ STRONG }}) before the beginning of the strong syllable,
+thus (kontrə{{STRONG}}dict).
+We call such vowels as (ə) 'weak vowels,' because they occur only in weak syllables.
 
 <!-- BEGIN p 48 -->
 <!-- Sweet's Headings:
