@@ -164,7 +164,7 @@ by high-mid
 ![]({{ O }}/L_hi.jpg)
 after a vowel,
 as in
-![]({{ S }}/tail.jpg) **tile.**
+![(tail)]({{ S }}/tail.jpg) **tile.**
 
 The other consonants are distinguished by projection.
 'Short' consonants, such as
@@ -174,9 +174,9 @@ Of the 'long' consonants
 some are 'high', such as
 ![]({{ O }}/b.jpg) (b),
 some are 'low', such as
-![]({{ O }}/k.jpg){{T}} (k),
+![]({{ O }}/k.t.jpg){{T}} (k),
 and some are 'tall', such as
-![]({{ O }}/tt.jpg){{T}} (tsh).
+![]({{ O }}/tt.t.jpg){{T}} (tsh).
 Examples:
 
 - ![(biit)]({{ S }}/biit.jpg) **beat**
@@ -189,7 +189,7 @@ generally (e) or (ə):
 ![]({{ S }}/-t.jpg) **ate**
 <!-- BEGIN p 49 -->
 (et),
-![]({{ S }}/dh-siti.jpg) **the city.**
+![(dh-siti)]({{ S }}/dh-siti.jpg) **the city.**
 [Note that **the** is generally run on to the following word.]
 
 If two consonants come together without any vowel between,
@@ -201,7 +201,7 @@ as in
 ![]({{ S }}/bles.jpg) **bless,**
 ![]({{ S }}/litl.jpg) **little,**
 ![]({{ S }}/bl.jpg),
-![]({{ S }}/tl.jpg)
+![]({{ O }}/tl.jpg)
 being 'ligatures.'
 
 If this cannot be done,
@@ -212,7 +212,7 @@ as in
 ![bitn written with detached tn]({{ S }}/bitn_detached.jpg) **bitten,**
 or else 'grafted' together,
 as in
-![ængshs written with grafted ngsh]({{ S }}/ængshs.jpg){{T}} **anxious.**
+![(ængshs) written with grafted ngsh]({{ S }}/ængshs.jpg){{T}} **anxious.**
 
 But many consonant-groups are expressed by simple characters,
 such as
@@ -232,7 +232,7 @@ Some contractions are made by writing 'in position' – 'raised' or 'lowered.'
 Thus raised
 ![t]({{ O }}/t_hi.jpg) = **it,**
 ![raised ts]({{ O }}/ts_hi.jpg) = **its,**
-![lowered n]({{ O }}/n_lo.jpg) = **than.**
+![lowered n]({{ O }}/n_lo.t.jpg){{T}} = **than.**
 
 
 <!-- BEGIN p 50 -->
