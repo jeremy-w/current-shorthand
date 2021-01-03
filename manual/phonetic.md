@@ -267,7 +267,7 @@ as in
   ![(hit)]({{ S }}/hit.jpg) **hit,**
   because (h) is a kind of vowel.
 
-  **Contractions:**
+  Contractions:
 
   - ![]({{ O }}/e_stroke.jpg) by itself, detached, = **are,** and occasionally **a,**
     which is generally distinguished from **are** by being joined to the following word in the same way as **the.**
