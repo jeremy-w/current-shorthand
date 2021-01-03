@@ -198,21 +198,21 @@ they are,
 if possible,
 joined together without any stroke between,
 as in
-![]({{ S }}/bles.jpg) **bless,**
+![]({{ S }}/bl-s.jpg) **bless,**
 ![]({{ S }}/litl.jpg) **little,**
-![]({{ S }}/bl.jpg),
-![]({{ O }}/tl.jpg)
+![bl]({{ S }}/bl.jpg),
+![tl]({{ O }}/tl.jpg)
 being 'ligatures.'
 
 If this cannot be done,
 they are 'crowded' together as closely as possible,
 or written detached with the smallest possible space between,
 as in
-![bitn written with crowded tn]({{ S }}/bitn_crowded.jpg),
-![bitn written with detached tn]({{ S }}/bitn_detached.jpg) **bitten,**
+![(bitn) written with crowded tn]({{ S }}/bitn_crowded.jpg),
+![(bitn) written with detached tn]({{ S }}/bitn_detached.jpg) **bitten,**
 or else 'grafted' together,
 as in
-![(ængshs) written with grafted ngsh]({{ S }}/ængshs.jpg){{T}} **anxious.**
+![(ængshs) written with grafted ngsh]({{ S }}/ængshs.t.jpg){{T}} **anxious.**
 
 But many consonant-groups are expressed by simple characters,
 such as
