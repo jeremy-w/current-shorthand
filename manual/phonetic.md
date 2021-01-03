@@ -180,8 +180,8 @@ and some are 'tall', such as
 Examples:
 
 - ![(biit)]({{ S }}/biit.jpg) **beat**
-- ![(sik)]({{ S }}/sik.jpg){{T}} **sick**
-- ![(tiitsh)]({{ S }}/tiitsh.jpg){{T}} **teach**
+- ![(sik)]({{ S }}/sik.t.jpg){{T}} **sick**
+- ![(tiitsh)]({{ S }}/tiitsh.t.jpg){{T}} **teach**
 
 If the vowel before or after a consonant is not written,
 the simple stroke is used to show the presence of a vowel –
