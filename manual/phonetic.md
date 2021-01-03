@@ -14,6 +14,7 @@ img.tall {
 {%- assign O = "/assets/o" | relative_url %}
 {%- assign T = '{: .tall }' %}
 {%- assign STRONG = 'ˈ' %}
+{% assign NBH = '&#8209;' %}
 
 * Contents
 {: toc }
@@ -291,7 +292,7 @@ as in
   Contractions:
   
   - ![(ii)]({{ O }}/ei.jpg) = **he**
-  - Raised (i) expresses the ending **-ly**:
+  - Raised (i) expresses the ending **{{NBH}}ly**:
     ![(m-ri^i)]({{ S }}/m-ri^i.jpg) **merrily,**
     ![(n--m^i)]({{ S }}/n--m^i.jpg) **namely.**
 
