@@ -288,12 +288,57 @@ as in
   (əmit, sitə),
   medial weak (i) being expressed by the simple stroke.
   
-  **Contractions:**
+  Contractions:
   
   - ![(ii)]({{ O }}/ei.jpg) = **he**
   - Raised (i) expresses the ending **-ly**:
     ![(m-ri^i)]({{ S }}/m-ri^i.jpg) **merrily,**
     ![(n--m^i)]({{ S }}/n--m^i.jpg) **namely.**
+
+- ![]({{ O }}/a.jpg) ![]({{ O }}/ea.jpg)
+  'low up-hook' (ai; aa):
+  ![(ai)]({{ O }}/a.jpg) **I, eye, aye,**
+  ![(maiti)]({{ S }}/maiti.jpg) **mighty**;
+  ![(faast)]({{ S }}/faast.jpg) **fast,**
+  ![(staa)]({{ S }}/staa.jpg) **star.**
+  It will be observed that as there is no short (aa) in English,
+  the short low up-hook ![]({{ O }}/a.jpg)
+  is utilized to express the very frequent dipthong (ai).
+  After some consonants –
+  especially the high down-loop
+  ![]({{ O }}/v.jpg) (v) –
+  these vowels may be written inside the curve:
+  ![(vaast)]({{ S }}/vaast.jpg) **vast,**
+  ![(shain)]({{ S }}/shain.jpg) **shine.**
+
+- ![]({{ O }}/y.jpg) ![]({{ O }}/ey.jpg)
+  ![]({{ O }}/œ.jpg) ![]({{ S }}/uu.jpg)
+  'double up-hook' (yu, yuu; u, uu):
+  ![(yunait)]({{ S }}/yunait.jpg) **unite,**
+  ![(yuun-t)]({{ S }}/yuun-t.jpg) **unit**;
+  ![(kuk)]({{ S }}/kuk.t.jpg){{T}} **cook,**
+  ![(muun)]({{ S }}/muun.jpg) **moon.**
+  In ordinary writing
+  it is not necessary to lengthen the stroke of (yuu):
+  ![(yun-t)]({{ S }}/yun-t.jpg) **unit,**
+  ![(duti)]({{ S }}/duti.jpg) **duty.**
+  
+  Contractions:
+  
+  - ![(yu)]({{ O }}/y.jpg) = **you**
+  - ![(u)]({{ O }}/œ.jpg) = **who**
+
+- ![]({{ O }}/e.jpg) ![]({{ O }}/ee.jpg)
+  'high down-hook' (e; ei):
+  These characters are only occasionally written instead of short and long strokes,
+  but it is often useful to write them when special distinctness is required.
+  Thus
+  ![(eb)]({{ S }}/eb.jpg) is clearer than
+  ![(-b)]({{ S }}/-b.jpg),
+  which might be taken for (əb) as well as (eb).
+  ![]({{ O }}/ee.jpg) is sometimes more convenient than the long stroke,
+  as in
+  ![(beib)]({{ S }}/beib.jpg) **babe.**
 
 <!-- BEGIN p 52 -->
 
