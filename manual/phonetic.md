@@ -219,8 +219,8 @@ such as
 ![]({{ O }}/tt.jpg){{T}} (tsh).
 Such groups as (st, ts) are expressed by joining the loop of the (s) directly on to the (t),
 as in
-![]({{ S }}/stail.jpg){{T}} **stile, style,**
-![]({{ S }}/sits.jpg){{T}} **sits.**
+![]({{ S }}/stail.jpg) **stile, style,**
+![]({{ S }}/sits.jpg) **sits.**
 
 A consonant-character standing along is used as a 'sign,'
 that is,
@@ -249,7 +249,51 @@ as in
 
 ### Vowels
 
+- ![]({{ O }}/stroke_e_ee.jpg) 'short stroke; long stroke' (e, ə; ei):
+  ![]({{ S }}/m-n.jpg) **men,**
+  ![]({{ S }}/-p-n.jpg) **men;**
+  ![]({{ S }}/n--m.jpg) **name.**
+  When the short stroke expresses (ə),
+  it is written as short as possible.
+  Medially, all weak vowels are expressed by the stroke, as in
+  ![(f-n-t-c)]({{ S }}/f-n-t-c.jpg) **phonetic,**
+  ![(s-tl-ng)]({{ S }}/s-tl-ng.jpg) **settling.**
+  
+  The 'low stroke' 
+  ![]({{ O }}/h-.t.jpg){{T}}
+  is used to express (h),
+  as in
+  ![(h-d)]({{ S }}/h-d.jpg) **head,**
+  ![(hit)]({{ S }}/hit.jpg) **hit,**
+  because (h) is a kind of vowel.
+
+  **Contractions:**
+
+  - ![]({{ O }}/e_stroke.jpg) by itself, detached, = **are,** and occasionally **a,**
+    which is generally distinguished from **are** by being joined to the following word in the same way as **the.**
+  - ![]({{ O }}/h-.t.jpg){{T}} = **how**
+
+- ![]({{ O }}/i.jpg) ![]({{ O }}/ei.jpg)
+  'high up-hook' (i, ii):
+  ![(sit)]({{ S }}/sit.jpg) **sit**;
+  ![(siit)]({{ S }}/siit.jpg) **seat.**
+  Initial and final weak (i) are always written in full,
+  as in
+  ![]({{ S }}/imit.jpg) (imit) **emit,**
+  ![(siti)]({{ S }}/siti.jpg) **city,**
+  distinguished from
+  ![(-mit)]({{ S }}/-mit.jpg) **omit,**
 <!-- BEGIN p 51 -->
+  ![(sit-)]({{ S }}/sit-.jpg) **sitter**
+  (əmit, sitə),
+  medial weak (i) being expressed by the simple stroke.
+  
+  **Contractions:**
+  
+  - ![(ii)]({{ O }}/ei.jpg) = **he**
+  - Raised (i) expresses the ending **-ly**:
+    ![(m-ri^i)]({{ S }}/m-ri^i.jpg) **merrily,**
+    ![(n--m^i)]({{ S }}/n--m^i.jpg) **namely.**
 
 <!-- BEGIN p 52 -->
 
