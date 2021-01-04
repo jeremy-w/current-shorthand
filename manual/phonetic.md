@@ -371,8 +371,28 @@ as in
   ![]({{ O }}/ring_r.jpg) –
   the detached form of the down-loop
   ![]({{ S }}/loop_r.jpg).
+  
+- ![]({{ S }}/au_initial.jpg) ![]({{ S }}/au.jpg); ![]({{ S }}/ou.jpg)
+  'low up-loop' (au; ou):
+  ![(nau)]({{ S }}/nau.jpg) **now**;
+  ![(oun)]({{ S }}/oun.jpg) **own.**
+  These vowels may be written inside the curves of certain consonants in the same way as the low up-hook (ai)
+  ![]({{ O }}/a.jpg):
+  ![(shaut)]({{ S }}/shaut.jpg) **shout,**
+  ![(vout)]({{ S }}/vout.jpg) **vote.**
+  
+  Contractions:
+  
+  - Detached ![(au)]({{ S }}/au_initial.jpg) = **out**
+   
+
+- high down-loop
 
 <!-- BEGIN p 53 -->
+
+- low down-loop
+
+- vowel + up-loop
 
 #### Detached Vowels
 
