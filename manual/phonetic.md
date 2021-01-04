@@ -412,6 +412,10 @@ as in
   run on:
   ![(bəəst)]({{ S }}/bəəst.jpg) **burst,**
   ![(kəəs)]({{ S }}/kəəs.t.jpg){{T}} **curse.**
+  
+  **Contractions:**
+  
+  - ![]({{ O }}/ring_r.jpg) = **her**
 
 - low down-loop
 
