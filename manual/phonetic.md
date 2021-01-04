@@ -386,9 +386,32 @@ as in
   - Detached ![(au)]({{ S }}/au_initial.jpg) = **out**
    
 
-- high down-loop
-
+- ![]({{ O }}/r_flavours.jpg);
+  ![]({{ S }}/əə.jpg)
+  'high down-loop'
+  (ə; əə).
+  The short vowel is written only in co tractions, such as
+  ![]({{ O }}/ring_r.jpg) **her,**
+  being otherwise expressed by the simple stroke.
+  The long vowel always keeps its shape when final,
+  as in
+  ![(kəə)]({{ S }}/kəə.t.jpg){{T}} **cur.**
+  Before a consonant
+  the curve may be straightened,
+  as in
+  ![(bəəd)]({{ S }}/bəəd_two_ways.jpg){{T}} **bird.**
+  Before **t, n,** etc.
+  the loop is joined directly on to the consonant,
+  the stroke being shortened,
+  as in
+  ![(-səət)]({{ S }}/-səət.jpg) **assert,**
+  ![(bəən)]({{ S }}/bəən.jpg) **burn.**
+  Before an up-loop consonant
+  it may be expressed by an up-loop
 <!-- BEGIN p 53 -->
+  run on:
+  ![(bəəst)]({{ S }}/bəəst.jpg) **burst,**
+  ![(kəəs)]({{ S }}/kəəs.t.jpg){{T}} **curse.**
 
 - low down-loop
 
