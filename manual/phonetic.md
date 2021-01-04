@@ -343,6 +343,35 @@ as in
 
 <!-- BEGIN p 52 -->
 
+- ![]({{ O }}/a.jpg)
+  'low down-hook' (æ):
+  ![(æd)]({{ S }}/æd.jpg) **add,**
+  ![(kæb)]({{ S }}/kæb.t.jpg){{T}} **cab.**
+
+- ![]({{ O }}/ie.jpg) ![]({{ S }}/ee.jpg)
+  'double down-hook' (yuə, yuuə; uə, uuə):
+  ![(fyuuə)]({{ S }}/fyuuə.jpg) **fewer,**
+  ![(dyuuəl)]({{ S }}/dyuuəl.jpg) **dual, duel**;
+  ![(puə)]({{ S }}/puə.jpg) **poor.**
+  
+  Contractions:
+  
+  - ![(yuuə)]({{ O }}/ie.jpg) = **you are**
+  - ![(uuə)]({{ S }}/ee.jpg) = **who are**
+
+- ![]({{ S }}/o_initial.jpg) ![]({{ S }}/o.jpg); ![]({{ S }}/ɔ.jpg)
+  'high up-loop' (o; ɔ):
+  ![(soro)]({{ S }}/soro.jpg) **sorrow**;
+  ![(ɔt-m)]({{ S }}/ɔt-m.jpg) **autumn.**
+  The first form of the short vowel –
+  the 'round curve' –
+  may be written initially,
+  and is necessary when the vowel is detached,
+  so as to distinguish it from
+  ![]({{ O }}/ring_r.jpg) –
+  the detached form of the down-loop
+  ![]({{ S }}/loop_r.jpg).
+
 <!-- BEGIN p 53 -->
 
 #### Detached Vowels
