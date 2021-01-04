@@ -399,7 +399,7 @@ as in
   Before a consonant
   the curve may be straightened,
   as in
-  ![(bəəd)]({{ S }}/bəəd_two_ways.jpg){{T}} **bird.**
+  ![(bəəd)]({{ S }}/bəəd_both.jpg){{T}} **bird.**
   Before **t, n,** etc.
   the loop is joined directly on to the consonant,
   the stroke being shortened,
@@ -413,13 +413,38 @@ as in
   ![(bəəst)]({{ S }}/bəəst.jpg) **burst,**
   ![(kəəs)]({{ S }}/kəəs.t.jpg){{T}} **curse.**
   
-  **Contractions:**
+  Contractions:
   
   - ![]({{ O }}/ring_r.jpg) = **her**
 
-- low down-loop
+- ![]({{ S }}/a_flavours.jpg);
+  ![]({{ S }}/eə.jpg)
+  low down-loop
+  (a; eə):
+  ![(dal)]({{ S }}/dal.jpg) **dull**;
+  ![(keə)]({{ S }}/keə.jpg) **care,**
+  ![(eəri)]({{ S }}/eəri_both.jpg) **airy.**
 
-- vowel + up-loop
+- up-loop/up-hook followed by an up-loop is used for many vowel + ə combinations:
+  - (iə, iie) as in
+    IMG **carrier,**
+    IMG **career**
+  - (aiə) as in
+    IMG **fire**
+  - (oə, ɔə) as in
+    IMG **follower,**
+    IMG **gnawer, Noah**
+    - However, (ɔə) differs so slightly from (ɔ) that it is generally written in the same way:
+      ![(sɔ)]({{ S }}/sɔ.jpg) **saw, soar, sore**
+  - (auə, ouə) as in
+    IMG **sour,**
+    IMG **shower,**
+    IMG **lower**
+  
+  In the rare combinations (iio, aiau) etc.
+  the detached forms of (o, au) are used,
+  as in
+  IMG **Iolic.**
 
 #### Detached Vowels
 
