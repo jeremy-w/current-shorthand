@@ -427,24 +427,24 @@ as in
 
 - up-loop/up-hook followed by an up-loop is used for many vowel + ə combinations:
   - (iə, iie) as in
-    IMG **carrier,**
-    IMG **career**
+    ![(kæriə)]({{ S }}/kæriə.t.jpg){{T}} **carrier,**
+    ![(k-riiə)]({{ S }}/k-riiə.t.jpg){{T}} **career**
   - (aiə) as in
-    IMG **fire**
+    ![(faiə)]({{ S }}/faiə.jpg) **fire**
   - (oə, ɔə) as in
-    IMG **follower,**
-    IMG **gnawer, Noah**
+    ![(foloə)]({{ S }}/foloə.jpg) **follower,**
+    ![(nɔə)]({{ S }}/nɔə.jpg) **gnawer, Noah**
     - However, (ɔə) differs so slightly from (ɔ) that it is generally written in the same way:
       ![(sɔ)]({{ S }}/sɔ.jpg) **saw, soar, sore**
   - (auə, ouə) as in
-    IMG **sour,**
-    IMG **shower,**
-    IMG **lower**
+    ![(sauə)]({{ S }}/sauə.jpg) **sour,**
+    ![(shauə)]({{ S }}/shauə_both.t.jpg){{T}} **shower,**
+    ![(louə)]({{ S }}/louə.jpg) **lower**
   
   In the rare combinations (iio, aiau) etc.
   the detached forms of (o, au) are used,
   as in
-  IMG **Iolic.**
+  ![(iiolik)]({{ S }}/iiolik.t.jpg){{T}} **Iolic.**
 
 #### Detached Vowels
 
