@@ -343,7 +343,7 @@ as in
 
 <!-- BEGIN p 52 -->
 
-- ![]({{ O }}/a.jpg)
+- ![]({{ O }}/æ.jpg)
   'low down-hook' (æ):
   ![(æd)]({{ S }}/æd.jpg) **add,**
   ![(kæb)]({{ S }}/kæb.t.jpg){{T}} **cab.**
