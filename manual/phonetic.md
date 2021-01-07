@@ -448,6 +448,18 @@ as in
 
 #### Detached Vowels
 
+In the rare cases in which it is necessary to write a low vowel immediately after a high one,
+the low vowel is written detached under the high one:
+![(pompiiai)]({{ S }}/pompiiai.jpg) **Pompeii.** [Jeremy: Sweet's vowel choices here might sound odd to you. Modern English and Latin pronunciations of "Pompeii" would be different. Pronunciation differences aside, it still serves to show how to write a low vowel right after a high vowel. Thanks to Reddit user u/cruxdestruct for [clearing up the pronunciation](https://www.reddit.com/r/shorthand/comments/konqke/sweets_current_shorthand_has_found_a_new_home/gif93hr/) confusion.]
+
+Vowels and strokes may be detached in other cases when convenient.
+Thus **weigher** may be written
+![(w--.-)]({{ S }}/w--.-.jpg)
+or
+![(weiə)]({{ S }}/weiə.jpg),
+where the first uses the long and short strokes and detaches the short stroke so it might clearly be read,
+while the second explicitly writes out both (ei) and (ə) and avoids any need to detach a vowel.
+
 <!-- BEGIN p 54 -->
 
 ### Arbitraries
