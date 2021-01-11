@@ -252,7 +252,7 @@ as in
 
 - ![]({{ O }}/stroke_e_ee.jpg) 'short stroke; long stroke' (e, ə; ei):
   ![]({{ S }}/m-n.jpg) **men,**
-  ![]({{ S }}/-p-n.jpg) **men;**
+  ![]({{ S }}/-p-n.jpg) **a pen;**
   ![]({{ S }}/n--m.jpg) **name.**
   When the short stroke expresses (ə),
   it is written as short as possible.
@@ -264,8 +264,8 @@ as in
   ![]({{ O }}/h-.t.jpg){{T}}
   is used to express (h),
   as in
-  ![(h-d)]({{ S }}/h-d.jpg) **head,**
-  ![(hit)]({{ S }}/hit.jpg) **hit,**
+  ![(h-d)]({{ S }}/h-d.t.jpg){{T}} **head,**
+  ![(hit)]({{ S }}/hit.t.jpg){{T}} **hit,**
   because (h) is a kind of vowel.
 
   Contractions:
