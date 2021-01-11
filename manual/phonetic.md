@@ -257,8 +257,8 @@ as in
   When the short stroke expresses (ə),
   it is written as short as possible.
   Medially, all weak vowels are expressed by the stroke, as in
-  ![(f-n-t-c)]({{ S }}/f-n-t-c.jpg) **phonetic,**
-  ![(s-tl-ng)]({{ S }}/s-tl-ng.jpg) **settling.**
+  ![(f-n-t-c)]({{ S }}/f-n-t-c.t.jpg){{T}} **phonetic,**
+  ![(s-tl-ng)]({{ S }}/s-tl-ng.t.jpg){{T}} **settling.**
   
   The 'low stroke' 
   ![]({{ O }}/h-.t.jpg){{T}}
