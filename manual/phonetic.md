@@ -310,7 +310,7 @@ as in
   ![]({{ O }}/v.jpg) (v) –
   these vowels may be written inside the curve:
   ![(vaast)]({{ S }}/vaast.jpg) **vast,**
-  ![(shain)]({{ S }}/shain.jpg) **shine.**
+  ![(shain)]({{ S }}/shain.t.jpg){{T}} **shine.**
 
 - ![]({{ S }}/u_sequence.jpg)
   'double up-hook' (yu, yuu; u, uu):
