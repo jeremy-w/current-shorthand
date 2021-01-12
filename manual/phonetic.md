@@ -274,7 +274,7 @@ as in
     which is generally distinguished from **are** by being joined to the following word in the same way as **the.**
   - ![]({{ O }}/h-.t.jpg){{T}} = **how**
 
-- ![]({{ O }}/i.jpg) ![]({{ O }}/ei.jpg)
+- ![]({{ S }}/i.jpg) ![]({{ S }}/ii.jpg)
   'high up-hook' (i, ii):
   ![(sit)]({{ S }}/sit.jpg) **sit**;
   ![(siit)]({{ S }}/siit.jpg) **seat.**
@@ -291,19 +291,19 @@ as in
   
   Contractions:
   
-  - ![(ii)]({{ O }}/ei.jpg) = **he**
+  - ![(ii)]({{ S }}/ii.jpg) = **he**
   - Raised (i) expresses the ending **{{NBH}}ly**:
     ![(m-ri^i)]({{ S }}/m-ri^i.jpg) **merrily,**
     ![(n--m^i)]({{ S }}/n--m^i.jpg) **namely.**
 
-- ![]({{ O }}/a.jpg) ![]({{ O }}/ea.jpg)
+- ![]({{ S }}/ai.jpg) ![]({{ S }}/aa.jpg)
   'low up-hook' (ai; aa):
-  ![(ai)]({{ O }}/a.jpg) **I, eye, aye,**
+  ![(ai)]({{ S }}/ai.jpg) **I, eye, aye,**
   ![(maiti)]({{ S }}/maiti.jpg) **mighty**;
   ![(faast)]({{ S }}/faast.jpg) **fast,**
   ![(staa)]({{ S }}/staa.jpg) **star.**
   It will be observed that as there is no short (aa) in English,
-  the short low up-hook ![]({{ O }}/a.jpg)
+  the short low up-hook ![]({{ S }}/ai.jpg)
   is utilized to express the very frequent dipthong (ai).
   After some consonants –
   especially the high down-loop
@@ -312,8 +312,7 @@ as in
   ![(vaast)]({{ S }}/vaast.jpg) **vast,**
   ![(shain)]({{ S }}/shain.jpg) **shine.**
 
-- ![]({{ O }}/y.jpg) ![]({{ O }}/ey.jpg)
-  ![]({{ O }}/œ.jpg) ![]({{ S }}/uu.jpg)
+- ![]({{ S }}/u_sequence.jpg)
   'double up-hook' (yu, yuu; u, uu):
   ![(yunait)]({{ S }}/yunait.jpg) **unite,**
   ![(yuun-t)]({{ S }}/yuun-t.jpg) **unit**;
@@ -326,10 +325,10 @@ as in
   
   Contractions:
   
-  - ![(yu)]({{ O }}/y.jpg) = **you**
-  - ![(u)]({{ O }}/œ.jpg) = **who**
+  - ![(yu)]({{ S }}/yu.jpg) = **you**
+  - ![(u)]({{ S }}/u.jpg) = **who**
 
-- ![]({{ O }}/e.jpg) ![]({{ O }}/ee.jpg)
+- ![]({{ S }}/e.jpg) ![]({{ S }}/ei.jpg)
   'high down-hook' (e; ei):
   These characters are only occasionally written instead of short and long strokes,
   but it is often useful to write them when special distinctness is required.
