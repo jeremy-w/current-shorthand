@@ -385,12 +385,13 @@ as in
   - Detached ![(au)]({{ S }}/au_initial.jpg) = **out**
    
 
-- ![]({{ O }}/r_flavours.jpg);
+- ![]({{ S }}/ə_ring_initial.jpg)
+  ![]({{ S }}/ə_ring.jpg);
   ![]({{ S }}/əə.jpg)
   'high down-loop'
   (ə; əə).
   The short vowel is written only in co tractions, such as
-  ![]({{ O }}/ring_r.jpg) **her,**
+  ![(ə)]({{ S }}/ə_ring_initial.jpg) **her,**
   being otherwise expressed by the simple stroke.
   The long vowel always keeps its shape when final,
   as in
