@@ -342,12 +342,12 @@ as in
 
 <!-- BEGIN p 52 -->
 
-- ![]({{ O }}/æ.jpg)
+- ![]({{ S }}/æ.jpg)
   'low down-hook' (æ):
   ![(æd)]({{ S }}/æd.jpg) **add,**
   ![(kæb)]({{ S }}/kæb.t.jpg){{T}} **cab.**
 
-- ![]({{ O }}/ie.jpg) ![]({{ S }}/ee.jpg)
+- ![]({{ S }}/yuue.jpg) ![]({{ S }}/uue.jpg)
   'double down-hook' (yuə, yuuə; uə, uuə):
   ![(fyuuə)]({{ S }}/fyuuə.jpg) **fewer,**
   ![(dyuuəl)]({{ S }}/dyuuəl.jpg) **dual, duel**;
@@ -355,12 +355,12 @@ as in
   
   Contractions:
   
-  - ![(yuuə)]({{ O }}/ie.jpg) = **you are**
-  - ![(uuə)]({{ S }}/ee.jpg) = **who are**
+  - ![(yuuə)]({{ S }}/yuuə.jpg) = **you are**
+  - ![(uuə)]({{ S }}/uuə.jpg) = **who are**
 
 - ![]({{ S }}/o_initial.jpg) ![]({{ S }}/o.jpg); ![]({{ S }}/ɔ.jpg)
   'high up-loop' (o; ɔ):
-  ![(soro)]({{ S }}/soro.jpg) **sorrow**;
+  ![(sɔro)]({{ S }}/sɔro.jpg) **sorrow**;
   ![(ɔt-m)]({{ S }}/ɔt-m.jpg) **autumn.**
   The first form of the short vowel –
   the 'round curve' –
@@ -376,8 +376,8 @@ as in
   ![(nau)]({{ S }}/nau.jpg) **now**;
   ![(oun)]({{ S }}/oun.jpg) **own.**
   These vowels may be written inside the curves of certain consonants in the same way as the low up-hook (ai)
-  ![]({{ O }}/a.jpg):
-  ![(shaut)]({{ S }}/shaut.jpg) **shout,**
+  ![]({{ S }}/ai.jpg):
+  ![(shaut)]({{ S }}/shaut.t.jpg){{T}} **shout,**
   ![(vout)]({{ S }}/vout.jpg) **vote.**
   
   Contractions:
@@ -398,7 +398,7 @@ as in
   Before a consonant
   the curve may be straightened,
   as in
-  ![(bəəd)]({{ S }}/bəəd_both.jpg){{T}} **bird.**
+  ![(bəəd)]({{ S }}/bəəd.jpg){{T}}, written with the curve of the vowel flattened to readily continue into (d), rather than ![(bəəd)]({{ S }}/bəəd_careful.jpg){{T}}, written with a pause before arcing into (d), for **bird.**
   Before **t, n,** etc.
   the loop is joined directly on to the consonant,
   the stroke being shortened,
