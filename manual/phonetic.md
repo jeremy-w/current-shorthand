@@ -347,7 +347,7 @@ as in
   ![(æd)]({{ S }}/æd.jpg) **add,**
   ![(kæb)]({{ S }}/kæb.t.jpg){{T}} **cab.**
 
-- ![]({{ S }}/yuue.jpg) ![]({{ S }}/uue.jpg)
+- ![]({{ S }}/yuuə.jpg) ![]({{ S }}/uuə.jpg)
   'double down-hook' (yuə, yuuə; uə, uuə):
   ![(fyuuə)]({{ S }}/fyuuə.jpg) **fewer,**
   ![(dyuuəl)]({{ S }}/dyuuəl.jpg) **dual, duel**;
