@@ -360,7 +360,7 @@ as in
 
 - ![]({{ S }}/o_initial.jpg) ![]({{ S }}/o.jpg); ![]({{ S }}/ɔ.jpg)
   'high up-loop' (o; ɔ):
-  ![(sɔro)]({{ S }}/sɔro.jpg) **sorrow**;
+  ![(soro)]({{ S }}/soro.jpg) **sorrow**;
   ![(ɔt-m)]({{ S }}/ɔt-m.jpg) **autumn.**
   The first form of the short vowel –
   the 'round curve' –
