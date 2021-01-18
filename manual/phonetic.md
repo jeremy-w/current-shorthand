@@ -367,9 +367,9 @@ as in
   may be written initially,
   and is necessary when the vowel is detached,
   so as to distinguish it from
-  ![]({{ O }}/ring_r.jpg) –
+  ![circle (ə)]({{ S }}/ə_ring_initial.jpg) –
   the detached form of the down-loop
-  ![]({{ S }}/loop_r.jpg).
+  ![(ə)]({{ S }}/ə_ring.jpg).
   
 - ![]({{ S }}/au_initial.jpg) ![]({{ S }}/au.jpg); ![]({{ S }}/ou.jpg)
   'low up-loop' (au; ou):
@@ -390,7 +390,7 @@ as in
   ![]({{ S }}/əə.jpg)
   'high down-loop'
   (ə; əə).
-  The short vowel is written only in co tractions, such as
+  The short vowel is written only in contractions, such as
   ![(ə)]({{ S }}/ə_ring_initial.jpg) **her,**
   being otherwise expressed by the simple stroke.
   The long vowel always keeps its shape when final,
