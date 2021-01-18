@@ -415,28 +415,35 @@ as in
   
   Contractions:
   
-  - ![]({{ O }}/ring_r.jpg) = **her**
+  - ![]({{ S }}/ə_ring_initial.jpg) = **her**
 
 - ![]({{ S }}/a_flavours.jpg);
   ![]({{ S }}/eə.jpg)
   low down-loop
   (a; eə):
   ![(dal)]({{ S }}/dal.jpg) **dull**;
-  ![(keə)]({{ S }}/keə.jpg) **care,**
-  ![(eəri)]({{ S }}/eəri_both.jpg) **airy.**
+  ![(keə)]({{ S }}/keə.t.jpg){{T}} **care,**
+  ![(eəri)]({{ S }}/eəri_careful.jpg), ![(eəri) with flattened curve]({{ S }}/eəri.jpg) **airy.**
 
-- up-loop/up-hook followed by an up-loop is used for many vowel + ə combinations:
-  - (iə, iie) as in
+- following an up-loop or up-hook with another up-loop is used to add ə to many vowels:
+  - ![]({{ S }}/iə.jpg) ![]({{ S }}/iiə.jpg)
+    (iə, iie) as in
     ![(kæriə)]({{ S }}/kæriə.t.jpg){{T}} **carrier,**
     ![(k-riiə)]({{ S }}/k-riiə.t.jpg){{T}} **career**
-  - (aiə) as in
+  - ![]({{ S }}/aiə.jpg) (aiə) as in
     ![(faiə)]({{ S }}/faiə.jpg) **fire**
-  - (oə, ɔə) as in
+  - ![]({{ S }}/oə.jpg) ![]({{ S }}/ɔə.jpg)
+    (oə, ɔə) as in
     ![(foloə)]({{ S }}/foloə.jpg) **follower,**
     ![(nɔə)]({{ S }}/nɔə.jpg) **gnawer, Noah**
-    - However, (ɔə) differs so slightly from (ɔ) that it is generally written in the same way:
+    - However,
+      ![]({{ S }}/ɔə.jpg) (ɔə)
+      differs so slightly from
+      ![]({{ S }}/ɔ.jpg) (ɔ)
+      that it is generally written in the same way:
       ![(sɔ)]({{ S }}/sɔ.jpg) **saw, soar, sore**
-  - (auə, ouə) as in
+  - ![]({{ S }}/auə.jpg) ![]({{ S }}/ouə.jpg)
+    (auə, ouə) as in
     ![(sauə)]({{ S }}/sauə.jpg) **sour,**
     ![(shauə)]({{ S }}/shauə_both.t.jpg){{T}} **shower,**
     ![(louə)]({{ S }}/louə.jpg) **lower**
