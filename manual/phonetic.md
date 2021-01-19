@@ -471,17 +471,99 @@ while the second explicitly writes out both (ei) and (ə) and avoids any need to
 
 ### Arbitraries
 
+The following marks are written small,
+like vowels,
+to express certain very common words:
+
+- ![]({{ S }}/and.jpg) **and.**
+  Compare the use of the hyphen as a joiner.
+- ![]({{ S }}/or.jpg) **or**
+- ![]({{ S }}/an.jpg) **an**
+- ![]({{ S }}/of.jpg) **of**
+
+Examples:
+
+- ![(nau and dh-n)]({{ S }}/nau and dh-n.jpg) **now and then**
+- ![(nau or n-v-)]({{ S }}/nau or n-v-.jpg) **now or never**
+- ![(an iiə of kɔn)]({{ S }}/an iiə of kɔn.jpg) **an ear of corn**
+
 ### Consonants
 
+#### Size and Projection Show Place
+
+The _place_ of a consonant is shown by its size and projection.
+
+##### Short Point Consonants
+The most numerous class of consonants —
+the point —
+are written short:
+
+- ![]({{ O }}/t.jpg) ![]({{ O }}/d.jpg) ![]({{ O }}/n.jpg) (t, d, n)
+- ![]({{ O }}/s.jpg) ![]({{ O }}/z.jpg) (s, z)
+- ![]({{ S }}/th.jpg) ![]({{ S }}/dh.jpg) (th, dh)
+- ![]({{ O }}/r.jpg) (r)
+
+##### High Lip Consonants
+The lip-consonants are all queen high,
+as being formed high up in the mouth:
+
+- ![]({{ O }}/p.jpg) ![]({{ O }}/b.jpg) ![]({{ O }}/m.jpg) (p, b, m)
+- ![]({{ O }}/f.jpg) ![]({{ O }}/v.jpg) (f, v)
 <!-- BEGIN p 55 -->
+- ![]({{ O }}/w.jpg) (w)
+
+##### Low Back Consonants
+The back- and throat-consonants
+and the front consonant (y)
+are written low:
+
+- ![]({{ O }}/k.jpg) ![]({{ O }}/g.jpg) ![]({{ O }}/ng.jpg) (k, g, ng)
+- ![]({{ O }}/qu.jpg) (h)
+- ![]({{ O }}/y.jpg) (y)
+
+As (sh, zh) are formed further back in the both than (s, z),
+they are written low:
+
+- ![]({{ O }}/sh.jpg) ![]({{ O }}/c.jpg) (sh, zh)
+
+##### Tall Consonant Clusters
+The tall characters are assigned to consonant-groups or compounds,
+mostly containing (sh, zh) or (y),
+such as:
+
+- ![]({{ O }}/tt.jpg) (tsh)
+- ![]({{ O }}/dd.jpg) (dzh)
+- ![]({{ O }}/nn.jpg) (ny)
+
+#### Shape Shows Form
+The _form_ of consonants is shown by their shape.
+
+##### Sharp-Stemmed Breath Stops
+##### Round-Topped Voice Stops
 
 <!-- BEGIN p 56 -->
+##### Round-Bottomed Nasals
+
+##### Table: Shape and Form
+
+##### Up-Looped Hisses
+##### Down-Looped Buzzes
 
 <!-- BEGIN p 57 -->
+#### Consonants Requiring Special Notice
+##### Th, Dh
+##### W, Y, Wh
 
 <!-- BEGIN p 58 -->
+##### R, L, Ry
+##### Initial and Final R
+##### Lei, Eil
 
 <!-- BEGIN p 59 -->
+##### High Vowel + High L
+##### Stroke + Low L
+##### Stem-Wave L, -Lə, Il-
+##### H, Ch
 
 <!-- BEGIN p 60 -->
 
