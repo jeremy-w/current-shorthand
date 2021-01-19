@@ -12,6 +12,7 @@ It is truly and entirely lineal, and it looks really darn fancy written with a b
   - As of 1 January 2021, transcription of the Orthographic manual is complete. (It might in future be enhanced with further section headings and a transcription of the specimens not transcribed in the original manual.)
 - [**Phonetic Current**]({{ "/manual/phonetic" | relative_url }}) describes the phonetic system. The system is described in around 80 handwritten pages. These are followed by about 13 pages of example texts.
   - Transcription is a work in progress.
+  - As of 18 Jan 2021, the text is complete through the initial vowel inventory. Work is underwear on the consonants.
   
 ### Learning the Shorthand
 Sweet was a good phoneticist, but not a good shorthand instructor. At least two regular writers of the shorthand — the journalist Thomas Satchell, who was noted for reliably writing the phonetic style at 150 WPM and teaching many students Current in Japan, and the lawyer FJO Coddington, who used Current in his work — are on record offering to provide or to write a better manual, but the publisher wasn't interested.
