@@ -510,30 +510,30 @@ as being formed high up in the mouth:
 - ![]({{ O }}/p.jpg) ![]({{ O }}/b.jpg) ![]({{ O }}/m.jpg) (p, b, m)
 - ![]({{ O }}/f.jpg) ![]({{ O }}/v.jpg) (f, v)
 <!-- BEGIN p 55 -->
-- ![]({{ O }}/w.jpg) (w)
+- ![]({{ O }}/w-.jpg) (w)
 
 ##### Low Back Consonants
 The back- and throat-consonants
 and the front consonant (y)
 are written low:
 
-- ![]({{ O }}/k.jpg) ![]({{ O }}/g.jpg) ![]({{ O }}/ng.jpg) (k, g, ng)
-- ![]({{ O }}/qu.jpg) (h)
-- ![]({{ O }}/y.jpg) (y)
+- ![]({{ O }}/k.t.jpg){{T}} ![]({{ O }}/g.t.jpg){{T}} ![]({{ O }}/ng.t.jpg){{T}} (k, g, ng)
+- ![]({{ O }}/qu.t.jpg){{T}} (h)
+- ![]({{ O }}/y-.t.jpg){{T}} (y)
 
 As (sh, zh) are formed further back in the both than (s, z),
 they are written low:
 
-- ![]({{ O }}/sh.jpg) ![]({{ O }}/c.jpg) (sh, zh)
+- ![]({{ O }}/sh.t.jpg){{T}} ![]({{ O }}/c.t.jpg){{T}} (sh, zh)
 
 ##### Tall Consonant Clusters
 The tall characters are assigned to consonant-groups or compounds,
 mostly containing (sh, zh) or (y),
 such as:
 
-- ![]({{ O }}/tt.jpg) (tsh)
-- ![]({{ O }}/dd.jpg) (dzh)
-- ![]({{ O }}/nn.jpg) (ny)
+- ![]({{ O }}/tt.t.jpg){{T}} (tsh)
+- ![]({{ O }}/dd.t.jpg){{T}} (dzh)
+- ![]({{ O }}/nn.t.jpg){{T}} (ny)
 
 #### Shape Shows Form
 The _form_ of consonants is shown by their shape.
