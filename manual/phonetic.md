@@ -504,7 +504,7 @@ are written short:
 - ![]({{ O }}/r.jpg) (r)
 
 ##### High Lip Consonants
-The lip-consonants are all queen high,
+The lip-consonants are all written high,
 as being formed high up in the mouth:
 
 - ![]({{ O }}/p.jpg) ![]({{ O }}/b.jpg) ![]({{ O }}/m.jpg) (p, b, m)
