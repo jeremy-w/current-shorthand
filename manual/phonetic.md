@@ -539,9 +539,57 @@ such as:
 The _form_ of consonants is shown by their shape.
 
 ##### Sharp-Stemmed Breath Stops
+Breath stops are expressed by a 'sharp stem' or bar,
+to symbolize their sharp, hard sound and the stoppage of the breath:
+
+- ![]({{ O }}/t.jpg) (t)
+- ![]({{ O }}/p.jpg) (p)
+- ![]({{ O }}/k.t.jpg){{T}} (k)
+- ![]({{ O }}/tt.t.jpg){{T}} (tsh)
+
+Examples:
+
+- ![]({{ S }}/tip-kl.t.jpg){{T}} **typical**
+- ![]({{ S }}/tatsh.t.jpg){{T}} **touch**
+
+(tsh) may also be expressed by the ligature
+![]({{ S }}/t+sh.t.jpg){{T}} (t+sh),
+as in
+![]({{ S }}/t+shitsh-st-.t.jpg){{T}} **Chichester.**
+
+Signs:
+
+- ![(t)]({{ O }}/t.jpg) = **to(o), two**
+- ![(p)]({{ O }}/p.jpg) = **up**
+- ![(k)]({{ O }}/k.t.jpg){{T}} = **because**
+
 ##### Round-Topped Voice Stops
+The corresponding voice stops are expressed by rounding the tops of these stems
+to symbolize the greater softness of the voice stops,
+giving the 'down-hooks':
+
+- ![]({{ O }}/d.jpg) (d)
+- ![]({{ O }}/b.jpg) (b)
+- ![]({{ O }}/g.t.jpg){{T}} (g) 
+- ![]({{ O }}/dd.t.jpg){{T}} (dzh)
+
+Examples:
+
+- ![]({{ S }}/dabl.jpg) **double**
+- ![]({{ S }}/gaid.t.jpg){{T}} **guide**
+- ![]({{ S }}/ridzh.t.jpg){{T}} **ridge**
+
+(dzh) may also be written
+![]({{ S }}/d+sh.t.jpg){{T}} (d+sh),
+as in
+![]({{ S }}/d+shadzh.t.jpg){{T}} **judge.**
 
 <!-- BEGIN p 56 -->
+Signs:
+
+- ![(b)]({{ O }}/b.jpg) = **but**
+- ![(g)]({{ O }}/g.t.jpg){{T}} = **again**
+
 ##### Round-Bottomed Nasals
 
 ##### Table: Shape and Form
