@@ -591,14 +591,76 @@ Signs:
 - ![(g)]({{ O }}/g.t.jpg){{T}} = **again**
 
 ##### Round-Bottomed Nasals
+The consonants most allied to the voice stops are the nasals,
+which are accordingly expressed by inverting the voice-stop characters,
+giving the 'up-hooks':
+
+- ![]({{ O }}/n.jpg) (n)
+- ![]({{ O }}/m.jpg) (m)
+- ![]({{ O }}/ng.t.jpg){{T}} (ng)
+- ![]({{ O }}/nn.t.jpg){{T}} (ny)
+
+Examples:
+
+- ![]({{ S }}/miin-ng.t.jpg){{T}} **meaning**
+- ![]({{ S }}/yuny-n.t.jpg){{T}} **union**
+
+Signs:
+
+- ![(n)]({{ O }}/n.jpg "(n)") = **on**
+- ![raised (n)]({{ O }}/n_hi.jpg "raised (n)") = **in**
 
 ##### Table: Shape and Form
+The following table shows the relations of these three classes of consonants:
 
-##### Up-Looped Hisses
-##### Down-Looped Buzzes
+|             | point | lip | back |
+|          -: | :---: | :-: | :--: |
+| breath stop | ![]({{ O }}/t.jpg) t | ![]({{ O }}/p.jpg) p | ![]({{ O }}/k.t.jpg){{T}} k |
+|  voice stop | ![]({{ O }}/d.jpg) d | ![]({{ O }}/b.jpg) b | ![]({{ O }}/g.t.jpg){{T}} g |
+|       nasal | ![]({{ O }}/n.jpg) n | ![]({{ O }}/m.jpg) m | ![]({{ O }}/ng.t.jpg){{T}} k |
 
-<!-- BEGIN p 57 -->
+##### Up-Looped Hisses, Down-Looped Buzzes
+The breath hisses are expressed by up-loops,
+the corresponding voice consonants or 'buzzes' by down-loops:
+
+|             | point | lip |
+|          -: | :---: | :-: |
+| breath hiss | ![]({{ O }}/s.jpg) s | ![]({{ O }}/f.jpg) f |
+|  voice hiss | ![]({{ O }}/z.jpg) z | ![]({{ O }}/v.jpg) v |
+
+Examples:
+
+- ![]({{ S }}/seif.jpg) **safe**
+- ![]({{ S }}/vis-t.jpg) **visit**
+
+Signs:
+
+- ![raised (s)]({{ S }}/s_hi.jpg "raised s") = **is**
+- ![(f)]({{ S }}/f.jpg "f") = **for, fore, four**
+
+
 #### Consonants Requiring Special Notice
+##### Sh, Zh
+(sh, zh) are reversed,
+the more easily written low down-loop
+![]({{ O }}/sh.t.jpg){{T}}
+being assigned to the more frequent (sh),
+the tall
+<!-- BEGIN p 57 -->
+forms of these characters being used to express their combination with preceding (n):
+
+- ![]({{ O }}/sh.t.jpg){{T}} (sh)
+- ![]({{ O }}/c.t.jpg){{T}} (zh)
+- ![]({{ S }}/zz.t.jpg){{T}} (nsh)
+- ![]({{ S }}/ss.t.jpg){{T}} (nzh)
+
+Examples:
+
+- ![]({{ S }}/ship.t.jpg){{T}} **ship**
+- ![]({{ S }}/ruuzh.t.jpg){{T}} **rouge**
+- ![]({{ S }}/insh.t.jpg){{T}} **inch**
+- ![]({{ S }}/sinzh.t.jpg){{T}} **singe**
+
 ##### Th, Dh
 ##### W, Y, Wh
 
