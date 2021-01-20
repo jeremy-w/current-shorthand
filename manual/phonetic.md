@@ -635,8 +635,8 @@ Examples:
 
 Signs:
 
-- ![raised (s)]({{ S }}/s_hi.jpg "raised s") = **is**
-- ![(f)]({{ S }}/f.jpg "f") = **for, fore, four**
+- ![raised (s)]({{ O }}/s_hi.jpg "raised s") = **is**
+- ![(f)]({{ O }}/f.jpg "f") = **for, fore, four**
 
 
 #### Consonants Requiring Special Notice
@@ -651,8 +651,8 @@ forms of these characters being used to express their combination with preceding
 
 - ![]({{ O }}/sh.t.jpg){{T}} (sh)
 - ![]({{ O }}/c.t.jpg){{T}} (zh)
-- ![]({{ S }}/zz.t.jpg){{T}} (nsh)
-- ![]({{ S }}/ss.t.jpg){{T}} (nzh)
+- ![]({{ O }}/zz.t.jpg){{T}} (nsh)
+- ![]({{ O }}/ss.t.jpg){{T}} (nzh)
 
 Examples:
 
