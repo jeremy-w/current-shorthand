@@ -662,9 +662,78 @@ Examples:
 - ![]({{ S }}/sinzh.t.jpg){{T}} **singe**
 
 ##### Th, Dh
+As (dh) is very frequent initially
+in such words as **the, then,**
+it is expressed by the round curve
+![]({{ S }}/dh.jpg),
+which is a good initial,
+but does not join so well to a preceding character.
+The breath (th) is expressed by
+![]({{ S }}/th.jpg):
+
+- ![]({{ S }}/th.jpg) (th)
+- ![]({{ S }}/dh.jpg) (dh)
+
+Examples:
+
+- ![]({{ S }}/thin.jpg) **thin**
+- ![]({{ S }}/dh-n.jpg) **then**
+- ![]({{ S }}/dh-sauth.jpg) **the south**
+
+The stroke may be drawn through the middle of
+![]({{ S }}/th.jpg) (th),
+as in
+![]({{ S }}/thai.jpg) **thigh.**
+Observe the distinction between
+![]({{ S }}/thii.jpg) (thii)
+and
+![]({{ S }}/thei.jpg) (thei).
+
+Signs:
+
+- ![(th)]({{ S }}/th.jpg) = **thing**
+- ![(dh)]({{ S }}/dh.jpg) = **the, thee**
+- ![raised (dh)]({{ S }}/dh_hi.jpg) = **this**
+
 ##### W, Y, Wh
+The two vowel-like consonants
+(y, w)
+are mainly initial and are therefore expressed by the 'flat curve':
+
+- ![]({{ O }}/w-.jpg) (w)
+- ![]({{ O }}/y-.t.jpg){{T}} (y)
+
+Like ![]({{ S }}/dh.jpg) (dh)'s round curve,
+the flat curve is best as an initial.
+
+Examples:
+
+- ![(wain)]({{ S }}/wain.jpg) **wine**
+- ![(yiiə)]({{ O }}/yiiə.t.jpg){{T}} **year**
+
+The distinction between voice (w) and breath (wh) may generally be neglected in writing
+as it usually is in pronunciation; thus:
+
+- ![(wain)]({{ S }}/wain.jpg) = **whine** as well as **wine.**
+
+When necessary (wh)
 
 <!-- BEGIN p 58 -->
+is expressed by:
+
+- ![a ligature of (w) + (th)]({{ S }}/wh.jpg) (wh), as in
+![(whist-n)]({{ S }}/whist-n.jpg) **Whiston.**
+
+Signs:
+
+- ![]({{ O }}/w-.jpg) = **one, won**
+- ![]({{ O }}/y-.t.jpg){{T}} = **you**
+
+The vowel-stroke before these characters is for convenience written flat:
+
+- ![(aw--)]({{ S }}/aw--.jpg) **a way, away**
+- ![(ayiiə)]({{ O }}/ayiiə.t.jpg){{T}} **a year**
+
 ##### R, L, Ry
 ##### Initial and Final R
 ##### Lei, Eil
