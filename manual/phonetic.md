@@ -549,13 +549,13 @@ to symbolize their sharp, hard sound and the stoppage of the breath:
 
 Examples:
 
-- ![]({{ S }}/tip-kl.t.jpg){{T}} **typical**
-- ![]({{ S }}/tatsh.t.jpg){{T}} **touch**
+- ![(tip-kl)]({{ S }}/tip-kl.t.jpg){{T}} **typical**
+- ![(tatsh)]({{ S }}/tatsh.t.jpg){{T}} **touch**
 
 (tsh) may also be expressed by the ligature
 ![]({{ S }}/t+sh.t.jpg){{T}} (t+sh),
 as in
-![]({{ S }}/t+shitsh-st-.t.jpg){{T}} **Chichester.**
+![(t+shitsh-st-)]({{ S }}/t+shitsh-st-.t.jpg){{T}} **Chichester.**
 
 Signs:
 
@@ -575,14 +575,14 @@ giving the 'down-hooks':
 
 Examples:
 
-- ![]({{ S }}/dabl.jpg) **double**
-- ![]({{ S }}/gaid.t.jpg){{T}} **guide**
-- ![]({{ S }}/ridzh.t.jpg){{T}} **ridge**
+- ![(dabl)]({{ S }}/dabl.jpg) **double**
+- ![(gaid)]({{ S }}/gaid.t.jpg){{T}} **guide**
+- ![(ridzh)]({{ S }}/ridzh.t.jpg){{T}} **ridge**
 
 (dzh) may also be written
 ![]({{ S }}/d+sh.t.jpg){{T}} (d+sh),
 as in
-![]({{ S }}/d+shadzh.t.jpg){{T}} **judge.**
+![(d+shadzh)]({{ S }}/d+shadzh.t.jpg){{T}} **judge.**
 
 <!-- BEGIN p 56 -->
 Signs:
@@ -602,8 +602,8 @@ giving the 'up-hooks':
 
 Examples:
 
-- ![]({{ S }}/miin-ng.t.jpg){{T}} **meaning**
-- ![]({{ S }}/yuny-n.t.jpg){{T}} **union**
+- ![(miin-ng)]({{ S }}/miin-ng.t.jpg){{T}} **meaning**
+- ![(yuny-n)]({{ S }}/yuny-n.t.jpg){{T}} **union**
 
 Signs:
 
@@ -630,8 +630,8 @@ the corresponding voice consonants or 'buzzes' by down-loops:
 
 Examples:
 
-- ![]({{ S }}/seif.jpg) **safe**
-- ![]({{ S }}/vis-t.jpg) **visit**
+- ![(seif)]({{ S }}/seif.jpg) **safe**
+- ![(vis-t)]({{ S }}/vis-t.jpg) **visit**
 
 Signs:
 
@@ -656,10 +656,10 @@ forms of these characters being used to express their combination with preceding
 
 Examples:
 
-- ![]({{ S }}/ship.t.jpg){{T}} **ship**
-- ![]({{ S }}/ruuzh.t.jpg){{T}} **rouge**
-- ![]({{ S }}/insh.t.jpg){{T}} **inch**
-- ![]({{ S }}/sinzh.t.jpg){{T}} **singe**
+- ![(ship)]({{ S }}/ship.t.jpg){{T}} **ship**
+- ![(ruuzh)]({{ S }}/ruuzh.t.jpg){{T}} **rouge**
+- ![(insh)]({{ S }}/insh.t.jpg){{T}} **inch**
+- ![(sinzh)]({{ S }}/sinzh.t.jpg){{T}} **singe**
 
 ##### Th, Dh
 As (dh) is very frequent initially
@@ -676,18 +676,18 @@ The breath (th) is expressed by
 
 Examples:
 
-- ![]({{ S }}/thin.jpg) **thin**
-- ![]({{ S }}/dh-n.jpg) **then**
-- ![]({{ S }}/dh-sauth.jpg) **the south**
+- ![(thin)]({{ S }}/thin.jpg) **thin**
+- ![(dh-n)]({{ S }}/dh-n.jpg) **then**
+- ![(dh-sauth)]({{ S }}/dh-sauth.jpg) **the south**
 
 The stroke may be drawn through the middle of
 ![]({{ S }}/th.jpg) (th),
 as in
-![]({{ S }}/thai.jpg) **thigh.**
+![(thai)]({{ S }}/thai.jpg) **thigh.**
 Observe the distinction between
-![]({{ S }}/thii.jpg) (thii)
+![(thii)]({{ S }}/thii.jpg) (thii)
 and
-![]({{ S }}/thei.jpg) (thei).
+![(thei)]({{ S }}/thei.jpg) (thei).
 
 Signs:
 
