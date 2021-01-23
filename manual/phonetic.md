@@ -154,7 +154,7 @@ as in
 ![]({{ S }}/siin.jpg)
 **seen, scene** (siin).
 
-{: #LperGenPrin}The only consonant that is written small is (L),
+The only consonant that is written small is (L),
 expressed by low-mid
 ![]({{ O }}/L_lo.jpg)
 before a vowel,
@@ -725,8 +725,8 @@ is expressed by:
 
 Signs:
 
-- ![]({{ O }}/w-.jpg) = **one, won**
-- ![]({{ O }}/y-.t.jpg){{T}} = **you**
+- ![(w)]({{ O }}/w-.jpg) = **one, won**
+- ![(y)]({{ O }}/y-.t.jpg){{T}} = **you**
 
 The vowel-stroke before these characters is for convenience written flat:
 
@@ -741,7 +741,7 @@ the tall
 ![]({{ O }}/rr.t.jpg){{T}}
 being used,
 similarly to
-- ![(ny)]({{ O }}/nn.t.jpg){{T}},
+![(ny)]({{ O }}/nn.t.jpg){{T}},
 to express (ry) or (ri) before a vowel:
 
 
@@ -751,9 +751,9 @@ to express (ry) or (ri) before a vowel:
 
 Examples:
 
-- ![{{ S }}](riir-ng.t.jpg){{T}} **rearing**
-- ![{{ S }}](lir-k.t.jpg){{T}} **lyric**
-- ![{{ S }}](b-ry-l.t.jpg){{T}} **burial**
+- ![(riir-ng)]({{ S }}/riir-ng.t.jpg){{T}} **rearing**
+- ![(lir-k)]({{ S }}/lir-k.t.jpg){{T}} **lyric**
+- ![(b-ry-l)]({{ S }}/b-ry-l.t.jpg){{T}} **burial**
 
 ##### An Alternative Initial R
 Initial (r) may also be expressed by the flat curve
@@ -777,7 +777,7 @@ even when a vowel follows, as in
 
 
 ##### L
-As first stated in ['General Principles'](#LperGenPrin),
+As first stated in 'General Principles',
 the only consonant that is written small is (l).
 Before a vowel,
 it is expressed by the low-mid 'wave'
@@ -808,20 +808,20 @@ to express
 <!-- BEGIN p 59 -->
 (eil):
 
-- [(let)]({{ S }}/l-t.jpg) **let**
-- [(leit)]({{ S }}/leit.jpg) **late**
-- [(let)]({{ S }}/pl-z-nt.jpg) **pleasant**
-- [(let)]({{ S }}/pl--t.jpg) **plate**
-- [(t-l)]({{ S }}/t-l.jpg) **tell**
-- [(t--l)]({{ S }}/t--l.jpg) **tale, tail**
-- [(w-lsh)]({{ S }}/w-lsh.t.jpg){{T}} **Welsh**
-- [(w--lz)]({{ S }}/w--lz.jpg) **Wales**
+- ![(let)]({{ S }}/l-t.jpg) **let**
+- ![(leit)]({{ S }}/leit.jpg) **late**
+- ![(let)]({{ S }}/pl-z-nt.jpg) **pleasant**
+- ![(let)]({{ S }}/pl--t.jpg) **plate**
+- ![(t-l)]({{ S }}/t-l.jpg) **tell**
+- ![(t--l)]({{ S }}/t--l.jpg) **tale, tail**
+- ![(w-lsh)]({{ S }}/w-lsh.t.jpg){{T}} **Welsh**
+- ![(w--lz)]({{ S }}/w--lz.jpg) **Wales**
 
 A vowel-stroke is added to final (lei)
 and prefixed to initial (eil):
 
-- [(l--)]({{ S }}/l--.jpg) **lay**, [(pl--)]({{ S }}/pl--.jpg) **play**
-- [(--l)]({{ S }}/--l.jpg) **ale, ail**
+- ![(l--)]({{ S }}/l--.jpg) **lay**, ![(pl--)]({{ S }}/pl--.jpg) **play**
+- ![(--l)]({{ S }}/--l.jpg) **ale, ail**
 
 ###### High Vowel + High L
 When a high vowel is written before high
@@ -833,8 +833,8 @@ the length of the vowel is best shown by lengthening the wave of the (l), as in
 ###### Stroke + Low L
 A vowel-stroke before low (l) must be written under the line:
 
-- [(-l-t-)]({{ S }}/-l-t-.t.jpg){{T}} **a letter**
-- [(-l--)]({{ S }}/-l--.t.jpg){{T}} **allay** [[(-lm)]({{ S }}/-lm.jpg) **elm**]
+- ![(-l-t-)]({{ S }}/-l-t-.t.jpg){{T}} **a letter**
+- ![(-l--)]({{ S }}/-l--.t.jpg){{T}} **allay** [![(-lm)]({{ S }}/-lm.jpg) **elm**]
 
 
 ###### Stem-Wave L, -Lə, Il-
@@ -843,9 +843,9 @@ In some cases (l) is expressed by the 'stem-wave'
 which always implies a following vowel.
 It is necessary when consonant + vowel + (l) is followed by a low vowel,
 as in
-[(m-lain)]({{ S }}/m-lain.jpg) **malign,**
+![(m-lain)]({{ S }}/m-lain.jpg) **malign,**
 unless a break is made by writing
-[(m-l.ain) with detached (ai)]({{ S }}/m-l.ain.jpg).
+![(m-l.ain) with detached (ai)]({{ S }}/m-l.ain.jpg).
 
 Final stem-wave
 ![(l)]({{ O }}/L_vert.jpg)
