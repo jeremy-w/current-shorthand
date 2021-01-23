@@ -808,10 +808,10 @@ to express
 <!-- BEGIN p 59 -->
 (eil):
 
-- ![(let)]({{ S }}/l-t.jpg) **let**
+- ![(l-t)]({{ S }}/l-t.jpg) **let**
 - ![(leit)]({{ S }}/leit.jpg) **late**
-- ![(let)]({{ S }}/pl-z-nt.jpg) **pleasant**
-- ![(let)]({{ S }}/pl--t.jpg) **plate**
+- ![(pl-z-nt)]({{ S }}/pl-z-nt.jpg) **pleasant**
+- ![(pl--t)]({{ S }}/pl--t.jpg) **plate**
 - ![(t-l)]({{ S }}/t-l.jpg) **tell**
 - ![(t--l)]({{ S }}/t--l.jpg) **tale, tail**
 - ![(w-lsh)]({{ S }}/w-lsh.t.jpg){{T}} **Welsh**
