@@ -746,7 +746,7 @@ to express (ry) or (ri) before a vowel:
 
 
 - ![]({{ O }}/r.jpg) (r)
-- ![]({{ O }}/L.jpg) (l)
+- ![]({{ O }}/L_lo.jpg) (l)
 - ![]({{ O }}/rr.t.jpg){{T}} (ry)
 
 Examples:
