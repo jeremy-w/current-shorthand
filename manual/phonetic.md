@@ -154,7 +154,7 @@ as in
 ![]({{ S }}/siin.jpg)
 **seen, scene** (siin).
 
-The only consonant that is written small is (L),
+{: #LperGenPrin}The only consonant that is written small is (L),
 expressed by low-mid
 ![]({{ O }}/L_lo.jpg)
 before a vowel,
@@ -734,13 +734,133 @@ The vowel-stroke before these characters is for convenience written flat:
 - ![(ayiiə)]({{ O }}/ayiiə.t.jpg){{T}} **a year**
 
 ##### R, L, Ry
-##### Initial and Final R
-##### Lei, Eil
+The likeness of sound between (r) and (l) is shown in the likeness of their symbols,
+(r) being expressed by the 'double hook',
+(l) by the flattened double hook or 'wave',
+the tall
+![]({{ O }}/rr.t.jpg){{T}}
+being used,
+similarly to
+- ![(ny)]({{ O }}/nn.t.jpg){{T}},
+to express (ry) or (ri) before a vowel:
 
+
+- ![]({{ O }}/r.jpg) (r)
+- ![]({{ O }}/L.jpg) (l)
+- ![]({{ O }}/rr.t.jpg){{T}} (ry)
+
+Examples:
+
+- ![{{ S }}](riir-ng.t.jpg){{T}} **rearing**
+- ![{{ S }}](lir-k.t.jpg){{T}} **lyric**
+- ![{{ S }}](b-ry-l.t.jpg){{T}} **burial**
+
+##### An Alternative Initial R
+Initial (r) may also be expressed by the flat curve
+![]({{ S }}/r-.jpg),
+which is however liable to be confused with the round curve
+![]({{ S }}/dh.jpg):
+
+- ![]({{ S }}/r--n.jpg) **rain** [![]({{ S }}/dh-r--n.jpg) **the rain**]
+
+##### Final R Is Always Dropped
+In English,
+final (r) is always dropped except before a word beginning with a vowel;
+so, as in Shorthand we always write the shortest forms,
+we ignore final (r) altogether,
+writing not only
+![(kaad)]({{ S }}/kaad.t.jpg){{T}} **card**
+but
+![(faa)]({{ S }}/faa.t.jpg){{T}} **far,**
+even when a vowel follows, as in
+![(faa)]({{ S }}/faa.t.jpg){{T}} ![(aw--)]({{ S }}/aw--.jpg) **far away.**
+
+
+##### L
+As first stated in ['General Principles'](#LperGenPrin),
+the only consonant that is written small is (l).
+Before a vowel,
+it is expressed by the low-mid 'wave'
+![]({{ O }}/L_lo.jpg),
+as in:
+
+- ![(i)]({{ S }}/lit.jpg) **lit**
+- ![(i)]({{ S }}/lain.jpg) **line**
+
+After a vowel,
+it is expressed by the high-mid wave
+![]({{ O }}/L_hi.jpg),
+as in:
+
+- ![(tail)]({{ S }}/tail.jpg) **tile**
+
+Signs:
+
+- ![high (l)]({{ O }}/L_hi.jpg) = **all**
+
+###### Lei, Eil
+Long low wave
+![]({{ O }}/LL.jpg)
+is used to express (lei),
+long high wave
+![]({{ O }}/LL_hi.jpg)
+to express
 <!-- BEGIN p 59 -->
-##### High Vowel + High L
-##### Stroke + Low L
-##### Stem-Wave L, -Lə, Il-
+(eil):
+
+- [(let)]({{ S }}/l-t.jpg) **let**
+- [(leit)]({{ S }}/leit.jpg) **late**
+- [(let)]({{ S }}/pl-z-nt.jpg) **pleasant**
+- [(let)]({{ S }}/pl--t.jpg) **plate**
+- [(t-l)]({{ S }}/t-l.jpg) **tell**
+- [(t--l)]({{ S }}/t--l.jpg) **tale, tail**
+- [(w-lsh)]({{ S }}/w-lsh.t.jpg){{T}} **Welsh**
+- [(w--lz)]({{ S }}/w--lz.jpg) **Wales**
+
+A vowel-stroke is added to final (lei)
+and prefixed to initial (eil):
+
+- [(l--)]({{ S }}/l--.jpg) **lay**, [(pl--)]({{ S }}/pl--.jpg) **play**
+- [(--l)]({{ S }}/--l.jpg) **ale, ail**
+
+###### High Vowel + High L
+When a high vowel is written before high
+![(l)]({{ O }}/L.jpg),
+the length of the vowel is best shown by lengthening the wave of the (l), as in
+![(fiil)](fiil.jpg) **feel** compared with
+![(fil)](fil.jpg) **fill.**
+
+###### Stroke + Low L
+A vowel-stroke before low (l) must be written under the line:
+
+- [(-l-t-)]({{ S }}/-l-t-.t.jpg){{T}} **a letter**
+- [(-l--)]({{ S }}/-l--.t.jpg){{T}} **allay** [[(-lm)]({{ S }}/-lm.jpg) **elm**]
+
+
+###### Stem-Wave L, -Lə, Il-
+In some cases (l) is expressed by the 'stem-wave'
+![(l)]({{ O }}/L_vert.jpg),
+which always implies a following vowel.
+It is necessary when consonant + vowel + (l) is followed by a low vowel,
+as in
+[(m-lain)]({{ S }}/m-lain.jpg) **malign,**
+unless a break is made by writing
+[(m-l.ain) with detached (ai)]({{ S }}/m-l.ain.jpg).
+
+Final stem-wave
+![(l)]({{ O }}/L_vert.jpg)
+expresses (lə), as in:
+
+- ![(s-lə)]({{ S }}/s-lə.jpg) **seller, cellar**
+- ![(s--lə)]({{ S }}/s--lə.jpg) **sailer, sailor**
+
+Initially it is utilized to express (il),
+so as to avoid inconvenient joins:
+
+- ![(il--t)]({{ S }}/il--t.jpg) **elate**
+- ![(ilyum-n)]({{ S }}/ilyum-n.jpg) **illumine**
+
+
 ##### H, Ch
 
 <!-- BEGIN p 60 -->
