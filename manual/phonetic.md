@@ -862,8 +862,20 @@ so as to avoid inconvenient joins:
 
 
 ##### H, Ch
+(h), the open throat consonant,
+is expressed by the low circle
+![]({{ O }}/qu.t.jpg){{T}},
+but oftenest by the low stroke
+![]({{ O }}/h-.t.jpg){{T}}.
+The circle is, however, sometimes more convenient, as in the combination
+(hei):
 
+- ![(h--st)]({{ O }}/h--st.t.jpg){{T}} **haste.**
+
+It is also used to express
 <!-- BEGIN p 60 -->
+Scotch **ch** in **loch**
+![(loch)]({{ O }}/loch.t.jpg){{T}}.
 
 #### Consonant Groups
 
