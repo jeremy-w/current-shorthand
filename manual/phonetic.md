@@ -717,7 +717,6 @@ as it usually is in pronunciation; thus:
 - ![(wain)]({{ S }}/wain.jpg) = **whine** as well as **wine.**
 
 When necessary (wh)
-
 <!-- BEGIN p 58 -->
 is expressed by:
 
