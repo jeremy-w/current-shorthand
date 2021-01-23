@@ -709,7 +709,7 @@ the flat curve is best as an initial.
 Examples:
 
 - ![(wain)]({{ S }}/wain.jpg) **wine**
-- ![(yiiə)]({{ O }}/yiiə.t.jpg){{T}} **year**
+- ![(yiiə)]({{ S }}/yiiə.t.jpg){{T}} **year**
 
 The distinction between voice (w) and breath (wh) may generally be neglected in writing
 as it usually is in pronunciation; thus:
