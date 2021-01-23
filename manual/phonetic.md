@@ -630,7 +630,7 @@ the corresponding voice consonants or 'buzzes' by down-loops:
 
 Examples:
 
-- ![(seif)]({{ S }}/seif.jpg) **safe**
+- ![(s--f)]({{ S }}/s--f.jpg) **safe**
 - ![(vis-t)]({{ S }}/vis-t.jpg) **visit**
 
 Signs:
@@ -687,7 +687,7 @@ as in
 Observe the distinction between
 ![(thii)]({{ S }}/thii.jpg) (thii)
 and
-![(thei)]({{ S }}/thei.jpg) (thei).
+![(th--)]({{ S }}/th--.jpg) (thei).
 
 Signs:
 
@@ -730,8 +730,8 @@ Signs:
 
 The vowel-stroke before these characters is for convenience written flat:
 
-- ![(aw--)]({{ S }}/aw--.jpg) **a way, away**
-- ![(ayiiə)]({{ O }}/ayiiə.t.jpg){{T}} **a year**
+- ![(-w--)]({{ S }}/-w--.jpg) **a way, away**
+- ![(-yiiə)]({{ O }}/-yiiə.t.jpg){{T}} **a year**
 
 ##### R, L, Ry
 The likeness of sound between (r) and (l) is shown in the likeness of their symbols,
@@ -773,7 +773,7 @@ writing not only
 but
 ![(faa)]({{ S }}/faa.t.jpg){{T}} **far,**
 even when a vowel follows, as in
-![(faa)]({{ S }}/faa.t.jpg){{T}} ![(aw--)]({{ S }}/aw--.jpg) **far away.**
+![(faa)]({{ S }}/faa.t.jpg){{T}} ![(-w--)]({{ S }}/-w--.jpg) **far away.**
 
 
 ##### L
