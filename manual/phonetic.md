@@ -485,7 +485,7 @@ Examples:
 
 - ![(nau and dh-n)]({{ S }}/nau and dh-n.jpg) **now and then**
 - ![(nau or n-v-)]({{ S }}/nau or n-v-.jpg) **now or never**
-- ![(an iiə of kɔn)]({{ S }}/an iiə of kɔn.jpg) **an ear of corn**
+- ![(an iiə of kɔn)]({{ S }}/an iiə of kɔn.t.jpg){{T}} **an ear of corn**
 
 ### Consonants
 
