@@ -631,7 +631,7 @@ the corresponding voice consonants or 'buzzes' by down-loops:
 Examples:
 
 - ![(s--f)]({{ S }}/s--f.jpg) **safe**
-- ![(vis-t)]({{ S }}/vis-t.jpg) **visit**
+- ![(vis-t)]({{ S }}/viz-t.jpg) **visit**
 
 Signs:
 
