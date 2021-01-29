@@ -771,9 +771,9 @@ we ignore final (r) altogether,
 writing not only
 ![(kaad)]({{ S }}/kaad.t.jpg){{T}} **card**
 but
-![(faa)]({{ S }}/faa.t.jpg){{T}} **far,**
+![(faa)]({{ S }}/faa.jpg) **far,**
 even when a vowel follows, as in
-![(faa)]({{ S }}/faa.t.jpg){{T}} ![(-w--)]({{ S }}/-w--.jpg) **far away.**
+![(faa)]({{ S }}/faa.jpg) ![(-w--)]({{ S }}/-w--.jpg) **far away.**
 
 
 ##### L
