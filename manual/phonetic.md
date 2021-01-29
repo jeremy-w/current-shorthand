@@ -677,7 +677,7 @@ The breath (th) is expressed by
 Examples:
 
 - ![(thin)]({{ S }}/thin.jpg) **thin**
-- ![(dh-n)]({{ S }}/dh-n.jpg) **then**
+- ![(dh-n)]({{ S }}/dhn.jpg) **then**
 - ![(dh-sauth)]({{ S }}/dh-sauth.jpg) **the south**
 
 The stroke may be drawn through the middle of
@@ -693,7 +693,7 @@ Signs:
 
 - ![(th)]({{ S }}/th.jpg) = **thing**
 - ![(dh)]({{ S }}/dh.jpg) = **the, thee**
-- ![raised (dh)]({{ S }}/dh_hi.jpg) = **this**
+- ![raised (dh)]({{ O }}/th_hi.jpg) = **this**
 
 ##### W, Y, Wh
 The two vowel-like consonants
