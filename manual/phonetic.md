@@ -731,7 +731,7 @@ Signs:
 The vowel-stroke before these characters is for convenience written flat:
 
 - ![(-w--)]({{ S }}/-w--.jpg) **a way, away**
-- ![(-yiiə)]({{ O }}/-yiiə.t.jpg){{T}} **a year**
+- ![(-yiiə)]({{ S }}/-yiiə.t.jpg){{T}} **a year**
 
 ##### R, L, Ry
 The likeness of sound between (r) and (l) is shown in the likeness of their symbols,
