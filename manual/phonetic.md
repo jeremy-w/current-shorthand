@@ -827,8 +827,8 @@ and prefixed to initial (eil):
 When a high vowel is written before high
 ![(l)]({{ O }}/L_hi.jpg),
 the length of the vowel is best shown by lengthening the wave of the (l), as in
-![(fiil)](fiil.jpg) **feel** compared with
-![(fil)](fil.jpg) **fill.**
+![(fiil)]({{ S }}/fiil.jpg) **feel** compared with
+![(fil)]({{ S }}/fil.jpg) **fill.**
 
 ###### Stroke + Low L
 A vowel-stroke before low (l) must be written under the line:
