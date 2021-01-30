@@ -811,21 +811,21 @@ to express
 - ![(l-t)]({{ S }}/l-t.jpg) **let**
 - ![(leit)]({{ S }}/leit.jpg) **late**
 - ![(pl-z-nt)]({{ S }}/pl-z-nt.jpg) **pleasant**
-- ![(pl--t)]({{ S }}/pl--t.jpg) **plate**
+- ![(pleit)]({{ S }}/pleit.jpg) **plate**
 - ![(t-l)]({{ S }}/t-l.jpg) **tell**
-- ![(t--l)]({{ S }}/t--l.jpg) **tale, tail**
+- ![(teil)]({{ S }}/teil.jpg) **tale, tail**
 - ![(w-lsh)]({{ S }}/w-lsh.t.jpg){{T}} **Welsh**
-- ![(w--lz)]({{ S }}/w--lz.jpg) **Wales**
+- ![(weilz)]({{ S }}/weilz.jpg) **Wales**
 
 A vowel-stroke is added to final (lei)
 and prefixed to initial (eil):
 
-- ![(l--)]({{ S }}/l--.jpg) **lay**, ![(pl--)]({{ S }}/pl--.jpg) **play**
-- ![(--l)]({{ S }}/--l.jpg) **ale, ail**
+- ![(lei-)]({{ S }}/lei-.jpg) **lay**, ![(plei-)]({{ S }}/plei-.jpg) **play**
+- ![(-eil)]({{ S }}/-eil.jpg) **ale, ail**
 
 ###### High Vowel + High L
 When a high vowel is written before high
-![(l)]({{ O }}/L.jpg),
+![(l)]({{ O }}/L_hi.jpg),
 the length of the vowel is best shown by lengthening the wave of the (l), as in
 ![(fiil)](fiil.jpg) **feel** compared with
 ![(fil)](fil.jpg) **fill.**
@@ -834,7 +834,7 @@ the length of the vowel is best shown by lengthening the wave of the (l), as in
 A vowel-stroke before low (l) must be written under the line:
 
 - ![(-l-t-)]({{ S }}/-l-t-.t.jpg){{T}} **a letter**
-- ![(-l--)]({{ S }}/-l--.t.jpg){{T}} **allay** [![(-lm)]({{ S }}/-lm.jpg) **elm**]
+- ![(-lei-)]({{ S }}/-lei-.t.jpg){{T}} **allay** [![(-lm)]({{ S }}/-lm.jpg) **elm**]
 
 
 ###### Stem-Wave L, -Lə, Il-
