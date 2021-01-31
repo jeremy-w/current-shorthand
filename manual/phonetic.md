@@ -870,12 +870,12 @@ but oftenest by the low stroke
 The circle is, however, sometimes more convenient, as in the combination
 (hei):
 
-- ![(h--st)]({{ O }}/h--st.t.jpg){{T}} **haste.**
+- ![(h--st)]({{ S }}/h--st.t.jpg){{T}} **haste.**
 
 It is also used to express
 <!-- BEGIN p 60 -->
 Scotch **ch** in **loch**
-![(loch)]({{ O }}/loch.t.jpg){{T}}.
+![(loch)]({{ S }}/loch.t.jpg){{T}}.
 
 #### Consonant Groups
 
