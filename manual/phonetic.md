@@ -879,6 +879,74 @@ Scotch **ch** in **loch**
 
 #### Consonant Groups
 
+As there are more simple characters than are required for the simple consonants,
+the superfluous ones are used to express consonant-groups.
+Of these, the tall characters have alreadg been described.
+
+##### nt, mp, nk; nd, mb
+As the 'indented down-hooks'
+![]({{ O }}/nt.jpg) etc.,
+and the 'back-round curves'
+![]({{ O }}/nd.jpg) etc.
+are good finals and bad initials,
+the are assigned to the groups (nt, nd) etc,
+which never occur initially,
+the sharp ending of
+![]({{ O }}/nt.jpg)
+symbolizing the sharp (t):
+
+- **indented down-hooks:**
+  ![]({{ O }}/nt.jpg)
+  ![]({{ O }}/mp.jpg)
+  ![]({{ O }}/nk.t.jpg){{T}}
+  (nt, mp, ngk);
+- **back-round curves:**
+  ![]({{ O }}/nd.jpg)
+  ![]({{ O }}/mb.jpg)
+  (nd, mb).
+
+Examples:
+
+- ![]({{ S }}/w-nt.jpg) **went,**
+  ![]({{ S }}/-mpaiə.jpg) **empire,**
+  ![]({{ O }}/ink.t.jpg){{T}} **ink**;
+- ![]({{ S }}/s-nd.jpg) **send,**
+  ![]({{ S }}/nimbl.jpg) **nimble.**
+
+Signs:
+
+- ![(nt)]({{ O }}/nt.jpg "(nt)") = **unto**
+- ![raised (nt)]({{ O }}/nt_hi.jpg "raised (nt)") = **into**
+- ![(nd)]({{ O }}/nd.jpg "(nd)") = **under**
+
+##### ngg
+The low back-round curve being inconvenient,
+(ngg) is expressed by looped-up (ng):
+
+- ![]({{ S }}/lingg-.t.jpg){{T}} **linger**
+- ![]({{ S }}/tænggl.t.jpg){{T}} **tangle**
+
+##### kw, ly
+The 'double hook' has been previously introduced as the short double-hook
+![]({{ O }}/r.jpg) (r)
+and the tall double-hook
+![]({{ O }}/rr.t.jpg){{T}} (ry).
+In its high and low forms, it is used to express:
+
+- ![high double-hook]({{ S }}/kw.jpg) (kw)
+- ![low double-hook]({{ S }}/ly.t.jpg){{T}} (ly)
+
+Examples:
+
+- ![]({{ S }}/kwik.t.jpg){{T}} **quick,**
+  ![]({{ S }}/likw-d.jpg) **liquid**
+- ![]({{ S }}/eelyn.t.jpg){{T}} **alien,**
+  ![]({{ S }}/væly.t.jpg){{T}} **value**
+
+Signs:
+
+- ![(kw)]({{ S }}/kw.jpg) = **quite**
+
 <!-- BEGIN p 61 -->
 
 <!-- BEGIN p 62 -->
