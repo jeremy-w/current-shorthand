@@ -948,14 +948,33 @@ Signs:
 - ![(kw)]({{ S }}/kw.jpg) = **quite**
 
 <!-- BEGIN p 61 -->
+##### consonant + (t)
+
+##### combinations with (s, z)
+
 
 <!-- BEGIN p 62 -->
+##### combinations with (r)
+
 
 <!-- BEGIN p 63 -->
+##### consonant + (w)
 
 <!-- BEGIN p 64 -->
+##### other groups expressed by simply joining
+
+###### (l) groups
+
+###### (th) groups
+
+###### s+r for (thr); (thw)
+
+###### double-hook (y) and (w) 
+
+##### raised short consonant beginning a consonant group
 
 <!-- BEGIN p 65 -->
+##### use breaks or grafts to avoid awkard joints
 
 #### Rising Consonants
 
