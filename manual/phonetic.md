@@ -950,10 +950,108 @@ Signs:
 <!-- BEGIN p 61 -->
 ##### consonant + (t)
 
+The combination consonant + (t) is expressed by waving stems and notching curves:
+
+- ![]({{ S }}/pt.jpg), ![]({{ S }}/kt.t.jpg){{T}} (pt, kt)
+- ![]({{ S }}/mt.jpg), ![]({{ S }}/ngt.t.jpg){{T}} (mt, ngt)
+- ![]({{ S }}/ft.jpg), ![]({{ S }}/sht.t.jpg){{T}} (ft, sht)
+
+Examples:
+
+- ![]({{ S }}/æpt.jpg) **apt,** ![]({{ S }}/tækt.t.jpg){{T}} **tact**
+- ![]({{ S }}/-mti.jpg) **empty,** ![]({{ S }}/nstingt.t.jpg){{T}} **instinct**
+- ![]({{ S }}/l-ft.jpg) **left**
+
+These characters are used chiefly where the **t** is radical,
+that is, forms part of the body of the word.
+
+
 ##### combinations with (s, z)
 
+Combinations with (s, z) are expressed by loops:
 
+- ![]({{ S }}/st.jpg), ![]({{ S }}/sp.jpg), ![]({{ S }}/sk.t.jpg){{T}}, ![]({{ S }}/stsh.t.jpg){{T}} (st, sp, sk, stsh)
+- ![]({{ S }}/ts.jpg), ![]({{ S }}/ps.jpg), ![]({{ S }}/ks.t.jpg){{T}} (ts, ps, ks)
+- ![]({{ S }}/pts.jpg), ![]({{ S }}/kts.t.jpg){{T}} (pts, kts)
+- ![]({{ S }}/lz.jpg) (lz)
+
+Examples:
+
+- ![]({{ S }}/st--t.jpg) **state,** ![]({{ S }}/kwaəts.jpg) **quartz, quarts**
+- ![]({{ S }}/spiik.jpg) **speak,** ![]({{ S }}/kops.t.jpg){{T}} **copse**
+- ![]({{ S }}/skai.t.jpg){{T}} **sky,** ![]({{ S }}/siks.t.jpg){{T}} **six**
+- ![]({{ S }}/mistsh-f.t.jpg){{T}} **mischief**
+- ![]({{ S }}/-dopts.jpg) **adopts,** ![]({{ S }}/trækts.t.jpg){{T}} **tracts**
+- ![]({{ S }}/t-ls.jpg) **tells,** - ![]({{ S }}/teils.jpg) **tales**
+
+As there is no such combination as hiss + (s, z),
+the loop after hiss-consonants is used to express
+weak vowel + (z):
+![]({{ S }}/tsh-z.t.jpg){{T}} (tsh-z):
+![]({{ S }}/ritsh-z.t.jpg){{T}} **riches,**
+![]({{ S }}/tiitsh-z.t.jpg){{T}} **teaches.**
+
+- ![]({{ S }}/zb.jpg), ![]({{ S }}/sw.jpg) (zb, sw)
+- ![]({{ S }}/sn.jpg), ![]({{ S }}/sm.jpg), ![]({{ S }}/sf.jpg) (sn, sm, sf)
+
+Examples:
+
+- ![]({{ S }}/huzb-nd.jpg) **husband,** ![]({{ S }}/swift.jpg) **swift**
+- ![]({{ S }}/snou.jpg) **snow,** ![]({{ S }}/smouk.t.jpg){{T}} **smoke,** ![]({{ S }}/sfiiə.jpg) **sphere**
+
+Signs:
+
+- ![raised ts]({{ S }}/ts_hi.jpg "raised ts") = **its, it is (it's)**
+- ![ts]({{ O }}/ts.jpg "ts") = **twice**
+- ![sm]({{ O }}/sm.jpg "sm") = **some, sum**
+
+Consonants ending in an open loop
+add (s, z)
+by looping up the curve.
+As a general rule
+the simple
 <!-- BEGIN p 62 -->
+loop means (z),
+the stroke being drawn through the curve to express (s),
+thus
+![]({{ O }}/nz.jpg) (nz)
+![]({{ O }}/ns.jpg) (ns).
+Combinations in which (z) is impossible are written with the simple loop,
+such as
+![]({{ S }}/fs.jpg) (fs).
+
+- …
+
+Examples:
+
+- …
+
+In the following ligatures,
+the loop implies weak vowel + (z):
+
+Examples:
+
+- …
+
+Such groups as (kst) are expressed by adding the
+'notched double hook',
+which is looped up to add (s):
+
+- …
+
+Examples:
+
+- …
+
+Radical (dz, bz, gz) are expressed by the ligatures:
+
+- …
+
+Examples:
+
+- …
+
+
 ##### combinations with (r)
 
 
