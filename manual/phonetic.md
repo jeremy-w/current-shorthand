@@ -1020,28 +1020,40 @@ Combinations in which (z) is impossible are written with the simple loop,
 such as
 ![]({{ S }}/fs.jpg) (fs).
 
-- …
+- ![]({{ S }}/nz.jpg), ![]({{ S }}/mz.jpg), ![]({{ S }}/ngz.t.jpg){{T}} (nz, mz, ngz)
+- ![]({{ S }}/ndz.jpg), ![]({{ S }}/mbz.jpg) (ndz, mbz)
+- ![]({{ S }}/fs.jpg), ![]({{ S }}/fts.jpg) (fs, fts)
 
 Examples:
 
-- …
+- ![]({{ S }}/sinz.jpg) **sins,** ![]({{ S }}/crimz-n.jpg) **crimson,** ![]({{ S }}/singz.t.jpg){{T}} **sings**
+- ![]({{ S }}/s-ndz.jpg) **sends**
+- ![]({{ S }}/laafs.jpg) **laughs,** ![]({{ S }}/lifts.jpg) **lifts**
 
 In the following ligatures,
 the loop implies weak vowel + (z):
 
+- ![]({{ S }}/s-z.jpg), ![]({{ S }}/zh-z.t.jpg){{T}}, ![]({{ S }}/nzh-z.t.jpg){{T}} (s-z, zh-z, nzh-z)
+- ![]({{ S }}/ny-z.t.jpg){{T}}, ![]({{ S }}/ly-z.t.jpg){{T}}, ![]({{ S }}/ri-z.t.jpg){{T}} (ny-z, ly-z, ri-z)
+- ![]({{ S }}/l-z.jpg) (l-z)
+
 Examples:
 
-- …
+- ![]({{ S }}/mis-z.jpg) **misses,** ![]({{ S }}/m-zh-z.t.jpg){{T}} **measures,** ![]({{ S }}/r--nzh-z.t.jpg) **ranges**
+- ![]({{ S }}/siny-z.t.jpg){{T}} **sinews,** ![]({{ S }}/væly-z.t.jpg){{T}} **values,** ![]({{ S }}/t-ri-z.t.jpg){{T}} **terriers**
+- ![]({{ S }}/s--l-z.jpg) **sailors**
 
 Such groups as (kst) are expressed by adding the
 'notched double hook',
 which is looped up to add (s):
 
-- …
+- ![]({{ S }}/kst.t.jpg){{T}}, ![]({{ S }}/dst.jpg) (kst, dst)
+- ![]({{ S }}/ksts.t.jpg){{T}}, ![]({{ S }}/dsts.jpg) (ksts, dsts)
 
 Examples:
 
-- …
+- ![]({{ S }}/t-kst.t.jpg){{T}} **text,** ![]({{ S }}/t-ksts.t.jpg){{T}} **texts**
+- ![]({{ S }}/midst.jpg) **midst**
 
 Radical (dz, bz, gz) are expressed by the ligatures:
 
