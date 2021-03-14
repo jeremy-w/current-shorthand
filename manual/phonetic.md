@@ -1057,17 +1057,40 @@ Examples:
 
 Radical (dz, bz, gz) are expressed by the ligatures:
 
+- ![]({{ S }}/dz.jpg) (dz) as in ![]({{ S }}/ædz.jpg) **adze**
+- ![]({{ S }}/bz.jpg) (bz)
+- ![]({{ S }}/gz.jpg) as in ![]({{ S }}/zigzæg.t.jpg){{T}} **zigzag**.
+
+
+##### combinations with (r)
+
+###### stem + r uses a back ring
+(r) is added to stems in the form of a 'back ring':
+
+<!-- BEGIN p 63 -->
 - …
 
 Examples:
 
 - …
 
+Signs:
 
-##### combinations with (r)
+- …
+
+Note:
+
+- …
+
+###### up-loop + r uses the circle loop
+
+…
+
+###### down-loop + r uses crowded-on full r
+
+…
 
 
-<!-- BEGIN p 63 -->
 ##### consonant + (w)
 
 <!-- BEGIN p 64 -->
