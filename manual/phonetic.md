@@ -1068,19 +1068,27 @@ Radical (dz, bz, gz) are expressed by the ligatures:
 (r) is added to stems in the form of a 'back ring':
 
 <!-- BEGIN p 63 -->
-- …
+- ![]({{ S }}/tr.jpg), ![]({{ S }}/pr.jpg), ![]({{ S }}/kr.t.jpg){{T}} (tr, pr, kr)
+- ![]({{ S }}/dr.jpg), ![]({{ S }}/br.jpg), ![]({{ S }}/gr.t.jpg){{T}} (dr, br, gr)
+- ![]({{ S }}/str.jpg), ![]({{ S }}/spr.jpg), ![]({{ S }}/skr.t.jpg){{T}} (str, spr, skr)
+- ![]({{ S }}/tshər.t.jpg){{T}}, ![]({{ S }}/dzhər.t.jpg){{T}} (tshər, dzhər)
 
 Examples:
 
-- …
+- ![]({{ S }}/trai.jpg) **try,** ![]({{ S }}/praid.jpg) **pride,** ![]({{ S }}/siikr-t.t.jpg){{T}} **secret**
+- ![]({{ S }}/drai.jpg) **dry,** ![]({{ S }}/brait.jpg) **bright,** ![]({{ S }}/griin.t.jpg){{T}} **green**
+- ![]({{ S }}/striit.jpg) **street,** ![]({{ S }}/spr-d.jpg) **spread,** ![]({{ S }}/skruu.t.jpg){{T}} **screw**
+- ![]({{ S }}/tr-tshəri.t.jpg){{T}} **treachery,** ![]({{ S }}/dradzhəri.t.jpg){{T}} **drudgery**
+
 
 Signs:
 
-- …
+- ![(pr)]({{ S }}/pr.jpg) = **perhaps**
 
 Note:
 
-- …
+- ![]({{ S }}/ktr.t.jpg){{T}} (ktr), ![]({{ S }}/mpr.jpg) (mpr), ![]({{ S }}/ndr.jpg) (ndr), etc., are less convenient,
+  and are generally avoided by contraction.
 
 ###### up-loop + r uses the circle loop
 
