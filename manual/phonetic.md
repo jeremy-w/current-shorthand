@@ -1136,7 +1136,50 @@ Note:
 <!-- BEGIN p 71 -->
 
 ## Contraction
+Contractions make the writing quicker and more compact.  We contract not only by _omission_, but also by the _substitution_ of easier characters of similar sound.  And in contracting we try to get rid of the difficult elements and keep the easiest ones.  The ease of a character depends partly on its brevity, partly on the way in which it joins to other characters.  Although short characters and short strokes are generally easier than long ones, complicated characters are often easier long than short; this is why we exclude 
+![]({{ S }}/excluded contraction.jpg) 
+from our alphabet, while admitting the long 
+![]({{ S }}/included contraction.t.jpg){{T}}.  
+The sharper an angle, the easier it is; but blunt curves are easier than sharp ones.  Hence such an outline as 
+![]({{ S }}/contraction 01.jpg) 
+is apt to become 
+![]({{ S }}/contraction 02.jpg)
+, while 
+![]({{ S }}/contraction 03.jpg) 
+tend to slur or 'degrade' into 
+![]({{ S }}/contraction 04.jpg)
+; so that obtuse angles are not used at all, and right angles very little in good systems of writing.  The most important principle in joining is to avoid _reversal of direction_.  Thus 
+![]({{ S }}/contraction 05.t.jpg){{T}} 
+are much
+<!-- BEGIN p 72 -->
+quicker and easier than 
+![]({{ S }}/contraction 06.t.jpg){{T}} 
+etc.  Hence it is easy to avoid the sharp curve in 
+![]({{ S }}/contraction 07.jpg) 
+by writing 
+![]({{ S }}/contraction 08.jpg).  
+Hence also we write 
+![]({{ S }}/contraction 09.jpg) 
+after up-curves, as in 
+![]({{ S }}/contraction alive.jpg) **alive**
+, ![]({{ S }}/contraction 10.jpg) 
+after down-curves, as in 
+![]({{ S }}/contraction dove.jpg) **dove**.
 
+There are different degrees of contraction, varying in definiteness.  In **Mr. B.**, **B.** is a _free_, **Mr.** a _fixed_ contraction.  Of the fixed contractions of Current Shorthand, some _ called _general_ contractions _ can be brought under under general rules, while others _ the _special_ contractions _ have to be learnt one by one.  The special contractions include _signs_, or contractions of separate words, and contractions of _prefixes_, such as **sub-** and _endings_, such as **-ness**, which we include under 'limb'.  Limb-contraction brings out the 'stem', or body of the word, more clearly, and makes it easier to contract it.
+
+One general rule of contraction is to keep the most prominent elements of a word.  The phonetically prominent elements are the strong (accented) vowels, and the syllables that contain them.  Thus, in **.photograph**, **photo.graphics**, **pho.tography** the most 
+<!-- BEGIN p 73 -->
+prominent syllables are (fou, grae, to), and accordingly we contract these words into 
+![]({{ S }}/contraction 11.t.jpg){{T}} 
+respectively.  From another point of view the most prominent parts of a word are its beginning and end, whether strong or weak, which, accordingly, we keep as often as possible.  All these conditions are fulfilled in such a contraction as 
+![]({{ S }}/contraction idiosyncrasy.jpg) **idiosyncrasy**.
+
+The other main principle is to keep the _distinctive_ elements of a word, that is, those characters by which it is distinguished from other words of similar sound, especially when they are liable to be confounded with it through similarity of meaning.  Thus we cannot distinguish **sit** from **sat** without wriring the vowels, while in **bring** and **brought** the consonant-skeletons are enough to keep the two words apart.  It is evident that the rarer a sound is, the more distinctive it is; thus it would be easier to find out **Mr. Z.** than **Mr. S.**
+
+It is evident that all these principles cannot always be harmonized, and that in practice
+<!-- BEGIN p 74 -->
+we must often sacrifice one to the other, especially when we have to provide a number of signs combing utmost brevity with perfect distinctiveness.
 <!-- BEGIN p 72 -->
 
 <!-- BEGIN p 73 -->
@@ -1270,10 +1313,40 @@ Note:
 <!-- BEGIN p 121 -->
 
 ## Marks
+The alphabet of Current Shorthand has been so devised as to avoid clashing with the ordianry marks of punctuation, except that it is often advisable to notch the hyphen 
+(![]({{ S }}/hyphen.jpg)) 
+so as to make it more distince from 
+![]({{ S }}/and.jpg) = **and**.
 
-<!-- BEGIN p 122 -->
+When a character is written in the margin or between the lines, its position with regard to the line 
+<!-- BEGIN p 122 --> 
+of writing may be shown by dots, thus--
+![]({{ S }}/margin dots.t.jpg){{T}}
 
+When a detached, isolated character is distinctly long, it is assumed to be high unless marked low or tall.
+
+When orthographic and phonetic shorthand are both used, the beginning of an orthographic word or passage may be marked with a short flat stroke, the beginning of a phonetic spelling by a dot, these marks being put under the first character, or, if more convenient, under the first vowel or short consonent, the end of the passage being shown by repeating the mark over one of the last characters; thus
+orthographic: ![]({{ S }}/orthographic stroke.jpg)
+phonetic: ![]({{ S }}/phonetic dot.jpg)
+
+Thus we might write 
+![]({{ S }}/john thomas.jpg) **his name is John Thomas, but he is generally called Johnny**. 
+So also we can distinguish between detached 
+![]({{ S }}/detached a.jpg) **a** 
+and 
+![]({{ S }}/detached ai.jpg) (ai).
+
+When a character that is used as a word or sign is mean to be taken as a single letter or sound, 
 <!-- BEGIN p 123 -->
+it must be underlined or dotted as in 
+![]({{ S }}/single letter sound.jpg) 'to know the letter **t**'.  
+So also by underlining a whole word such as 
+![]({{ S }}/read literally.jpg) 
+we imply that it is to be read literally as (tein) = **ta'en**, not as the sign **taken**.  
+
+The following examples will show how mistakes or want of distinctness in the size, projection, and shape of characters and joints may be most easily corrected:--
+
+![]({{ S }}/marks examples.jpg)
 
 <!-- BEGIN p 124 -->
 
