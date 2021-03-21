@@ -1270,7 +1270,24 @@ Note:
 <!-- BEGIN p 121 -->
 
 ## Marks
+The alphabet of Current Shorthand has been so devised as to avoid clashing with the ordianry marks of punctuation, except that it is often advisable to notch the hyphen (![]({{ S }}/hyphen.jpg)) so as to make it more distince from ![]({{ S }}/and.jpg) = **and**.
 
+When a character is written in the margin or between the lines, its position with regard to the line of writing may be shown by dots, thus--
+![]({{ S }}/margin dots.t.jpg){{T}}
+
+When a detached, isolated character is distinctly long, it is assumed to be high unless marked low or tall.
+
+When orthographic and phonetic shorthand are both used, the beginning of an orthographic word or passage may be marked with a short flat stroke, the beginning of a phonetic spelling by a dot, these marks being put under the first character, or, if more convenient, under the first vowel or short consonent, the end of the passage being shown by repeating the mark over one of the last characters; thus
+orthographic: ![]({{ S }}/orthographic stroke.jpg)
+phonetic: ![]({{ S }}/phonetic dot.jpg)
+
+Thus we might write ![]({{ S }}/john thomas.jpg) **his name is John Thomas, but he is generally called Johnny**.  So also we can distinguish between detached ![]({{ S }}/detached a.jpg) **a** and ![]({{ S }}/detached ai.jpg) (ai).
+
+When a character that is used as a word or sign is mean to be taken as a single letter or sound, it must be underlined or dotted as in ![]({{ S }}/single letter sound.jpg) 'to know the letter **t**'.  So also by underlining a whole word such as ![]({{ S }}/read literally.jpg) we imply that it is to be read literally as (tein) = **ta'en**, not as the sign **taken**.  
+
+The following examples will show how mistakes or want of distinctness in the size, projection, and shape of characters and joints may be most easily corrected:--
+
+![]({{ S }}/marks examples.jpg)
 <!-- BEGIN p 122 -->
 
 <!-- BEGIN p 123 -->
