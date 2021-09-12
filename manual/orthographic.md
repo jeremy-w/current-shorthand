@@ -733,8 +733,11 @@ Final **hs, qs, ques** are written:
   as there is no **sr** in English:
   ![]({{ S }}/thrice.t.jpg){{T}} **thrice**
 - So also **thw** is expressed by
-  ![sw]({{ S }}/sw.jpg "sw"):
+  ![low anti-clockwize loop s + w]({{ S }}/thw.jpg "low anti-clockwise loop s + w"):
   ![]({{ S }}/thwart.jpg) **thwart**
+  - Note that this is distinct from
+    ![]({{ S }}/sw.jpg) **sw,**
+    which uses the high clockwise loop to represent **s.**
 
 ##### forward-ring w
 
